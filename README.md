@@ -2,4 +2,4 @@ SWoPP (Summer United Workshops on Parallel, Distributed and Cooperative Processi
 ======================
 
 - [旧メーリングリストの案内](swopp-ml-old.md)
-- 過去の開催概要
+- 過去の開催概要(準備中)
