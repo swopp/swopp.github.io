@@ -1,7 +1,7 @@
 ---
 title: 時間割概要
 layout: page
-permalink: /overview/
+permalink: /2016/overview/
 ---
 
 | 日          | 時 (発表件数)   | 内容            | 中ホール       | 第1会議室       | 第2会議室      | 国際会議室 |
