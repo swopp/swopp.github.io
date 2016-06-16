@@ -9,7 +9,7 @@
 title: SWoPP2016プログラム
 email: SWoPP2016組織委員会 <swopp16-secretary _at_ googlegroups.com>
 description: 2016年並列／分散／協調処理に関する『松本』サマー・ワークショップ (SWoPP2016) のプログラム
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/2016" # the subpath of your site, e.g. /blog
 url: "http://swopp.github.io" # the base hostname & protocol for your site
 twitter_username: swoppweb
 github_username:  swopp
