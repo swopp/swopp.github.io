@@ -1,4 +1,5 @@
 ---
+title: 時間割概要
 layout: page
 permalink: /overview/
 ---
