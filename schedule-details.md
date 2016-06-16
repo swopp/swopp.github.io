@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /2016-program/
 ---
 
 2016/06/16更新。暫定版です。予告なく変更することがあります。
