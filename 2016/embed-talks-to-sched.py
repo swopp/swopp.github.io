@@ -24,10 +24,9 @@ for session_name in data:
     data[session_name] = text
 
 
-with open("schedule-details.md", 'w') as fout:
-    with open("schedule-overview.md") as fin:
-        text = fin.read()
-        for session_name in data:
-            text = text.replace(session_name, data[session_name])
+with open("schedule-overview.md") as fin:
+    text = fin.read()
+    for session_name in data:
+        text = text.replace(session_name, data[session_name])
 
-        print >> fout, text
+    print text
