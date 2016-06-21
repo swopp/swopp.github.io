@@ -1,20 +1,24 @@
-
+# vim:set expandtab ts=4 sw=4:
 import sys
 import re
+
 
 rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA)-\d+)')
 
 data = {}
 session_content = ""
 
-with open("os.txt") as f:
-    for line in f:
-        mo = rex.match(line)
-        if mo:
-            session_name = mo.group(1)
-            data[session_name] = line
-        else:
-            data[session_name] += line
+sigs = [ "HPC", "OS" ]
+for sig in sigs:
+    path = "sigs/%s.txt" % sig
+    with open(path) as f:
+        for line in f:
+            mo = rex.match(line)
+            if mo:
+                session_name = mo.group(1)
+                data[session_name] = line
+            else:
+                data[session_name] += line
 
 
 for session_name in data:
