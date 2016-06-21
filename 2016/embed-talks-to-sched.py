@@ -29,8 +29,16 @@ for session_name in data:
 
 
 with open("schedule-overview.md") as fin:
+    # skip the header
+    fin.readline()
+    fin.readline()
+    fin.readline()
+    fin.readline()
+    fin.readline()
+
     text = fin.read()
     for session_name in data:
-        text = text.replace(session_name, data[session_name])
+        # add a space not to repalce HPC-11 with HPC-1
+        text = text.replace(session_name + ' ', data[session_name])
 
     print text
