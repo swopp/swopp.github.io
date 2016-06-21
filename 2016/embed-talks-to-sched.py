@@ -28,6 +28,7 @@ for session_name in data:
     data[session_name] = text
 
 
+output = ''
 with open("schedule-overview.md") as fin:
     # skip the header
     fin.readline()
@@ -41,4 +42,17 @@ with open("schedule-overview.md") as fin:
         # add a space not to repalce HPC-11 with HPC-1
         text = text.replace(session_name + ' ', data[session_name])
 
-    print text
+    output += text + '\n'
+
+
+# keep lines before the table begins
+header = ''
+with open('schedule-details.md') as f:
+	for line in f:
+		if line[0] == '|':
+			break
+		header += line
+
+with open('schedule-details.md', 'r+') as f:
+    f.write(header)
+    f.write(output)
