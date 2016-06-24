@@ -8,7 +8,7 @@ rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA)-\d+)')
 data = {}
 session_content = ""
 
-sigs = [ "HPC", "OS", "ARC+CPSY+DC" ]
+sigs = [ "HPC", "OS", "ARC+CPSY+DC", "PRO", "MEPA" ]
 for sig in sigs:
     path = "sigs/%s.txt" % sig
     with open(path) as f:
@@ -45,13 +45,14 @@ with open("schedule-overview.md") as fin:
     output += text + '\n'
 
 
-# keep lines before the table begins
+# keep the header
 header = ''
 with open('schedule-details.md') as f:
-	for line in f:
-		if line[0] == '|':
-			break
-		header += line
+    header += f.readline()
+    header += f.readline()
+    header += f.readline()
+    header += f.readline()
+    header += f.readline()
 
 with open('schedule-details.md', 'r+') as f:
     f.write(header)
