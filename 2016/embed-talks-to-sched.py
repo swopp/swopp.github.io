@@ -8,7 +8,7 @@ rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA)-\d+)')
 data = {}
 session_content = ""
 
-sigs = [ "HPC", "OS" ]
+sigs = [ "HPC", "OS", "ARC+CPSY+DC" ]
 for sig in sigs:
     path = "sigs/%s.txt" % sig
     with open(path) as f:
