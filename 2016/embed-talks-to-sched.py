@@ -3,12 +3,12 @@ import sys
 import re
 
 
-rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA)-\d+)')
+rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA|BoF)-\d+)')
 
 data = {}
 session_content = ""
 
-sigs = [ "HPC", "OS", "ARC+CPSY+DC", "PRO", "MEPA" ]
+sigs = [ "HPC", "OS", "ARC+CPSY+DC", "PRO", "MEPA", "BoF" ]
 for sig in sigs:
     path = "sigs/%s.txt" % sig
     with open(path) as f:
@@ -42,7 +42,7 @@ with open("schedule-overview.md") as fin:
         # add a space not to repalce HPC-11 with HPC-1
         text = text.replace(session_name + ' ', data[session_name])
 
-    output += text + '\n'
+    output = text
 
 
 # keep the header
