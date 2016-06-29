@@ -21,5 +21,5 @@ SWoPP 作業用レポジトリ
    情報処理学会のホームページに掲載する形式とほぼ同様。
 
 3. 発表枠に発表順の情報を埋め込む。
-   python embed-talks-to-sched.py
+   `python embed-talks-to-sched.py`
    2016/schedule-details.md が生成される。
