@@ -6,7 +6,6 @@ import re
 rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA|BoF)-\d+)')
 
 data = {}
-session_content = ""
 
 sigs = [ "HPC", "OS", "ARC+CPSY+DC", "PRO", "MEPA", "BoF" ]
 for sig in sigs:
@@ -28,7 +27,6 @@ for session_name in data:
     data[session_name] = text
 
 
-output = ''
 with open("schedule-overview.md") as fin:
     # skip the header
     fin.readline()
@@ -37,12 +35,10 @@ with open("schedule-overview.md") as fin:
     fin.readline()
     fin.readline()
 
-    text = fin.read()
+    table_text = fin.read()
     for session_name in data:
         # add a space not to repalce HPC-11 with HPC-1
-        text = text.replace(session_name + ' ', data[session_name])
-
-    output = text
+        table_text = table_text.replace(session_name + ' ', data[session_name])
 
 
 # keep the header
@@ -54,6 +50,6 @@ with open('schedule-details.md') as f:
     header += f.readline()
     header += f.readline()
 
-with open('schedule-details.md', 'r+') as f:
+with open('schedule-details.md', 'w') as f:
     f.write(header)
-    f.write(output)
+    f.write(table_text)
