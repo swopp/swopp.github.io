@@ -1,8 +1,18 @@
 PRO-1
-●並列処理
-座長：未定
+●構文解析
+座長：馬谷 誠二(京大)
 
 (9:30開始)
+
+PEGのパラメタ付き拡張Macro PEGの提案
+○水島 宏太(ドワンゴ)
+
+解析表現文法の指数時間性についての考察
+○山口 大輔, 山口 真弥, 千田 忠賢, 倉光 君郎(横浜国大)
+
+PRO-2
+●並列処理
+座長：窪田 昌史(広島市大)
 
 タスク並列プログラムに対する動的カットオフ手法の評価
 ○岩崎 慎太郎, 田浦 健次朗(東大)
@@ -10,29 +20,19 @@ PRO-1
 タスクスケジューリング問題におけるDF/IHS法の探索ノード数削減
 ○松瀬 弘明, 中村 あすか, 富永 浩文, 前川 仁孝(千葉工大)
 
-PRO-2
-●構文解析
-座長：未定
-
-PEGのパラメタ付き拡張Macro PEGの提案
-○水島 宏太(ドワンゴ)
-
-解析表現文法の線形性についての考察
-○山口 大輔, 山口 真弥, 千田 忠賢, 倉光 君郎(横浜国大)
-
 PRO-3
 ●プログラミング言語
-座長：未定
+座長：八杉 昌宏(九工大)
 
 Continuation based C を用いたプログラムの検証手法
 ○比嘉 健太, 河野 真治(琉球大)
 
 A Layer-based Approach to Hierarchical Dynamically-scoped Class Extensions
-○Matthias Springer, Hidehiko Masuhara(Tokyo Institute of Technology)，Robert Hirschfeld(University of Potsdam)
+○Matthias Springer, Hidehiko Masuhara(Tokyo Institute of Technology), Robert Hirschfeld(University of Potsdam)
 
 PRO-4
 ●関数型プログラミング
-座長：未定
+座長：増原 英彦(東工大)
 
 Haskellの並列ライブラリの有用性の検証：超解像処理を用いた事例研究
 ○松本 拓也，松崎 公紀(高知工科大)
