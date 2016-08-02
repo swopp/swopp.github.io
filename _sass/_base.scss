@@ -203,7 +203,6 @@ pre {
     }
 }
 
-
 table {
     padding: 0;
     table-layout: fixed;
@@ -233,6 +232,54 @@ table tr td {
     padding: 6px 13px;
 }
 table tr th :first-child, table tr td :first-child {
-margin-top: 0; }
+    margin-top: 0;
+}
 table tr th :last-child, table tr td :last-child {
-margin-bottom: 0; }
+    margin-bottom: 0;
+}
+
+
+@include media-query($on-palm) {
+    table, thead, tbody, th, td, tr {
+        display: block;
+    }
+
+    thead tr {
+        display: none;
+    }
+
+    tr {
+        // border: 5px solid #cccccc;
+        // border-bottom: 10px;
+    }
+
+    td {
+        /* Behave  like a "row" */
+        // border: 1px solid #fff;
+        // border-bottom: 1px solid #eee;
+        // position: relative;
+        // padding-top: 1em;
+        // padding-bottom: 1em;
+        // padding-left: 50%;
+    }
+
+    td:before {
+       /* Now like a table header */
+       // position: absolute;
+       /* Top/left values mimic padding */
+       // top: 6px;
+       // left: 6px;
+       // width: 45%;
+       // padding-right: 10px;
+       // padding-top: 0;
+       // white-space: nowrap;
+    }
+
+    // td:nth-of-type(1):before { content: "時間"; }
+    table.swopp2016table td:nth-of-type(1) { background-color: #ccc; }
+    table.swopp2016table td:nth-of-type(2):before { font-weight: bold; content: "[中ホール] "; }
+    table.swopp2016table td:nth-of-type(3):before { font-weight: bold; content: "[第1会議室] "; }
+    table.swopp2016table td:nth-of-type(4):before { font-weight: bold; content: "[第2会議室] "; }
+    table.swopp2016table td:nth-of-type(5):before { font-weight: bold; content: "[国際会議室] "; }
+}
+
