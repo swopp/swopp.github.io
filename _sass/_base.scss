@@ -283,3 +283,7 @@ table tr th :last-child, table tr td :last-child {
     table.swopp2016table td:nth-of-type(5):before { font-weight: bold; content: "[国際会議室] "; }
 }
 
+// workaround for firefox
+strong, b {
+    font-weight: bold;
+}
