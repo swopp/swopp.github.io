@@ -253,6 +253,10 @@ table tr th :last-child, table tr td :last-child {
         // border-bottom: 10px;
     }
 
+    table tr {
+        margin-bottom: 10px;
+    }
+
     td {
         /* Behave  like a "row" */
         // border: 1px solid #fff;
