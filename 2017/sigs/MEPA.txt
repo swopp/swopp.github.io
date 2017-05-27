@@ -1,0 +1,47 @@
+MEPA-1
+●行列計算
+座長：未定（＊＊）
+7月27日 13:30-15:00
+
+**クラスタ環境向けタイルTSQRの性能モデル**
+鈴木智博（山梨大学），高柳雅俊（山梨大学）
+
+**ヘテロジニアスクラスタシステムにおけるタイルCAQRアルゴリズム実装**
+高柳雅俊（山梨大学），鈴木智博（山梨大学）
+
+**階層型行列法における行列分割法**
+伊田明弘（東京大学），河合直聡（東京大学）
+
+
+MEPA-2
+●並列・分散計算
+座長：未定（＊＊）
+7月27日 15:15-16:45
+
+**並列マルチグリッド前処理付き共役勾配法のメニィコアクラスタ向け最適化**
+中島研吾（東京大学情報基盤センター）
+
+**ブロック赤-黒順序付けされた摂動/緩和MILU(0)前処理法のGPUとマルチコアCPUにおける性能評価**
+塩谷明美（電気通信大学），山本有作（電気通信大学）
+
+**密行列一般化シフト線形方程式向けKrylov部分空間反復法の分散並列実装と性能評価**
+矢野貴大(筑波大学)，二村保徳(筑波大学)，櫻井鉄也(筑波大学)
+
+
+MEPA-3
+●行列分解と計算精度
+座長：未定（＊＊）
+7月27日 17:00-19:00
+
+**Performance Evaluation of Integration of Multiple Randomized Low-Rank Singular Value Decompositions**
+Takahiro Katagiri (Nagoya University, Japan), Mu Yang (National Taiwan University, Taiwan), Weichung Wang (National Taiwan University, Taiwan), and Akihiro Ida (The University of Tokyo, Japan)
+
+**行列積に対する再現性のある計算法について**
+尾崎克久（芝浦工業大学），荻田武史（東京女子大学）
+
+**Cholesky QR法を用いたブロック片側ヤコビ法の誤差解析**
+工藤 周平（電気通信大学），山本 有作（電気通信大学）
+
+**非負値行列因子分解のためのTall-Skinny型並列実装法**
+今倉暁（筑波大学），新井亮祐（筑波大学），櫻井鉄也（筑波大学）
+
