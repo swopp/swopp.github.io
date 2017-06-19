@@ -4,15 +4,15 @@ layout: page
 permalink: /2017/overview/
 ---
 
-2016/08/02更新、最終版です。
-その他、開催に関する情報は[SWoPP2016ウェブサイト](https://sites.google.com/site/swoppweb/swopp2016/) を参照してください。
+2017/06/19 更新、最終版です。
+その他、開催に関する情報は[SWoPP2016ウェブサイト](https://sites.google.com/site/swoppweb/swopp2017/) を参照してください。
 <!-- 著者の方へ： 発表題目等に変更がある場合は、発表先研究会に連絡してください。-->
 
 # 目次
 
-- [8/8(月)](#section-1)
-- [8/9(火)](#section-2)
-- [8/10(水)](#section-3)
+- [7/26(水)](#section-1)
+- [7/27(木)](#section-2)
+- [7/28(金)](#section-3)
 
 
 
