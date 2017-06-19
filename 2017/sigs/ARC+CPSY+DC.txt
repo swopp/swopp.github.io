@@ -103,11 +103,11 @@ ARC+CPSY+DC-9
 ●ニューラルネットワーク(2)
 座長：未定
 
+**Accelerating Spiked Neural Networks on FPGAs through OpenCL**
+○Artur Podobas・Satoshi Matsuoka(Tokyo Institute of Technology)
+
 **畳み込みニューラルネットワークの全二値化に関する一検討**
 ○下田将之・藤井智也・米川晴義・佐藤真平・中原啓貴（東工大）
-
-**Accelerating Spiked Neural Networks on FPGAs through OpenCL**
-○Artur Podobas, Satoshi Matsuoka(Tokyo Institute of Technology)
 
 **可変データビット幅を持つDNNとそのアクセラレータアーキテクチャの検討**
 ○石井潤・坂本龍一・近藤正章（東京大学）
