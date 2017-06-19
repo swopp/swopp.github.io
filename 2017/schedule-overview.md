@@ -1,7 +1,7 @@
 ---
 title: 時間割概要
 layout: page
-permalink: /2016/overview/
+permalink: /2017/overview/
 ---
 
 2016/08/02更新、最終版です。
