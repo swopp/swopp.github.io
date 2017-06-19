@@ -5,7 +5,7 @@ permalink: /2017/overview/
 ---
 
 2017/06/19 更新、最終版です。
-その他、開催に関する情報は[SWoPP2016ウェブサイト](https://sites.google.com/site/swoppweb/swopp2017/) を参照してください。
+その他、開催に関する情報は[SWoPP2017ウェブサイト](https://sites.google.com/site/swoppweb/swopp2017/) を参照してください。
 <!-- 著者の方へ： 発表題目等に変更がある場合は、発表先研究会に連絡してください。-->
 
 # 目次
@@ -19,7 +19,7 @@ permalink: /2017/overview/
 
 <br/>
 
-# 8/8(月)
+# 7/26(月)
 
 {: .swopp2016table}
 | 時間                                                    | 中ホール         | 第1会議室         | 第2会議室          | 国際会議室   |
@@ -35,7 +35,7 @@ permalink: /2017/overview/
 
 <br/>
 
-# 8/9(火)
+# 7/27(火)
 
 {: .swopp2016table}
 | 時間                                                    | 中ホール         | 第1会議室         | 第2会議室          | 国際会議室   |
@@ -51,7 +51,7 @@ permalink: /2017/overview/
 
 <br/>
 
-# 8/10(水)
+# 7/28(水)
 
 {: .swopp2016table}
 | 時間                                                    | 中ホール         | 第1会議室         | 第2会議室          | 国際会議室   |
