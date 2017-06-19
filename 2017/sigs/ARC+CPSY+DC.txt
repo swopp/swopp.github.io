@@ -107,7 +107,7 @@ ARC+CPSY+DC-9
 ○下田将之・藤井智也・米川晴義・佐藤真平・中原啓貴（東工大）
 
 **Accelerating Spiked Neural Networks on FPGAs through OpenCL**
-○Artur Podobas, Satoshi!!Matsuoka(Tokyo Institute of Technology)
+○Artur Podobas, Satoshi Matsuoka(Tokyo Institute of Technology)
 
 **可変データビット幅を持つDNNとそのアクセラレータアーキテクチャの検討**
 ○石井潤・坂本龍一・近藤正章（東京大学）
@@ -126,13 +126,13 @@ ARC+CPSY+DC-10
 ○福岡久和・三谷剛正・平賀由利亜・中田　尚・中島康彦（奈良先端大）
 
 **適応的電力制御を行う環境発電駆動センサノードの強化学習戦略の比較評価**
-○
+○シュレスタマリ サソット・近藤正章・中村宏（東京大学）
 
 ARC+CPSY+DC-11
 ●ネットワーク・FPGA処理(1)
 座長：未定
 
-**FPGA NICを用いたブロックチェーン向けデータベースのキャッシング
+**FPGA NICを用いたブロックチェーン向けデータベースのキャッシング**
 ○榊原優真・三塚皐矢・森島　信・松谷宏紀（慶大）
 
 **CPU-FPGAヘテロジーニアスデータセンターにおける分散データ分析基盤**
@@ -143,13 +143,13 @@ ARC+CPSY+DC-12
 ●設計技術・最適化
 座長：未定
 
-**HPCアプリ開発基盤向け型付き中間言語の提案
+**HPCアプリ開発基盤向け型付き中間言語の提案**
 ○石村　脩・吉本芳英（東大）
 
-**動画トラフィックに着目したNIDSにおける文字列探索処理負荷削減手法の提案
+**動画トラフィックに着目したNIDSにおける文字列探索処理負荷削減手法の提案**
 ○高徳真晴・八巻隼人・三輪忍・本多弘樹（電気通信大学）
 
-**Apache SparkのGPU利用における冗長なデータ転送の回避
+**Apache SparkのGPU利用における冗長なデータ転送の回避**
 ○浅井　崚・置田真生・萩原兼一（阪大）
 
 ARC+CPSY+DC-13
@@ -172,7 +172,7 @@ ARC+CPSY+DC-14
 **Performance Evaluations of Network Based Optimisations for Change Point Detection**
 ○Sophie Peng-Casavecchia（Polytechnique）・Kohei Nakamura・Kazumasa Kishiki・Hiroki Matsutani（Keio Univ.）
 
-**FPGA NICによる高効率メッセージキューイングシステム
+**FPGA NICによる高効率メッセージキューイングシステム**
 ○三塚皐矢・松谷宏紀（慶大）
 
 ARC+CPSY+DC-15
