@@ -171,19 +171,16 @@ HPC-14
 **(39)分散スレッドスケジューラと協調する分散共有メモリ処理系の初期評価**
 遠藤 亘, 田浦 健次朗(東大)
 
-**(40)A case study of Distributed Collaborative Simulation using extended Simulation Caching Framework**
-張 家超, 福間 慎治, 森 真一郎(福井大)
-
 HPC-15
 ●機械学習
 座長：未定
 
-**(41)ooc_cuDNN: GPU計算機のメモリ階層を利用した大規模深層学習ライブラリの開発**
+**(40)ooc_cuDNN: GPU計算機のメモリ階層を利用した大規模深層学習ライブラリの開発**
 伊藤 祐貴, 松宮 遼, 遠藤 敏夫(東工大)
 
-**(42)Performance analysis of deep learning frameworks on high-performance distributed filesystems**
+**(41)Performance analysis of deep learning frameworks on high-performance distributed filesystems**
 Stanovnik Saso, Haderbache Amir, Miwa Masahiro, Nakashima Kohta(FUJITSU LABORATORIES LTD.)
 
-**(43)Design of efficient data supply mechanism for distributed deep learning**
+**(42)Design of efficient data supply mechanism for distributed deep learning**
 Haderbache Amir, Stanovnik Saso, Miwa Masahiro, Nakashima Kohta(FUJITSU LABORATORIES LTD.)
 
