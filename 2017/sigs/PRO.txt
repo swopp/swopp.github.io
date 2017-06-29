@@ -1,6 +1,6 @@
 PRO-1
 ●ハードウェア
-座長：八杉 昌宏(九州工業大)
+座長：八杉 昌宏(九工大)
 
 (9:00開始)
 
@@ -32,7 +32,7 @@ PRO-3
 
 PRO-4
 ●言語処理系
-座長：窪田 昌史(広島市立大)
+座長：窪田 昌史(広島市大)
 
 **Reducing Memory Fences in a Copying Garbage Collector of Java for Weak Memory Models**
 ○堀井 洋，堀江 倫大(日本アイ・ビー・エム)
