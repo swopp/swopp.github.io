@@ -1,6 +1,6 @@
 PRO-1
 ●ハードウェア
-座長：未定
+座長：八杉 昌宏(九州工業大)
 
 (9:00開始)
 
@@ -12,17 +12,17 @@ PRO-1
 
 PRO-2
 ●効率化
-座長：未定
+座長：松崎 公紀(高知工科大)
 
 **分散環境での並列グラフマイニングにおけるタスク中断処理による冗長探索削減**
 奥野 伸吾，○平石 拓，中島 浩(京大)，八杉 昌宏(九工大)，瀬々 潤(産総研)
 
-**Callpath Dependent Inline Caching for Object-oriented Languages with Class Extensions**
+**Call-trail Dependent Inline Caching for a Scoping Mechanism of Class Extensions**
 ○張 威，千葉 滋(東大)
 
 PRO-3
 ●プログラミング言語
-座長：未定
+座長：馬谷 誠二(京大)
 
 **Packrat Parsingを用いたC言語用構文解析ライブラリの実装**
 ○杉本 優太，前田 敦司(筑波大)
@@ -32,7 +32,7 @@ PRO-3
 
 PRO-4
 ●言語処理系
-座長：未定
+座長：窪田 昌史(広島市立大)
 
 **Reducing Memory Fences in a Copying Garbage Collector of Java for Weak Memory Models**
 ○堀井 洋，堀江 倫大(日本アイ・ビー・エム)
