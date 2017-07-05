@@ -1,6 +1,6 @@
 ARC+CPSY+DC-1
 ●クラウド
-座長：未定
+座長：窪田 昌史 （広島市立大学）
 
 **データの流れに着目した異種エンジン統合クラウドシステムFlow In Cloud**
 ○工藤知宏（東大）・高野了成（産総研）・天野英晴（慶大）・鯉渕道紘（NII）・松谷宏紀（慶大）・塙　敏弘・田浦健次朗（東大）・並木　周・池上　努・須崎有康（産総研）・赤沼領大（東大）・田中　哲（産総研）
@@ -10,7 +10,7 @@ ARC+CPSY+DC-1
 
 ARC+CPSY+DC-2
 ●GPGPU
-座長：未定
+座長：成瀬 彰 （NVIDIA）
 
 **A GPU Implementation of Computing the Voronoi Map and the Euclidean Distance Map**
 ○Hiroaki Honda・Takumi Honda・Shinnosuke Yamamoto・Koji Nakano・Yasuaki Ito（Hiroshima Univ.）
@@ -23,7 +23,7 @@ ARC+CPSY+DC-2
 
 ARC+CPSY+DC-3
 ●故障・攻撃耐性
-座長：未定
+座長：福本 聡（首都大東京）
 
 **不完全ビットシフトが生じる通信路に対するモジュレーション符号化法の検討**
 ○平野　武・金子晴彦（東工大）
@@ -37,7 +37,7 @@ ARC+CPSY+DC-3
 
 ARC+CPSY+DC-4
 ●電源・冷却
-座長：未定
+座長：中田 尚 （奈良先端科学技術大学院大学）
 
 **内部抵抗の大きい電源によるマイクロコントローラV850の動作**
 ○畔上佳太・天野英晴（慶大）
@@ -51,7 +51,7 @@ ARC+CPSY+DC-4
 
 ARC+CPSY+DC-5
 ●メモリ・キャッシュ
-座長：未定
+座長：大西隆之（NTT）
 
 **プリフェッチラインの再参照間隔を予測するキャッシュマネジメント**
 ○甲地弘幸・入江英嗣・坂井修一（東京大学）
@@ -64,7 +64,7 @@ ARC+CPSY+DC-5
 
 ARC+CPSY+DC-6
 ●ニューラルネットワーク(1)
-座長：未定
+座長：間瀬正啓（日立）
 
 **高電力効率なCNNアクセラレータ実現に向けたカーネルクラスタリングの応用の検討**
 ○進藤智司（名古屋工業大学）・松井優樹・八巻隼人（電気通信大学）・津邑公暁（名古屋工業大学）・三輪忍（電気通信大学）
@@ -75,7 +75,7 @@ ARC+CPSY+DC-6
 
 ARC+CPSY+DC-7
 ●計算方式
-座長：未定
+座長：長谷川陽平（東芝）
 
 **高次数イジングネットワークの時分割処理方式の検討**
 ○山本佳生・熊澤輝顕・池辺将之・浅井哲也・本村真人・高前田伸也（北大）
@@ -88,7 +88,7 @@ ARC+CPSY+DC-7
 
 ARC+CPSY+DC-8
 ●ネットワークアークテクチャ
-座長：未定
+座長：藤原 一毅 （情報通信研究機構）
 
 **大規模NoC向けシミュレーション手法の検討**
 ○横田隆史・大津金光・大川　猛（宇都宮大）
@@ -101,7 +101,7 @@ ARC+CPSY+DC-8
 
 ARC+CPSY+DC-9
 ●ニューラルネットワーク(2)
-座長：未定
+座長：木村 睦 （龍谷大学）
 
 **Accelerating Spiked Neural Networks on FPGAs through OpenCL**
 ○Artur Podobas・Satoshi Matsuoka(Tokyo Institute of Technology)
@@ -114,7 +114,7 @@ ARC+CPSY+DC-9
 
 ARC+CPSY+DC-10
 ●学習方式
-座長：未定
+座長：塩谷亮太（名大）
 
 **A study on Network Structure and Parameter Exchange Method in large-scale Cluster for Machine Learning**
 ○Duo Zhang・Mingxi Li（Univ. of Tsukuba）・Yusuke Tanimura・Hidemoto Nakada（AIST）
@@ -131,7 +131,7 @@ ARC+CPSY+DC-10
 
 ARC+CPSY+DC-11
 ●ネットワーク・FPGA処理(1)
-座長：未定
+座長：横田 隆史 （宇都宮大学）
 
 **FPGA NICを用いたブロックチェーン向けデータベースのキャッシング**
 ○榊原優真・三塚皐矢・森島　信・松谷宏紀（慶大）
@@ -142,7 +142,7 @@ ARC+CPSY+DC-11
 
 ARC+CPSY+DC-12
 ●設計技術・最適化
-座長：未定
+座長：津邑 公暁 （名古屋工業大学）
 
 **(発表キャンセル)HPCアプリ開発基盤向け型付き中間言語の提案**
 ○石村　脩・吉本芳英（東大）
@@ -155,7 +155,7 @@ ARC+CPSY+DC-12
 
 ARC+CPSY+DC-13
 ●ストレージ
-座長：未定
+座長：大江 和一 （富士通研究所）
 
 **ストレージシステムにおけるマルチコアを用いたノンブロッキングポーリング方式**
 ○松尾勇気・前田宗則・佐藤　充（富士通研）
@@ -165,7 +165,7 @@ ARC+CPSY+DC-13
 
 ARC+CPSY+DC-14
 ●ネットワーク・FPGA処理(2)
-座長：未定
+座長：小林 諒平 （筑波大学）
 
 **Accelerator-in-Switchのための動的部分再構成**
 ○天野英晴・鶴田千晴（慶大）
@@ -178,7 +178,7 @@ ARC+CPSY+DC-14
 
 ARC+CPSY+DC-15
 ●自動並列化・コード最適化
-座長：未定
+座長：中野 浩嗣 (広島大学)
 
 **メニーコア上での粗粒度並列処理におけるコードコンパクション**
 ○岡宏樹・吉田明正（明治大学）
