@@ -1,7 +1,7 @@
 ---
 title: 時間割詳細
 layout: page
-permalink: /2017/program/
+permalink: /2018/program/
 ---
 
 2017/06/26 更新、最終版です。
