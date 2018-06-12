@@ -290,6 +290,11 @@ table tr th :last-child, table tr td :last-child {
 	table.swopp2017table td:nth-of-type(3):before { font-weight: bold; content: "[多目的ホールA] "; }
 	table.swopp2017table td:nth-of-type(4):before { font-weight: bold; content: "[多目的ホールBC] "; }
 	table.swopp2017table td:nth-of-type(5):before { font-weight: bold; content: "[3F研修室A] "; }
+	table.swopp2018table td:nth-of-type(1) { background-color: #ccc; }
+	table.swopp2018table td:nth-of-type(2):before { font-weight: bold; content: "[3F研修室BCD] "; }
+	table.swopp2018table td:nth-of-type(3):before { font-weight: bold; content: "[多目的ホールA] "; }
+	table.swopp2018table td:nth-of-type(4):before { font-weight: bold; content: "[多目的ホールBC] "; }
+	table.swopp2018table td:nth-of-type(5):before { font-weight: bold; content: "[3F研修室A] "; }
 
 }
 
