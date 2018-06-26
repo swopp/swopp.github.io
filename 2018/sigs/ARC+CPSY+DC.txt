@@ -15,9 +15,6 @@ ARC+CPSY+DC-2
 **パブリッククラウド上の広域State Machine Replicationのためのリージョン選択手法の提案**
 ○沼倉正太・中村純哉・大村廉（豊橋技科大）
 
-**パブリッククラウドの品質制御に向けた物理リソース使用率推測技術の研究**
-○辻拓人・樋口淳一・横山乾（富士通研）
-
 **Analysis of commercial cloud workload and study on how to apply cache methods**
 ○Kazuichi Oe・Kazutaka Ogihara（Fujitsu Lab.）・Takeo Honda（FST）
 
