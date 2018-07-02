@@ -41,6 +41,10 @@ ARC+CPSY+DC-4
 **(9) 軽量な一貫性検証によるソフトウェアトランザクショナルメモリの並列性向上に関する検討**
 飯田凌大・津邑公暁（名工大）
 
+(発表者都合によりARC+CPSY+DC-12/自動並列化・コード最適化より移動)
+**(29) Automatic Parallelization of a Diesel Engine Control program on an Infineon Multicore Processor**
+NAIT ABDELLAH OUALI ISMAIL・SCHUMACHER CHRISTOPH・MIKAMI HIROKI・KIMURA KEIJI・KASAHARA HIRONORI（Waseda Univ.）
+
 ARC+CPSY+DC-5
 ●耐故障・セキュリティ
 座長：未定
@@ -132,8 +136,9 @@ ARC+CPSY+DC-12
 ●自動並列化・コード最適化
 座長：未定
 
+(発表者都合によりARC+CPSY+DC-4/メモリシステム(1)に移動)
 **(29) Automatic Parallelization of a Diesel Engine Control program on an Infineon Multicore Processor**
-NAIT ABDELLAH OUALI ISMAIL・SCHUMACHER CHRISTOPH・MIKAMI HIROKI・KIMURA KEIJI・KASAHARA HIRONORI（Waseda Univ.y）
+NAIT ABDELLAH OUALI ISMAIL・SCHUMACHER CHRISTOPH・MIKAMI HIROKI・KIMURA KEIJI・KASAHARA HIRONORI（Waseda Univ.）
 
 **(30) ARM機械語由来のLLVM-IRコードにおける並列処理方式の自動決定に関する検討**
 ○重信晃太・神宮健吾・大津金光・大川猛・横田隆史（宇都宮大）
