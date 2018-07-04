@@ -61,7 +61,7 @@ HPC-5
 喬 宇宸, 田浦 健次朗(東大)
 
 **(15) Scaling Word2Vec with Uniform Word Sampling**
-李 博放, 松岡 聡(東工大)
+李 博放, Drozd Aleksandr, 松岡 聡(東工大)
 
 HPC-6
 ●数値計算１
@@ -119,8 +119,7 @@ de Haan Erwin, Podobas Arthur, Matsuoka Satoshi(Tokyo Tech)
 藤田 典久, 小林 諒平, 山口 佳樹, 朴 泰祐, 吉川 耕司(筑波大),安部 牧人(東北大),梅村 雅之(筑波大)
 
 HPC-10
-●機械学習３
-座長：（未定）
+●機械学習３座長：（未定）
 
 **(29) 機械学習による計算機トレースの自動生成**
 土川 稔生, 大山 洋介, 野村 哲弘, 松岡 聡(東工大）
@@ -182,5 +181,4 @@ Bysiek Mateusz(Tokyo Tech/AIST), Wahib Mohamed(AIST), Drozd Aleksandr(Tokyo Tech
 
 **(43) PGAS言語XcalableMPによる並列ステンシル計算の高速化**
 村井 均, 佐藤 三久(理研)
-
 
