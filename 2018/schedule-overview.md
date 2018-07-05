@@ -30,7 +30,6 @@ permalink: /2018/overview/
 | 13:30-15:00<br/>研究会                                  | HPC-2            | ARC+CPSY+DC-3     | OS-1               |              |
 | 15:15-16:45<br/>研究会                                  | HPC-3            | ARC+CPSY+DC-4     | OS-2               |              |
 | 17:00-19:00<br/>研究会                                  | HPC-4            | ARC+CPSY+DC-5     | OS-3               |              |
-| 19:10-21:30<br/>                                        |                  |                   |                    |              |
 
 <br/>
 
@@ -46,7 +45,7 @@ permalink: /2018/overview/
 | 13:30-15:00<br/>研究会                                  | HPC-7            | ARC+CPSY+DC-8     | OS-6               | MEPA-1       |
 | 15:15-16:45<br/>研究会                                  | HPC-8            | ARC+CPSY+DC-9     | OS-7               | MEPA-2       |
 | 17:00-19:00<br/>研究会                                  | HPC-9            | ARC+CPSY+DC-10    | OS-8               | MEPA-3       |
-| 19:10-21:30<br/>懇親会                                  |                  |                   |                    |              |
+| 19:30-21:30<br/>懇親会                                  |                  |                   |                    |              |
 
 <br/>
 
