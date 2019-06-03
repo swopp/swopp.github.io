@@ -1,0 +1,40 @@
+MEPA-1
+●行列計算1
+座長：TBD
+
+**レゾルベントを用いたフィルタによる一般固有値問題の解法について**
+村上弘（首都大学東京）
+
+**前処理付きCholesky QRアルゴリズムとその応用**
+寺尾 剛史、尾崎 克久、荻田 武史
+
+**時系列データの適切なノイズ除去を行う動的モード分解の計算手法**
+相島健助（法政大学）
+
+
+MEPA-2
+●行列計算2
+座長：TBD
+
+**Block GWBiCGSTAB法における漸化式動的グループ化の性能評価**
+多田野 寛人（筑波大学）
+
+**ブロック赤黒順序付け緩和MILU(0)前処理法のGPU実装と性能評価**
+塩谷明美（電気通信大学），山本有作（電気通信大学）
+
+**倍々精度複素数に向けた効率的な手法の精度評価**
+桝井晃基(名古屋大学)，山中脩也(明星大学・早稲田大学)
+
+
+MEPA-3
+●高性能計算
+座長：TBD
+
+**ポストムーア時代の計算機環境における数値計算カーネル実装の変革**
+片桐孝洋（名古屋大学）
+
+**格子階層型行列法における行列ベクトル積計算の通信隠蔽手法**
+星野哲也（東京大学）、伊田明弘（東京大学）
+
+**Parallel Preconditioned Itertative Solvers on Oakforest-PACS with McKernel**
+Kengo Nakajima (University of Tokyo/RIKEN R-CCS), Balazs Gerofi (RIKEN R-CCS), Masashi Horikoshi (Intel), Yutaka Ishikawa (RIKEN R-CCS)

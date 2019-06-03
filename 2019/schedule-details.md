@@ -43,9 +43,9 @@ permalink: /2019/program/
 | 09:30-10:30<br/>研究会                                  | HPC-6            | ARC+CPSY+DC-6     | OS-3               | 　           |             |
 | 10:45-12:15<br/>研究会                                  | HPC-7            | ARC+CPSY+DC-7     | OS-4               |   　         |             |
 | 12:15-13:30<br/>お昼休み                                | HPC運営委員会    | CPSY幹事会        | OS運営委員会       | 準備         | 準備        |
-| 13:30-15:00<br/>研究会                                  | HPC-8            | ARC+CPSY+DC-8     | OS-5               | PRO-1        | MEPA-1      |
-| 15:15-16:45<br/>研究会                                  | HPC-9            | ARC+CPSY+DC-9     | OS-6               | PRO-2        | MEPA-2      |
-| 17:00-19:00<br/>研究会                                  | HPC-10           | ARC+CPSY+DC-10    | OS-7               | PRO委員会    | MEPA-3      |
+| 13:30-15:00<br/>研究会                                  | HPC-8            | ARC+CPSY+DC-8     | OS-5               | PRO-1        | MEPA-1<br />●行列計算1<br />座長：TBD<br /><br />**レゾルベントを用いたフィルタによる一般固有値問題の解法について**<br />村上弘（首都大学東京）<br /><br />**前処理付きCholesky QRアルゴリズムとその応用**<br />寺尾 剛史、尾崎 克久、荻田 武史<br /><br />**時系列データの適切なノイズ除去を行う動的モード分解の計算手法**<br />相島健助（法政大学）     |
+| 15:15-16:45<br/>研究会                                  | HPC-9            | ARC+CPSY+DC-9     | OS-6               | PRO-2        | MEPA-2<br />●行列計算2<br />座長：TBD<br /><br />**Block GWBiCGSTAB法における漸化式動的グループ化の性能評価**<br />多田野 寛人（筑波大学）<br /><br />**ブロック赤黒順序付け緩和MILU(0)前処理法のGPU実装と性能評価**<br />塩谷明美（電気通信大学），山本有作（電気通信大学）<br /><br />**倍々精度複素数に向けた効率的な手法の精度評価**<br />桝井晃基(名古屋大学)，山中脩也(明星大学・早稲田大学)     |
+| 17:00-19:00<br/>研究会                                  | HPC-10           | ARC+CPSY+DC-10    | OS-7               | PRO委員会    | MEPA-3<br />●高性能計算<br />座長：TBD<br /><br />**ポストムーア時代の計算機環境における数値計算カーネル実装の変革**<br />片桐孝洋（名古屋大学）<br /><br />**格子階層型行列法における行列ベクトル積計算の通信隠蔽手法**<br />星野哲也（東京大学）、伊田明弘（東京大学）<br /><br />**Parallel Preconditioned Itertative Solvers on Oakforest-PACS with McKernel**<br />Kengo Nakajima (University of Tokyo/RIKEN R-CCS), Balazs Gerofi (RIKEN R-CCS), Masashi Horikoshi (Intel), Yutaka Ishikawa (RIKEN R-CCS)     |
 | 19:30-21:30<br/>懇親会                                  |                  |                   |                    |              |             |
 
 <br/>
