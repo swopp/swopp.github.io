@@ -46,4 +46,10 @@
 	table.swopp2018table td:nth-of-type(3):before { font-weight: bold; content: "[5F大広間] "; }
 	table.swopp2018table td:nth-of-type(4):before { font-weight: bold; content: "[4F第3会議室] "; }
 	table.swopp2018table td:nth-of-type(5):before { font-weight: bold; content: "[4F第1会議室] "; }
+	table.swopp2019table td:nth-of-type(1) { background-color: #ccc; }
+	table.swopp2019table td:nth-of-type(2):before { font-weight: bold; content: "[1F 小ホール] "; }
+	table.swopp2019table td:nth-of-type(3):before { font-weight: bold; content: "[1F 1号室] "; }
+	table.swopp2019table td:nth-of-type(4):before { font-weight: bold; content: "[1F 4号室] "; }
+	table.swopp2019table td:nth-of-type(5):before { font-weight: bold; content: "[1F 5号室] "; }
+	table.swopp2019table td:nth-of-type(6):before { font-weight: bold; content: "[2F 7号室] "; }
 }
