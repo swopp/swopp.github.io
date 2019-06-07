@@ -84,7 +84,7 @@ HPC-7
 **(19) Flexible and Simplistic Hierarchical Matrix-Based Fast Direct Solver**
 Haderbache Amir, Shirahata Koichi, Tomita Yasumoto(FUJITSU LABORATORIES)
 
-** (20)AM-hCGA法による並列多重格子法**
+**(20)AM-hCGA法による並列多重格子法**
 中島 研吾(東大/理研), 堀越 将司(インテル)
 
 **(21)SA-AMG法における収束性安定化のための効率的なニアカーネルベクトル抽出手法に向けた研究**
