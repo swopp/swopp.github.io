@@ -1,5 +1,5 @@
 ---
-title: 時間割詳細
+title: 時間割詳細（調整中）
 layout: page
 permalink: /2019/program/
 ---
