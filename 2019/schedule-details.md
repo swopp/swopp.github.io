@@ -1,7 +1,7 @@
 ---
 title: 調整中
 layout: page
-permalink: /2019/program/
+permalink: /2019/tmp/
 ---
 
 2019/06/11 調整中のため断りなく変更される可能性が高いです。
