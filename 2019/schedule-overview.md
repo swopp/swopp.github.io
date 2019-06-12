@@ -43,7 +43,7 @@ permalink: /2019/overview/
 | 09:15-10:45<br/>研究会                                  | HPC-6            | ARC+CPSY+DC-6     | OS-3               | 　           |             |
 | 10:55-12:25<br/>研究会                                  | HPC-7            | ARC+CPSY+DC-7     | OS-4               |   　         |             |
 | 12:25-13:25<br/>お昼休み                                | HPC運営委員会    | CPSY幹事会        | OS運営委員会       | 準備         | 準備        |
-| 13:25-15:55<br/>研究会                                  | HPC-8            | ARC+CPSY+DC-8     | OS-5               | PRO-1        | MEPA-1      |
+| 13:25-14:55<br/>研究会                                  | HPC-8            | ARC+CPSY+DC-8     | OS-5               | PRO-1        | MEPA-1      |
 | 15:05-16:35<br/>研究会                                  | HPC-9            | ARC+CPSY+DC-9     | OS-6               | PRO-2        | MEPA-2      |
 | 16:45-18:15<br/>研究会                                  | HPC-10           | ARC+CPSY+DC-10    | OS-7               | PRO委員会    | MEPA-3      |
 | 19:00-21:00<br/>懇親会                                  |                  |                   |                    |              |             |
