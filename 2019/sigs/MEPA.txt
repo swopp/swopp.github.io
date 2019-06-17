@@ -36,5 +36,5 @@ MEPA-3
 **格子階層型行列法における行列ベクトル積計算の通信隠蔽手法**
 星野 哲也（東京大学）、伊田 明弘（東京大学）
 
-**Parallel Preconditioned Itertative Solvers on Oakforest-PACS with McKernel**
-Kengo Nakajima (University of Tokyo/RIKEN R-CCS), Balazs Gerofi (RIKEN R-CCS), Masashi Horikoshi (Intel), Yutaka Ishikawa (RIKEN R-CCS)
+**Parallel Preconditioned Itertative Solvers on Oakforest-PACS**
+Masashi Horikoshi (Intel), Kengo Nakajima (University of Tokyo/RIKEN R-CCS), Balazs Gerofi (RIKEN R-CCS), Yutaka Ishikawa (RIKEN R-CCS)
