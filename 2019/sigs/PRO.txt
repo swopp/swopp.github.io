@@ -24,8 +24,8 @@ PRO-3
 ●
 座長：TBD
 
-**Centaurus: A LL(*) Parser Generator for Parallel Data Processing**
-井原 央翔, ○佐藤 重幸, 田浦 健次朗 (東京大学 大学院情報理工学系研究科)
+**Centaurus: A Just-in-Time Parallel-Parser Generator for Ad hoc Data Processing**
+○佐藤 重幸, 井原 央翔, 田浦 健次朗 (東京大学 大学院情報理工学系研究科)
 
 **OPG を使ったアドホックな大規模な文字列データ解析のための並列処理系**
 ○リュウ ケイコウ, 田浦 健次朗 (東京大学大学院情報理工学系研究科)
@@ -48,7 +48,7 @@ PRO-5
 ○樋口 兼一, 田浦 健次朗 (東京大学大学院情報理工学系研究科電子情報学専攻)
 
 **任意範囲のインデックスを持つ部分配列から構成される再配置可能分散集合とその実装**
-○鎌田 十三郎 (神戸大学システム情報学研究科)
+○鎌田 十三郎 (神戸大学システム情報学研究科), 高橋 俊行 (METAHACK Japan)
 
 PRO-6
 ●
