@@ -187,8 +187,8 @@ HPC-15
 ●プログラミング環境
 座長：TBD
 
-**(43) 分散共有メモリシステムを利用したBarnes-Hutアルゴリズムの初期並列実装と性能評価**
-緑川 博子, 柴山 悠(成蹊大)
+**(43) グローバルビュープログラミングをサポートするPGAS言語の記述性と性能の比較**
+阪口 裕梧, 緑川 博子(成蹊大)
 
 **(44) アスペクト指向言語を用いたHPC向けDSL作成プラットフォームの構築**
 石村 脩, 吉本 英芳(東大)
@@ -196,8 +196,8 @@ HPC-15
 **(45) Towards Performance Portability and Modernization of FLASH via Transpilation with High-Level Intermediate Representation**
 Bysiek Mateusz(Tokyo Tech/AIST), Chawdhary Saurabh(Argonne National Laboratory / Univ. of Chicago), Wahib Mohamed(AIST), Dubey Anshu(Argonne National Laboratory / Univ. of Chicago), Matsuoka Satoshi(Riken/AIST/Tokyo Tech)
 
-**(46) グローバルビュープログラミングをサポートするPGAS言語の記述性と性能の比較**
-阪口 裕梧, 緑川 博子(成蹊大)
+**(46) 分散共有メモリシステムを利用したBarnes-Hutアルゴリズムの初期並列実装と性能評価**
+緑川 博子, 柴山 悠(成蹊大)
 
 
 
