@@ -82,7 +82,8 @@ HPC-7
 座長：TBD
 
 **(19) Flexible and Simplistic Hierarchical Matrix-Based Fast Direct Solver**
-Haderbache Amir, Shirahata Koichi, Tomita Yasumoto(FUJITSU LABORATORIES)
+Spalthoff Peter Gerhard, Yokota Rio(Tokyo Tech)
+
 
 **(20)AM-hCGA法による並列多重格子法**
 中島 研吾(東大/理研), 堀越 将司(インテル)
