@@ -182,23 +182,20 @@ HPC-14
 **(41) 都市気象コードCity-LESの並列GPU実装の最適化と性能評価**
 辻 大亮, 多田野 寛人, 朴 泰祐, 池田 亮作, 佐藤 拓人, 日下 博幸(筑波大)
 
-**(42) Cache-only Stencil Computation on CUDA-enabled GPUs**
-Chen Peng(Tokyo Tech/AIST-Tokyo Tech RWBC-OIL), Wahib Mohamed, Takizawa Shinichiro(AIST-Tokyo Tech RWBC-OIL/AIST), Matsuoka Satoshi(Tokyo Tech/Riken)
-
 HPC-15
 ●プログラミング環境
 座長：TBD
 
-**(43) グローバルビュープログラミングをサポートするPGAS言語の記述性と性能の比較**
+**(42) グローバルビュープログラミングをサポートするPGAS言語の記述性と性能の比較**
 阪口 裕梧, 緑川 博子(成蹊大)
 
-**(44) アスペクト指向言語を用いたHPC向けDSL作成プラットフォームの構築**
+**(43) アスペクト指向言語を用いたHPC向けDSL作成プラットフォームの構築**
 石村 脩, 吉本 英芳(東大)
 
-**(45) Towards Performance Portability and Modernization of FLASH via Transpilation with High-Level Intermediate Representation**
+**(44) Towards Performance Portability and Modernization of FLASH via Transpilation with High-Level Intermediate Representation**
 Bysiek Mateusz(Tokyo Tech/AIST), Chawdhary Saurabh(Argonne National Laboratory / Univ. of Chicago), Wahib Mohamed(AIST), Dubey Anshu(Argonne National Laboratory / Univ. of Chicago), Matsuoka Satoshi(Riken/AIST/Tokyo Tech)
 
-**(46) 分散共有メモリシステムを利用したBarnes-Hutアルゴリズムの初期並列実装と性能評価**
+**(45) 分散共有メモリシステムを利用したBarnes-Hutアルゴリズムの初期並列実装と性能評価**
 緑川 博子, 柴山 悠(成蹊大)
 
 
