@@ -42,160 +42,154 @@ HPC-4
 **(9) 大規模機械学習訓練におけるI/O性能の高速化**
 芹沢 和洋, 建部 修見(筑波大)
 
-**(10) Applying Loop Transformations to Deep Neural Networks on ONNX**
-Oyama Yosuke(Tokyo Tech), Ben-Nun Tal, Hoefler Torsten(ETH Zurich), Matsuoka Satoshi(Riken/Tokyo Tech)
-
-**(11) Breaking the Limitation of GPU memory for Deep Learning**
+**(10) Breaking the Limitation of GPU memory for Deep Learning**
 Zhang Haoyu(Tokyo Tech)
 
 HPC-5
 ●機械学習３
 座長：TBD
 
-**(12) Recurrent Neural Network based linear embeddings for non-linear dynamics evolution**
+**(11) Recurrent Neural Network based linear embeddings for non-linear dynamics evolution**
 Mohta Shlok, Nakajima Kengo, Shimokawabe Takashi(The Univ. of Tokyo)
 
-**(13) メモリアクセスデータを用いた機械学習によるアプリケーションの類型化**
+**(12) メモリアクセスデータを用いた機械学習によるアプリケーションの類型化**
 土川 稔生, 遠藤 敏夫(東工大/国立研究開発法人産業技術総合研究所), 野村 哲弘(東工大), 近藤 正章(東京大学/理研), 大山 洋介(東工大), 松岡 聡(理研/国立研究開発法人産業技術総合研究所/東工大)
 
-**(14) 構造解析シミュレーションにおけるボトルネック解析および線形ソルバの閾値最適化による高速化の見積もり**
+**(13) 構造解析シミュレーションにおけるボトルネック解析および線形ソルバの閾値最適化による高速化の見積もり**
 ハデルバシュ アミル, 白幡 晃一, 中川 香苗(富士通研究所), 奥田 洋司(東大), 富田 安基(富士通研究所)
 
 
 
-**(15) SX-Aurora TSUBASA の Deep Learning への適用**
+**(14) SX-Aurora TSUBASA の Deep Learning への適用**
 大野 善之, 井手口 裕太, 石坂 一久(NEC)
 									
 HPC-6
 ●ベクトルプロセッサ
 座長：TBD
 
-**(16) ベクトルプロセッサを用いた三次元位置追跡**
+**(15) ベクトルプロセッサを用いた三次元位置追跡**
 井手口 裕太, 大野 善之, 石坂 一久(NEC)
 
-**(17) LLVMを用いたベクトルプロセッサ向けコンパイラ**
+**(16) LLVMを用いたベクトルプロセッサ向けコンパイラ**
 石坂 一久(NEC)
 
-**(18) NEC SX-Aurora TSUBASAにおけるバンク競合の回避に関する一検討**
+**(17) NEC SX-Aurora TSUBASAにおけるバンク競合の回避に関する一検討**
 江端 直樹, 江川 隆輔, 磯部 洋子(東北大), 高木 亮治(JAXA), 滝沢 寛之(東北大)
 
 HPC-7
 ●数値計算１
 座長：TBD
 
-**(19) Flexible and Simplistic Hierarchical Matrix-Based Fast Direct Solver**
+**(18) Flexible and Simplistic Hierarchical Matrix-Based Fast Direct Solver**
 Spalthoff Peter Gerhard, Yokota Rio(Tokyo Tech)
 
 
-**(20)AM-hCGA法による並列多重格子法**
+**(19) AM-hCGA法による並列多重格子法**
 中島 研吾(東大/理研), 堀越 将司(インテル)
 
-**(21)SA-AMG法における収束性安定化のための効率的なニアカーネルベクトル抽出手法に向けた研究**
+**(20) SA-AMG法における収束性安定化のための効率的なニアカーネルベクトル抽出手法に向けた研究**
 野村 直也, 中島 研吾(東大), 藤井 昭宏(工学院大)
 
 HPC-8
 ●GPU1
 座長：TBD
 
-**(22) GPU固有値計算ライブラリのタスク並列実装についての考察**
-今村 俊幸, 椋木 大地(理研)
-
-**(23) Tensorコアを用いたTSQRのGPU実装**
-大友 広幸, 横田 理央(東工大)
-
-**(24) A Study of Synchronization in Modern GPUs**
+**(21) A Study of Synchronization in Modern GPUs**
 ZHANG Lingqi, Mohamed Wahib, Matsuoka Satoshi(Tokyo Tech)
 
 HPC-9
 大規模システム１
 座長：TBD
 
-**(25) FOCUSスーパーコンピュータシステムにおける並列課金インセンティブの効果VI**
+**(22) FOCUSスーパーコンピュータシステムにおける並列課金インセンティブの効果VI**
 西川 武志(計算科学振興財団)
 
 										
-**(26) TSUBAME3.0におけるストレージ利用効率化のためのファイルシステムベンチマーク**
+**(23) TSUBAME3.0におけるストレージ利用効率化のためのファイルシステムベンチマーク**
 野村 哲弘, 三浦 信一, 實本 英之, 額田 彰, 遠藤 敏夫(東工大)
 
-**(27) Gfarmとクラウドストレージによる階層型ストレージシステムの研究**
+**(24) Gfarmとクラウドストレージによる階層型ストレージシステムの研究**
 北澤 昂大, 建部 修見(筑波大)
 
 HPC-10
 ●タスク並列
 座長：TBD
 
-**(28)Batched Kernel APIを用いるOpenMPタスク生成**
+**(25)Batched Kernel APIを用いるOpenMPタスク生成**
 李 珍泌(理研), 渡部 裕(筑波大), 佐藤 三久(理研)
 
-**(29)分散配列上のデータ依存関係に基づく分散タスク生成方式の検討**
+**(26)分散配列上のデータ依存関係に基づく分散タスク生成方式の検討**
 村井 均, 佐藤 三久, 中尾 昌弘, 李  珍泌(理研)
 
-**(30)メニーコアCPU環境における準同型暗号演算高速化を目的とするタスクスケジューリング手法の検討**
+**(27)メニーコアCPU環境における準同型暗号演算高速化を目的とするタスクスケジューリング手法の検討**
 鈴木 拓也, 石巻 優, 山名 早人(早稲田大)
 
 HPC-11
 ●大規模システム２
 座長：TBD
 
-**(31) オブジェクトストレージに対するクライアント協調型の重複排除方式適応への試み**
+**(28) オブジェクトストレージに対するクライアント協調型の重複排除方式適応への試み**
 七海 龍平, 伊藤 恵(公立はこだて未来大学大学院)
 
-**(32) 大規模GPUクラスタにおける深層学習ワークロードの傾向把握**
+**(29) 大規模GPUクラスタにおける深層学習ワークロードの傾向把握**
 滝澤 真一朗, 小川 宏高, 高野 了成(産総研・東工大 RWBC-OIL)
 
-**(33)大規模ゲノムデータに対する分散並列相同性検索システムの提案**
+**(30)大規模ゲノムデータに対する分散並列相同性検索システムの提案**
 町田 健太, 建部 修見(筑波大)
 
 HPC-12
 ●通信
 座長：TBD
 
-**(34)Main Memory Bandwidth and Memory Access Latency Measurement in Intel Processors**
+**(31)Main Memory Bandwidth and Memory Access Latency Measurement in Intel Processors**
 Helm Christian, Taura Kenjiro(The Univ. of Tokyo)
 
-**(35)マルチスレッドプログラムにおける通信ライブラリの性能比較**
+**(32)マルチスレッドプログラムにおける通信ライブラリの性能比較**
 小田嶋 哲哉, 李 珍泌, 佐藤 三久(理研)
 
-**(36) Is Japanese HPC another Galapagos? - Interim Report of MPI International Survey -**
+**(33) Is Japanese HPC another Galapagos? - Interim Report of MPI International Survey -**
 Hori Atsushi, Ogura Takahiro(Riken), Bosilca George(Univ. of Tennessee), Jeannot Emmanuel(Inria), Ishikawa Yutaka(Riken)
 
 HPC-13
 ●数値計算２
 座長：TBD
 
-**(37) ヤコビ回転カーネルを用いたヤコビ固有値計算手法の性能評価**
+**(34) ヤコビ回転カーネルを用いたヤコビ固有値計算手法の性能評価**
 工藤 周平, 今村 俊幸(理研)
 
-**(38) 高速化手法を取り入れた多倍長精度行列乗算ライブラリの性能評価**
+**(35) 高速化手法を取り入れた多倍長精度行列乗算ライブラリの性能評価**
 幸谷 智紀(静岡理工科大)
 
-**(39) Parallel-in-Space/Time Method for Explicit Time-Marching Scheme**
+**(36) Parallel-in-Space/Time Method for Explicit Time-Marching Scheme**
 Chen Yen-Chen, Nakajima Kengo(The Univ. of Tokyo)
 
 HPC-14
 ●GPU2
 座長：TBD
 
-**(40) GPU・FPGA複合演算加速による輻射流体シミュレーションコードARGOTの実装**
+**(37) Tensorコアを用いたTSQRのGPU実装**
+大友 広幸, 横田 理央(東工大)
+
+**(38) GPU・FPGA複合演算加速による輻射流体シミュレーションコードARGOTの実装**
 中道 安祐未, 藤田 典久, 小林 諒平, 朴 泰祐(筑波大), 吉川 耕司(計算科学研究センター/筑波大)
 
-**(41) 都市気象コードCity-LESの並列GPU実装の最適化と性能評価**
+**(39) 都市気象コードCity-LESの並列GPU実装の最適化と性能評価**
 辻 大亮, 多田野 寛人, 朴 泰祐, 池田 亮作, 佐藤 拓人, 日下 博幸(筑波大)
 
 HPC-15
 ●プログラミング環境
 座長：TBD
 
-**(42) グローバルビュープログラミングをサポートするPGAS言語の記述性と性能の比較**
+**(40) グローバルビュープログラミングをサポートするPGAS言語の記述性と性能の比較**
 阪口 裕梧, 緑川 博子(成蹊大)
 
-**(43) アスペクト指向言語を用いたHPC向けDSL作成プラットフォームの構築**
+**(41) アスペクト指向言語を用いたHPC向けDSL作成プラットフォームの構築**
 石村 脩, 吉本 英芳(東大)
 
-**(44) Towards Performance Portability and Modernization of FLASH via Transpilation with High-Level Intermediate Representation**
+**(42) Towards Performance Portability and Modernization of FLASH via Transpilation with High-Level Intermediate Representation**
 Bysiek Mateusz(Tokyo Tech/AIST), Chawdhary Saurabh(Argonne National Laboratory / Univ. of Chicago), Wahib Mohamed(AIST), Dubey Anshu(Argonne National Laboratory / Univ. of Chicago), Matsuoka Satoshi(Riken/AIST/Tokyo Tech)
 
-**(45) 分散共有メモリシステムを利用したBarnes-Hutアルゴリズムの初期並列実装と性能評価**
+**(43) 分散共有メモリシステムを利用したBarnes-Hutアルゴリズムの初期並列実装と性能評価**
 緑川 博子, 柴山 悠(成蹊大)
 
 
