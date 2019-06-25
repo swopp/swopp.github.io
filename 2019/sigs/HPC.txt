@@ -31,7 +31,7 @@ HPC-3
 **(7) DNNの汎化の解明に向けた学習過程における勾配データの解析**
 八島 慶汰(東工大) , 石川 康太, 佐藤 育郎(デンソーアイティーラボラトリ), 松岡 聡(理研)
 
-**(8) A Case Study for Strong Scaling Hybrid-Parallel Training of a 3D Cosmological Model**
+**(8) Toward Training a Large 3D Cosmological CNN with Hybrid Parallelization**
 Oyama Yosuke(Tokyo Tech/LLNL), Maruyama Naoya(LLNL), Dryden Nikoli(Univ. of Illinois at Urbana-Champaign / LLNL), Harrington Peter , Balewski Jan (NERSC), Matsuoka Satoshi(Riken / Tokyo Tech), Snir Marc(Univ. of Illinois at Urbana-Champaign), Nugent Peter (NERSC), Van Essen Brian(LLNL)
 
 
