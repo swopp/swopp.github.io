@@ -8,7 +8,7 @@ ARC+CPSY+DC-2
 ●回路，演算器
 座長：TBD
 
-**(1) ビルディングブロック型積層システムの性能評価**
+**(1) ビルディングブロック型積層システムの性能評価**
 ○天野英晴・茅島秀人・小島拓也（慶大）・坂本龍一・近藤正章（東大）・並木美太郎（東京農工大）
 
 **(2) パイプライン化された演算器を生かした低レイテンシ指数関数実装**
@@ -35,12 +35,12 @@ ARC+CPSY+DC-4
 座長：TBD
 
 **(7) A Case for Power Shifting on Hybrid Memory Based Systems**
-○Eishi Arima・Toshihiro Hanawa（U. Tokyo）・Carsten Trinitis（TUM）
+○Eishi Arima・Toshihiro Hanawa（U. Tokyo）・Carsten Trinitis・Martin Schulz（TUM）
 
 **(8) タイミング調整を行うプリフェッチャに対して投機ミスが与える影響の解析**
 出川祐也・中村朋生・小泉　透・塩谷亮太・入江英嗣・坂井修一（東大）
 
-**(9) パケット処理キャッシュにおけるパイプライン化とマルチポート化の評価**
+**(9) パケット処理キャッシュにおけるパイプライン化とマルチポート化の評価**
 田中京介・八巻隼人・三輪　忍・本多弘樹（電通大）
 
 ARC+CPSY+DC-5
