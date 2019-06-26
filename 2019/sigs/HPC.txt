@@ -94,6 +94,8 @@ HPC-8
 ●GPU1
 座長：TBD
 
+(13:55開始)
+
 **(21) A Study of Synchronization in Modern GPUs**
 ZHANG Lingqi, Mohamed Wahib, Matsuoka Satoshi(Tokyo Tech)
 
@@ -107,7 +109,6 @@ HPC-9
 **(23) FOCUSスーパーコンピュータシステムにおける並列課金インセンティブの効果VI**
 西川 武志(計算科学振興財団)
 
-										
 **(24) TSUBAME3.0におけるストレージ利用効率化のためのファイルシステムベンチマーク**
 野村 哲弘, 三浦 信一, 實本 英之, 額田 彰, 遠藤 敏夫(東工大)
 
