@@ -135,8 +135,8 @@ HPC-11
 **(29) オブジェクトストレージに対するクライアント協調型の重複排除方式適応への試み**
 七海 龍平, 伊藤 恵(公立はこだて未来大学大学院)
 
-**(30) 大規模GPUクラスタにおける深層学習ワークロードの傾向把握**
-滝澤 真一朗, 小川 宏高, 高野 了成(産総研・東工大 RWBC-OIL)
+**(30) Towards Performance Portability and Modernization of FLASH via Transpilation with High-Level Intermediate Representation**
+Bysiek Mateusz(Tokyo Tech/AIST), Chawdhary Saurabh(Argonne National Laboratory / Univ. of Chicago), Wahib Mohamed(AIST), Dubey Anshu(Argonne National Laboratory / Univ. of Chicago), Matsuoka Satoshi(Riken/AIST/Tokyo Tech)
 
 **(31)大規模ゲノムデータに対する分散並列相同性検索システムの提案**
 町田 健太, 建部 修見(筑波大)
@@ -177,21 +177,21 @@ HPC-14
 **(39) 都市気象コードCity-LESの並列GPU実装の最適化と性能評価**
 辻 大亮, 多田野 寛人, 朴 泰祐, 池田 亮作, 佐藤 拓人, 日下 博幸(筑波大)
 
+**(40) 大規模GPUクラスタにおける深層学習ワークロードの傾向把握**
+滝澤 真一朗, 小川 宏高, 高野 了成(産総研・東工大 RWBC-OIL)
+
 HPC-15
 ●プログラミング環境
 座長：TBD
 
-**(40) グローバルビュープログラミングをサポートするPGAS言語の記述性と性能の比較**
+**(41) グローバルビュープログラミングをサポートするPGAS言語の記述性と性能の比較**
 阪口 裕梧, 緑川 博子(成蹊大)
 
-**(41) アスペクト指向言語を用いたHPC向けDSL作成プラットフォームの構築**
+**(42) アスペクト指向言語を用いたHPC向けDSL作成プラットフォームの構築**
 石村 脩, 吉本 英芳(東大)
-
-**(42) Towards Performance Portability and Modernization of FLASH via Transpilation with High-Level Intermediate Representation**
-Bysiek Mateusz(Tokyo Tech/AIST), Chawdhary Saurabh(Argonne National Laboratory / Univ. of Chicago), Wahib Mohamed(AIST), Dubey Anshu(Argonne National Laboratory / Univ. of Chicago), Matsuoka Satoshi(Riken/AIST/Tokyo Tech)
 
 **(43) 分散共有メモリシステムを利用したBarnes-Hutアルゴリズムの初期並列実装と性能評価**
 緑川 博子, 柴山 悠(成蹊大)
 
-
+(18:30終了)
 
