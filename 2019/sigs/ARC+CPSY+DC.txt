@@ -56,7 +56,7 @@ ARC+CPSY+DC-5
 **(12) K5cloud Tracesの概要**
 ○大江和一（富士通研）
 
-**18:30終了**
+
  
 ARC+CPSY+DC-6
 ●アクセラレータ
