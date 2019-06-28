@@ -43,7 +43,7 @@ HPC-4
 芹沢 和洋, 建部 修見(筑波大)
 
 **(10) Breaking the Limitation of GPU memory for Deep Learning**
-Zhang Haoyu(Tokyo Tech)
+Zhang Haoyu, Mohamed Wahib, Zhang Lingqi, Matsuoka Satoshi(Tokyo Tech)
 
 **(11) Recurrent Neural Network based linear embeddings for non-linear dynamics evolution**
 Mohta Shlok, Nakajima Kengo, Shimokawabe Takashi(The Univ. of Tokyo)
@@ -61,7 +61,6 @@ HPC-5
 **(14) SX-Aurora TSUBASA の Deep Learning への適用**
 大野 善之, 井手口 裕太, 石坂 一久(NEC)
 
-(18:30終了)
 									
 HPC-6
 ●ベクトルプロセッサ
