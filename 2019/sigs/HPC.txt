@@ -95,8 +95,8 @@ HPC-8
 
 (13:55開始)
 
-**(21) A Study of Synchronization in Modern GPUs**
-ZHANG Lingqi (Tokyo Tech), Mohamed Wahib (AIST-Tokyo Tech RWBC-OIL), ZHANG Haoyu (Tokyo Tech), Matsuoka Satoshi(RIKEN)
+**(21) A Study of Synchronization Methods in Modern GPUs**
+Zhang Lingqi (Tokyo Tech), Mohamed Wahib (AIST-Tokyo Tech RWBC-OIL), Zhang Haoyu (Tokyo Tech), Matsuoka Satoshi(RIKEN)
 
 **(22) GPU・FPGA複合演算加速による輻射流体シミュレーションコードARGOTの実装**
 中道 安祐未, 藤田 典久, 小林 諒平, 朴 泰祐(筑波大), 吉川 耕司(計算科学研究センター/筑波大)
