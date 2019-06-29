@@ -32,7 +32,7 @@ HPC-3
 八島 慶汰(東工大) , 石川 康太, 佐藤 育郎(デンソーアイティーラボラトリ), 松岡 聡(理研)
 
 **(8) Toward Training a Large 3D Cosmological CNN with Hybrid Parallelization**
-Oyama Yosuke(Tokyo Tech/LLNL), Maruyama Naoya(LLNL), Dryden Nikoli(Univ. of Illinois at Urbana-Champaign / LLNL), Harrington Peter , Balewski Jan (NERSC), Matsuoka Satoshi(Riken / Tokyo Tech), Snir Marc(Univ. of Illinois at Urbana-Champaign), Nugent Peter (NERSC), Van Essen Brian(LLNL)
+Oyama Yosuke(Tokyo Tech/LLNL), Maruyama Naoya(LLNL), Dryden Nikoli(Univ. of Illinois at Urbana-Champaign / LLNL), Harrington Peter , Balewski Jan (NERSC), Matsuoka Satoshi(RIKEN / Tokyo Tech), Snir Marc(Univ. of Illinois at Urbana-Champaign), Nugent Peter (NERSC), Van Essen Brian(LLNL)
 
 
 HPC-4
@@ -96,7 +96,7 @@ HPC-8
 (13:55開始)
 
 **(21) A Study of Synchronization in Modern GPUs**
-ZHANG Lingqi, Mohamed Wahib, Matsuoka Satoshi(Tokyo Tech)
+ZHANG Lingqi (Tokyo Tech), Mohamed Wahib (AIST-Tokyo Tech RWBC-OIL), ZHANG Haoyu (Tokyo Tech), Matsuoka Satoshi(RIKEN)
 
 **(22) GPU・FPGA複合演算加速による輻射流体シミュレーションコードARGOTの実装**
 中道 安祐未, 藤田 典久, 小林 諒平, 朴 泰祐(筑波大), 吉川 耕司(計算科学研究センター/筑波大)
@@ -135,7 +135,7 @@ HPC-11
 七海 龍平, 伊藤 恵(公立はこだて未来大学大学院)
 
 **(30) Towards Performance Portability and Modernization of FLASH via Transpilation with High-Level Intermediate Representation**
-Bysiek Mateusz(Tokyo Tech/AIST), Chawdhary Saurabh(Argonne National Laboratory / Univ. of Chicago), Wahib Mohamed(AIST), Dubey Anshu(Argonne National Laboratory / Univ. of Chicago), Matsuoka Satoshi(Riken/AIST/Tokyo Tech)
+Bysiek Mateusz(Tokyo Tech/AIST), Chawdhary Saurabh(Argonne National Laboratory / Univ. of Chicago), Wahib Mohamed(AIST), Dubey Anshu(Argonne National Laboratory / Univ. of Chicago), Matsuoka Satoshi(RIKEN/AIST/Tokyo Tech)
 
 **(31)大規模ゲノムデータに対する分散並列相同性検索システムの提案**
 町田 健太, 建部 修見(筑波大)
@@ -151,7 +151,7 @@ Helm Christian, Taura Kenjiro(The Univ. of Tokyo)
 小田嶋 哲哉, 李 珍泌, 佐藤 三久(理研)
 
 **(34) Is Japanese HPC another Galapagos? - Interim Report of MPI International Survey -**
-Hori Atsushi, Ogura Takahiro(Riken), Bosilca George(Univ. of Tennessee), Jeannot Emmanuel(Inria), Ishikawa Yutaka(Riken)
+Hori Atsushi, Ogura Takahiro(RIKEN), Bosilca George(Univ. of Tennessee), Jeannot Emmanuel(Inria), Ishikawa Yutaka(RIKEN)
 
 HPC-13
 ●数値計算２
