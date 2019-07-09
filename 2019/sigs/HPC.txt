@@ -99,7 +99,7 @@ HPC-8
 Zhang Lingqi (Tokyo Tech), Mohamed Wahib (AIST-Tokyo Tech RWBC-OIL), Zhang Haoyu (Tokyo Tech), Matsuoka Satoshi(RIKEN)
 
 **(22) GPU・FPGA複合演算加速による輻射流体シミュレーションコードARGOTの実装**
-中道 安祐未, 藤田 典久, 小林 諒平, 朴 泰祐, 吉川 耕司(筑波大)
+中道 安祐未, 藤田 典久, 小林 諒平, 朴 泰祐, 吉川 耕司, 梅村 雅之(筑波大)
 
 HPC-9
 大規模システム１
