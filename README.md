@@ -17,15 +17,15 @@ SWoPP 作業用レポジトリ
 - その他、Jekyll用のファイルなど
 
 # プログラムの作成方法
-1. 前年度ディレクトリをコピーし、新年度ディレクトリを作る
-　　cp -r 20XX 20YY
+1. 前年度ディレクトリをコピーし、新年度ディレクトリを作る。
+   cp -r 20XX 20YY
 
 2. \_config.yaml を適切に修正する
 
-3. \_sass/\_print.scss 内に新年度用の部屋名を記載する
+3. \_sass/\_print.scss 内に新年度用の部屋名を記載する。
 
 4. 20YY/schedule-details.md 及び 20YY/schedule-overview.md の最初の5行を適切に編集する。
-　　基本的にはpermalinkを変更しURLパスを決める
+   基本的にはpermalinkを変更しURLパスを決める
 
 5. プログラムの発表枠をmarkdownで記述する。  
    20XX/schedule-overview.md
