@@ -1,7 +1,7 @@
 ---
 title: 時間割概要
 layout: page
-permalink: /2020/overview/
+permalink: /2020work/overview/
 ---
 
 2020/06/15 最終更新
