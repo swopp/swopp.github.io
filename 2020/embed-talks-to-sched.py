@@ -3,11 +3,11 @@ import sys
 import re
 
 
-rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA|BoF)-\d+)')
+rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA|BoF|xSIG)-\d+)')
 
 data = {}
 
-sigs = [ "HPC", "OS", "ARC+CPSY+DC", "PRO", "MEPA", "BoF" ]
+sigs = [ "HPC", "OS", "ARC+CPSY+DC", "PRO", "MEPA", "BoF", "xSIG" ]
 for sig in sigs:
     path = "sigs/%s.txt" % sig
     with open(path) as f:
