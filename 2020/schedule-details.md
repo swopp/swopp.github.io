@@ -10,15 +10,6 @@ permalink: /2020work/program/
 
 <br />
 
-| 略称 | 正式名称 | 
-|------|-----|
-| xSIG | The 4th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming |
-| HPC | 情報処理学会 ハイパフォーマンスコンピューティング研究会 |
-| ARC+CPSY+DC | 情報処理学会 システム・アーキテクチャ研究会<br />電子情報通信学会 コンピュータシステム研究会<br />電子情報通信学会 ディペンダブルコンピューティング研究会 |
-| OS | 情報処理学会 システムソフトウェアとオペレーティング・システム研究会 |
-| PRO | 情報処理学会 プログラミング研究会 |
-| MEPA | 日本応用数理学会 「行列・固有値問題の解法とその応用」研究部会 |
-
 
 # 目次
 
@@ -35,7 +26,7 @@ permalink: /2020work/program/
 {: .swopp2020-0table}
 | 時間                                                   | xSIG             |
 |--------------------------------------------------------|------------------|
-| 09:15-10:45<br />研究会                                | xSIG-1<br />座長          |
+| 09:15-10:45<br />研究会                                | xSIG-1          |
 | 11:00-12:30<br />研究会                                | xSIG-2           |
 | 12:30-13:30<br />お昼休み                              |                  |
 | 13:30-15:00<br />研究会                                | xSIG-3           |
@@ -50,8 +41,8 @@ permalink: /2020work/program/
 {: .swopp2020table}
 | 時間                                  | HPC              | ARC+CPSY+DC       | OS                 | PRO          | MEPA        |
 |---------------------------------------|------------------|-------------------|--------------------|--------------|-------------|
-| 09:15-10:45<br />研究会               | HPC-1<br />●省電力<br />座長：<br /><br />**(1)           | ARC+CPSY+DC-1<br />●<br />座長：    | OS-1<br />●aa<br />座長：a<br /><br />**a              | PRO-1<br />a●<br />座長：       | MEPA-1<br />●行列計算1<br />座長：<br /><br />** a<br />a     |
-| 11:00-12:30<br />研究会               | HPC-2            | ARC+CPSY+DC-2    | OS-2               | PRO-2        | MEPA-2      |
+| 09:15-10:45<br />研究会               | HPC-1           | ARC+CPSY+DC-1    | OS-1              | PRO-1       | MEPA-1     |
+| 11:00-12:30<br />研究会               | HPC-2            | ARC+CPSY+DC-2     | OS-2               | PRO-2        | MEPA-2      |
 | 12:30-13:30<br />お昼休み             |                  |                   |                    |              |             |
 | 13:30-15:00<br />研究会               | HPC-3            | ARC+CPSY+DC-3     | OS-3               | PRO-3        | MEPA-3      |
 | 15:15-16:45<br />研究会               | HPC-4            | ARC+CPSY+DC-4     | OS-4               | PRO-4        | MEPA-4      |
@@ -70,4 +61,15 @@ permalink: /2020work/program/
 | 13:30-15:00<br />研究会               | HPC-8            | ARC+CPSY+DC-8     | OS-8               | PRO-8        | MEPA-8      |
 | 15:15-16:45<br />研究会               | HPC-9            | ARC+CPSY+DC-9     | OS-9               | PRO-9        | MEPA-9      |
 | 17:00-18:30<br />研究会               | HPC-10           | ARC+CPSY+DC-10    | OS-10              | PRO-10       | MEPA-10     |
+
+<br />
+
+| 略称 | 正式名称 | 
+|------|-----|
+| xSIG | The 4th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming |
+| HPC | 情報処理学会 ハイパフォーマンスコンピューティング研究会 |
+| ARC+CPSY+DC | 情報処理学会 システム・アーキテクチャ研究会<br />電子情報通信学会 コンピュータシステム研究会<br />電子情報通信学会 ディペンダブルコンピューティング研究会 |
+| OS | 情報処理学会 システムソフトウェアとオペレーティング・システム研究会 |
+| PRO | 情報処理学会 プログラミング研究会 |
+| MEPA | 日本応用数理学会 「行列・固有値問題の解法とその応用」研究部会 |
 
