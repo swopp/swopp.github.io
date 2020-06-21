@@ -1,5 +1,5 @@
-PRO-2
-●
+PRO-1
+●言語処理系
 座長：
 
 **A Method for Validating Binary Optimizers**
@@ -8,8 +8,8 @@ PRO-2
 **Branch chainingのRXマイコン向け実装**
 ○千葉 雄司(株式会社日立製作所),永井 佑樹(株式会社日立ソリューションズ),中川 満(ルネサスエレクトロニクス株式会社)
 
-PRO-3
-●
+PRO-2
+●性能評価
 座長：
 
 **Experimental Comparison of Vertex Scheduling Policies for Distributed Asynchronous Graph Processing Systems**
@@ -18,9 +18,12 @@ PRO-3
 **Elixirにおけるデータ並列スケルトンに基づくSIMD並列化の性能評価**
 ○山崎 進(北九州市立大学),久江 雄喜(北九州市立大学)
 
-PRO-7
-●
+PRO-3
+●コンパイル・性能評価・高速化
 座長：
+
+**Compiling ONNX neural network model using MLIR**
+○Tung D. Le(IBM Research - Tokyo),Gheorghe-Teodor Bercea(IBM T.J. Watson Research Center),Tong Chen(IBM T.J. Watson Research Center),Alexandre E. Eichenberger(IBM T.J. Watson Research Center),Haruki Imai(IBM Research - Tokyo),Tian Jin(IBM T.J. Watson Research Center),Kiyokuni Kawachiya(IBM Research - Tokyo),Yasushi Negishi(IBM Research - Tokyo),Kevin O'Brien(IBM T.J. Watson Research Center)
 
 **関数型言語ElixirのIoT実行環境Nervesのリアルタイム性能の評価**
 ○河上 晃治,(京都大学大学院情報学研究科),高瀬 英希(京都大学大学院情報学研究科,JSTさきがけ)
@@ -28,11 +31,8 @@ PRO-7
 **OpenCLコードの生成によるElixirアプリケーションの高速化**
 ○安部 竜矢(京都大学大学院情報学研究科),山崎 進(北九州市立大学国際環境工学部),高瀬 英希(京都大学大学院情報学研究科,JSTさきがけ)
 
-**Compiling ONNX neural network model using MLIR**
-○Tung D. Le(IBM Research - Tokyo),Gheorghe-Teodor Bercea(IBM T.J. Watson Research Center),Tong Chen(IBM T.J. Watson Research Center),Alexandre E. Eichenberger(IBM T.J. Watson Research Center),Haruki Imai(IBM Research - Tokyo),Tian Jin(IBM T.J. Watson Research Center),Kiyokuni Kawachiya(IBM Research - Tokyo),Yasushi Negishi(IBM Research - Tokyo),Kevin O'Brien(IBM T.J. Watson Research Center)
-
-PRO-8
-●
+PRO-4
+●形式言語理論
 座長：
 
 **Automata with Three Types of Constraints**
