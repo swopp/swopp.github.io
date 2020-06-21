@@ -27,7 +27,7 @@ cp -r 20XX 20YY
 4. 20YY/schedule-details.md 及び 20YY/schedule-overview.md の最初の5行を適切に編集する。  
    基本的にはpermalinkを変更しURLパスを決める
 
-5. プログラムの発表枠をmarkdownで記述する。  
+5. プログラムの発表枠をmarkdownで記述する。この枠組み内の枠名部分が各研究会の発表順ファイルの枠名と置換される。  
    20XX/schedule-overview.md
 
 6. 各研究会にテキストで発表順を書いてもらう。  
