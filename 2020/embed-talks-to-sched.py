@@ -1,6 +1,7 @@
 # vim:set expandtab ts=4 sw=4:
 import sys
 import re
+import unicodedata
 
 
 rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA|BoF|xSIG)-\d+)')
@@ -51,5 +52,5 @@ with open('schedule-details.md') as f:
     header += f.readline()
 
 with open('schedule-details.md', 'w') as f:
-    f.write(header)
-    f.write(table_text)
+    f.write(unicodedata.normalize('NFC', header))
+    f.write(unicodedata.normalize('NFC', table_text))
