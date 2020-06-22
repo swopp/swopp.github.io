@@ -1,10 +1,15 @@
+---
+title: プログラム
+layout: page
+permalink: /2020work/program/
+---
 
 ※ 暫定版であり今後予告なく変更される可能性があります
 
 
 2020/06/15 最終更新
-その他、開催に関する情報は[SWoPP2020ウェフ゛サイト](https://sites.google.com/site/swoppweb/swopp2020/) を参照してくた゛さい。
-著者の方へ： 発表題目等に変更か゛ある場合は、発表先研究会に連絡してくた゛さい。
+その他、開催に関する情報は[SWoPP2020ウェブサイト](https://sites.google.com/site/swoppweb/swopp2020/) を参照してください。
+著者の方へ： 発表題目等に変更がある場合は、発表先研究会に連絡してください。
 
 
 <br />
