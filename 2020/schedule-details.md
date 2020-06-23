@@ -1,3 +1,8 @@
+---
+title: プログラム
+layout: page
+permalink: /2020work/program/
+---
 
 ※ 暫定版であり今後予告なく変更される可能性があります
 
