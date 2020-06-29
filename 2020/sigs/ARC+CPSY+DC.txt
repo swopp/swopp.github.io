@@ -1,4 +1,10 @@
 ARC+CPSY+DC-1
+●
+座長：
+
+**講演はありません**
+
+ARC+CPSY+DC-2
 ●マイクロアーキテクチャ・メモリシステム
 座長：未定
 
@@ -11,7 +17,7 @@ ARC+CPSY+DC-1
 **(3) 容量効率を意識したソース・タグ値に基づくセグメント化による発行キューのエネルギー削減**
 森健一郎・安藤秀樹（名大）
 
-ARC+CPSY+DC-2
+ARC+CPSY+DC-3
 ●コンパイラ・言語処理系
 座長：未定
 
@@ -25,7 +31,7 @@ ARC+CPSY+DC-2
 Julia言語を用いた分散並列実行環境の構築
 中田秀基（産総研）
 
-ARC+CPSY+DC-3
+ARC+CPSY+DC-4
 ●アルゴリズム・最適化技術
 座長：未定
 
@@ -38,7 +44,7 @@ ARC+CPSY+DC-3
 **(9) ノーマリーオフ電力制御によるローカル5G基地局省電力化の初期検討**
 鈴木悠太・坂本龍一・中村　宏（東大）
 
-ARC+CPSY+DC-4
+ARC+CPSY+DC-5
 ●CGRA
 座長：未定
 
@@ -48,7 +54,10 @@ ARC+CPSY+DC-4
 **(11) 深層学習を用いたCGRAの効率的なアプリケーションマッピング手法**
 小島拓也・大和田彩夏・天野英晴（慶大）
 
-ARC+CPSY+DC-5
+**ARC/CPSY 表彰式**
+
+
+ARC+CPSY+DC-6
 ●ロボティクス技術
 座長：未定
 
@@ -61,7 +70,7 @@ ARC+CPSY+DC-5
 **(14) ニューロモーフィックコンピューティングによる移動障害物を考慮した経路探索手法**
 櫻井元貴・穴澤徳明・上野洋典（東大）・近藤正章（東大/理研）
 
-ARC+CPSY+DC-6
+ARC+CPSY+DC-7
 ●分散システム
 座長：未定
 
@@ -74,7 +83,19 @@ ARC+CPSY+DC-6
 **(17) A study of an FPGA-based cluster computing with high-speed serial links**
 Fan Ruochong・Ao Yun・Yoshiki Yamaguchi・Taisuke Boku（Univ. of Tsukuba）
 
-ARC+CPSY+DC-7
+ARC+CPSY+DC-8
+●
+座長：
+
+**講演はありません**
+
+ARC+CPSY+DC-9
+●
+座長：
+
+**講演はありません**
+
+ARC+CPSY+DC-9
 ●回路のテスト・故障診断
 座長：未定
 
@@ -87,7 +108,7 @@ ARC+CPSY+DC-7
 **(20) データ量に基づく可検査性尺度を用いたテスト容易化機能的時間展開モデル生成法**
 中村健太・細川利典・石山悠太（日大）・藤原秀雄（大院大）
 
-ARC+CPSY+DC-8
+ARC+CPSY+DC-10
 ●耐故障技術
 座長：未定
 
