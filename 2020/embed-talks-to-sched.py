@@ -3,12 +3,16 @@ import sys
 import re
 import unicodedata
 
+# ### Please use python3 ###
 
 rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA|BoF|xSIG)-\d+)')
 
 data = {}
 
+unicodedata.normalize('NFC', 'test')
+
 sigs = [ "HPC", "OS", "ARC+CPSY+DC", "PRO", "MEPA", "BoF", "xSIG" ]
+
 for sig in sigs:
     path = "sigs/%s.txt" % sig
     with open(path) as f:
