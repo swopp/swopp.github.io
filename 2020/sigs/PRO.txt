@@ -12,6 +12,8 @@ PRO-2
 ●性能評価
 座長：
 
+（13:45 開始）
+
 **Experimental Comparison of Vertex Scheduling Policies for Distributed Asynchronous Graph Processing Systems**
 ○綿引 隼人(東京大学情報理工学系研究科),佐藤 重幸(東京大学情報理工学系研究科),田浦 健次朗(東京大学情報理工学系研究科)
 
