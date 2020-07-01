@@ -30,9 +30,11 @@ MEPA-3
 座長：TBD
 
 17:00-17:40
-**(6)Verified numerical computation for matrix real powers**
+**(6)【招待講演】 Verified numerical computation for matrix real powers**
 宮島信也（岩手大学）
 
 17:40-18:20
-**(7)TBD**
-TBD
+**(7)【招待講演】 TBD**
+鷲尾 巧（(株)UT-Heart研究所）
+
+
