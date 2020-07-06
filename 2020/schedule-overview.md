@@ -45,12 +45,12 @@ permalink: /2020work/overview/
 {: .swopp2020table}
 | 時間                                  | HPC              | ARC+CPSY+DC       | OS                 | PRO          | MEPA        |
 |---------------------------------------|------------------|-------------------|--------------------|--------------|-------------|
-| 09:15-10:45<br />研究会               | HPC-1            | ARC+CPSY+DC-1     | OS-1               |              |             |
-| 11:00-12:30<br />研究会               | HPC-2            | ARC+CPSY+DC-2     | OS-2               | PRO-1        |             |
+| 09:15-10:45<br />研究会               | HPC-1            | ARC+CPSY+DC-1     |                    |              |             |
+| 11:00-12:30<br />研究会               | HPC-2            | ARC+CPSY+DC-2     | OS-1               | PRO-1        |             |
 | 12:30-13:30<br />お昼休み             |                  |                   |                    |              |             |
-| 13:30-15:00<br />研究会               | HPC-3            | ARC+CPSY+DC-3     | OS-3               | PRO-2        | MEPA-1      |
-| 15:15-16:45<br />研究会               | HPC-4            | ARC+CPSY+DC-4     | OS-4               |              | MEPA-2      |
-| 17:00-18:30<br />研究会               | HPC-5            | ARC+CPSY+DC-5     | OS-5               |              | MEPA-3      |
+| 13:30-15:00<br />研究会               | HPC-3            | ARC+CPSY+DC-3     | OS-2               | PRO-2        | MEPA-1      |
+| 15:15-16:45<br />研究会               | HPC-4            | ARC+CPSY+DC-4     | OS-3               |              | MEPA-2      |
+| 17:00-18:30<br />研究会               | HPC-5            | ARC+CPSY+DC-5     | OS-4               |              | MEPA-3      |
 
 <br/>
 
@@ -59,12 +59,12 @@ permalink: /2020work/overview/
 {: .swopp2020table}
 | 時間                                  | HPC              | ARC+CPSY+DC       | OS                 | PRO          | MEPA        |
 |---------------------------------------|------------------|-------------------|--------------------|--------------|-------------|
-| 09:15-10:45<br />研究会               | HPC-6            | ARC+CPSY+DC-6     | OS-6               |              |             |
-| 11:00-12:30<br />研究会               | HPC-7            | ARC+CPSY+DC-7     | OS-7               | PRO-3        |             |
+| 09:15-10:45<br />研究会               | HPC-6            | ARC+CPSY+DC-6     | OS-5               |              |             |
+| 11:00-12:30<br />研究会               | HPC-7            | ARC+CPSY+DC-7     | OS-6               | PRO-3        |             |
 | 12:30-13:30<br />お昼休み             |                  |                   |                    |              |             |
-| 13:30-15:00<br />研究会               | HPC-8            | ARC+CPSY+DC-8     | OS-8               | PRO-4        |             |
-| 15:15-16:45<br />研究会               | HPC-9            | ARC+CPSY+DC-9     | OS-9               |              |             |
-| 17:00-18:30<br />研究会               | HPC-10           | ARC+CPSY+DC-10    | OS-10              |              |             |
+| 13:30-15:00<br />研究会               | HPC-8            | ARC+CPSY+DC-8     |                    | PRO-4        |             |
+| 15:15-16:45<br />研究会               | HPC-9            | ARC+CPSY+DC-9     |                    |              |             |
+| 17:00-18:30<br />研究会               | HPC-10           | ARC+CPSY+DC-10    |                    |              |             |
 
 <br />
 

@@ -1,4 +1,4 @@
-OS-2
+OS-1
 ●ストレージ (1)
 座長：未定
 
@@ -6,25 +6,25 @@ OS-2
 田所 秀和（キオクシア株式会社）
 
 **(2) Storage Cache Optimization using Machine Learning Techniques**
-Baida Maryna (Fujitsu Laboratories Ltd./Budapest University of Technology and Economics), Ohtsuji Hiroki, Hayashi Erika, and Yoshida Eiji (Fujitsu Laboratories Ltd.)
+Baida Maryna (Budapest University of Technology and Economics), Ohtsuji Hiroki, Hayashi Erika, and Yoshida Eiji (Fujitsu Laboratories Ltd.)
 
 **(3) HDD上のExt4におけるシーケンシャルのI/O性能向上に関する一考察**
 中上 誠（工学院大学），Fortes Jose（フロリダ大学），山口 実靖（工学院大学）
 
-OS-3
+OS-2
 ●コンテナ・IoT・GPU
 座長：未定
 
 **(4) ハンドオーバー可能なコンテナ仮想化ベースのCloudlet**
-北出 紘章（筑波大学大学院システム情報工学研究科コンピュータサイエンス専攻），阿部 洋丈，加藤 和彦（筑波大学システム情報系情報工学域）
+北出 紘章，阿部 洋丈，加藤 和彦（筑波大学）
 	
 **(5) 共有型IoT資源利用アプリケーションのためのデータフロープログラミング**
-村木 暢哉（TIS株式会社），木戸 善之（大阪大学サイバーメディアセンター），高橋 慧智（奈良先端科学技術大学院大学情報科学研究科），山田 拓哉（グーグル合同会社），伊達 進（大阪大学 サイバーメディアセンター），梅谷 麗，石橋 靖嗣（TIS株式会社），下條 真司（大阪大学サイバーメディアセンター）
+村木 暢哉（TIS株式会社），木戸 善之（大阪大学），高橋 慧智（奈良先端科学技術大学院大学），山田 拓哉，伊達 進（大阪大学），梅谷 麗，石橋 靖嗣（TIS株式会社），下條 真司（大阪大学）
 
 **(6) GPUからの疑似的なシグナル送信によるプロセスレベル障害からの復旧**
 木村 健人，光来 健一（九州工業大学）
 
-OS-4
+OS-3
 ●並列・分散システム
 座長：未定
 
@@ -35,13 +35,13 @@ OS-4
 井上 達博，置田 真生，伊野 文彦（大阪大学）
 
 **(9) マルチクラスタ環境における不均一性を考慮したジョブスケジューリングアルゴリズムの設計**
-齋藤 峻（法政大学大学院情報科学研究科情報科学専攻），廣津 登志夫（法政大学情報科学部）
+齋藤 峻，廣津 登志夫（法政大学）
 
 
-OS-5
+OS-4
 OS運営委員会
 
-OS-6
+OS-5
 ●ストレージ (2)
 座長：未定
 
@@ -52,14 +52,14 @@ OS-6
 宮本 基志，三輪 竜也，川島 龍太，松尾 啓志（名古屋工業大学）
 
 **(12) データ配置の違いが分散ストレージにもたらす省電力効果の測定と配置手法の検討**
-井元 啓貴（筑波大学大学院システム情報工学研究科コンピュータサイエンス専攻），阿部 洋丈，町田 文雄，長谷部 浩二，加藤 和彦（筑波大学システム情報系）
+井元 啓貴，阿部 洋丈，町田 文雄，長谷部 浩二，加藤 和彦（筑波大学）
 
-OS-7
+OS-6
 ●ネットワーク
 座長：未定
 
 **(13) 別経路ACKを用いたMPTCPの公平性評価と手法の検討**
-安藤 洸将（筑波大学），阿部 洋丈，加藤 和彦（筑波大学）
+安藤 洸将，阿部 洋丈，加藤 和彦（筑波大学）
 
 **(14) Analyzing Performance Pitfalls of On-Demand Paging of InfiniBand**
 Fukuoka Takuya, Sato Shigeyuki, and Taura Kenjiro (The University of Tokyo)
