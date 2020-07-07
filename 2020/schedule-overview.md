@@ -1,7 +1,7 @@
 ---
 title: 時間割概要
 layout: page
-permalink: /2020work/overview/
+permalink: /2020/overview/
 ---
 
 ※ 暫定版であり今後予告なく変更される可能性があります

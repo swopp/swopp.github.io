@@ -1,7 +1,7 @@
 ---
 title: プログラム
 layout: page
-permalink: /2020work/program/
+permalink: /2020/program/
 ---
 
 ※ 暫定版であり今後予告なく変更される可能性があります
