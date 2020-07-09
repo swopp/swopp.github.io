@@ -57,6 +57,7 @@ $ git clone https://github.com/swopp/swopp.github.io.git
 
 3.  2019/ 直下にあります py ファイルを実行してください  
 $ python embed-talks-to-sched.py
+(2020版からPython3限定になっているようなので注意)
 
 4. github にデータをコミットする  
 $ git add *  

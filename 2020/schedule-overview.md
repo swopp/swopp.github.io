@@ -1,13 +1,11 @@
 ---
 title: 時間割概要
 layout: page
-permalink: /2020work/overview/
+permalink: /2020/overview/
 ---
 
-※ 暫定版であり今後予告なく変更される可能性があります
 
-
-2020/06/15 最終更新
+2020/07/07 最終更新
 その他、開催に関する情報は[SWoPP2020ウェブサイト](https://sites.google.com/site/swoppweb/swopp2020/) を参照してください。
 著者の方へ： 発表題目等に変更がある場合は、発表先研究会に連絡してください。
 
@@ -45,12 +43,12 @@ permalink: /2020work/overview/
 {: .swopp2020table}
 | 時間                                  | HPC              | ARC+CPSY+DC       | OS                 | PRO          | MEPA        |
 |---------------------------------------|------------------|-------------------|--------------------|--------------|-------------|
-| 09:15-10:45<br />研究会               | HPC-1            | ARC+CPSY+DC-1     | OS-1               |              | MEPA-1      |
-| 11:00-12:30<br />研究会               | HPC-2            | ARC+CPSY+DC-2     | OS-2               | PRO-1        | MEPA-2      |
+| 09:15-10:45<br />研究会               | HPC-1            | ARC+CPSY+DC-1     |                    |              |             |
+| 11:00-12:30<br />研究会               | HPC-2            | ARC+CPSY+DC-2     | OS-1               | PRO-1        |             |
 | 12:30-13:30<br />お昼休み             |                  |                   |                    |              |             |
-| 13:30-15:00<br />研究会               | HPC-3            | ARC+CPSY+DC-3     | OS-3               | PRO-2        | MEPA-3      |
-| 15:15-16:45<br />研究会               | HPC-4            | ARC+CPSY+DC-4     | OS-4               |              | MEPA-4      |
-| 17:00-18:30<br />研究会               | HPC-5            | ARC+CPSY+DC-5     | OS-5               |              | MEPA-5      |
+| 13:30-15:00<br />研究会               | HPC-3            | ARC+CPSY+DC-3     | OS-2               | PRO-2        | MEPA-1      |
+| 15:15-16:45<br />研究会               | HPC-4            | ARC+CPSY+DC-4     | OS-3               |              | MEPA-2      |
+| 17:00-18:30<br />研究会               | HPC-5            | ARC+CPSY+DC-5     | OS-4               |              | MEPA-3      |
 
 <br/>
 
@@ -59,12 +57,12 @@ permalink: /2020work/overview/
 {: .swopp2020table}
 | 時間                                  | HPC              | ARC+CPSY+DC       | OS                 | PRO          | MEPA        |
 |---------------------------------------|------------------|-------------------|--------------------|--------------|-------------|
-| 09:15-10:45<br />研究会               | HPC-6            | ARC+CPSY+DC-6     | OS-6               |              | MEPA-6      |
-| 11:00-12:30<br />研究会               | HPC-7            | ARC+CPSY+DC-7     | OS-7               | PRO-3        | MEPA-7      |
+| 09:15-10:45<br />研究会               | HPC-6            | ARC+CPSY+DC-6     | OS-5               |              |             |
+| 11:00-12:30<br />研究会               | HPC-7            | ARC+CPSY+DC-7     | OS-6               | PRO-3        |             |
 | 12:30-13:30<br />お昼休み             |                  |                   |                    |              |             |
-| 13:30-15:00<br />研究会               | HPC-8            | ARC+CPSY+DC-8     | OS-8               | PRO-4        | MEPA-8      |
-| 15:15-16:45<br />研究会               | HPC-9            | ARC+CPSY+DC-9     | OS-9               |              | MEPA-9      |
-| 17:00-18:30<br />研究会               | HPC-10           | ARC+CPSY+DC-10    | OS-10              |              | MEPA-10     |
+| 13:30-15:00<br />研究会               | HPC-8            | ARC+CPSY+DC-8     |                    | PRO-4        |             |
+| 15:15-16:45<br />研究会               | HPC-9            | ARC+CPSY+DC-9     |                    |              |             |
+| 17:00-18:30<br />研究会               | HPC-10           | ARC+CPSY+DC-10    |                    |              |             |
 
 <br />
 
