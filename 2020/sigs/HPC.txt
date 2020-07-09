@@ -22,7 +22,7 @@ HPC-2
 大道 修, 荒木 拓也（日本電気株式会社）
 
 **(6)Efficient FDK Algorithms on SIMD-accelerated Processors** 
-Chen Peng, Wahib Mohamed（AIST）, Meng Jintao（Tencent AI Lab）, Takizawa Shinichiro, Hirofuchi Takahiro, Ogawa Hirotaka（AIST）, Matsuoka Satoshi（RIKEN）
+Chen Peng, Wahib Mohamed, Takizawa Shinichiro, Hirofuchi Takahiro, Ogawa Hirotaka（AIST）, Matsuoka Satoshi（RIKEN）
 
 HPC-3
 ●アクセラレータ
@@ -132,7 +132,7 @@ HPC-9
 ~~**(25) オンプレミスシステムとクラウドを連携するメタスケジューラ**
 滝澤 真一朗, 高野 了成（産総研）, 清水 正明, 松葉 浩也（株式会社日立製作所）, 中田 秀基, 小川 宏高（産総研）~~
 
---- 以下、発表キャンセル
+
 
 
 
