@@ -37,7 +37,7 @@ xSIG-3
 秋信 有花，倉光 君郎（日本女子大学）
 
 xSIG-4
-●Cloud and Quantum
+●Cloud, Edge and Quantum
 座長：未定
 
 **(9) Power Consumption Reduction Method and Edge Offload Server for Multiple Robots**
