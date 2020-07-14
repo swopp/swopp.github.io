@@ -49,6 +49,7 @@ permalink: /2020/overview/
 | 13:30-15:00<br />研究会               | HPC-3            | ARC+CPSY+DC-3     | OS-2               | PRO-2        | MEPA-1      |
 | 15:15-16:45<br />研究会               | HPC-4            | ARC+CPSY+DC-4     | OS-3               |              | MEPA-2      |
 | 17:00-18:30<br />研究会               | HPC-5            | ARC+CPSY+DC-5     | OS-4               |              | MEPA-3      |
+| 18:40-21:00<br />懇親会               |>|>|懇親会|||
 
 <br/>
 
