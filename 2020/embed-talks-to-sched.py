@@ -1,9 +1,13 @@
+#!/usr/bin/env python3
 # vim:set expandtab ts=4 sw=4:
 import sys
 import re
 import unicodedata
 
 # ### Please use python3 ###
+if sys.version_info.major != 3:
+    sys.stderr.write('Please use python 3.x\n')
+    exit()
 
 rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA|BoF|xSIG)-\d+)')
 
