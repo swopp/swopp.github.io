@@ -1,6 +1,6 @@
 MEPA-1
 ●固有値・特異値問題
-座長：TBD
+座長：深谷 猛（北海道大学）
 
 (14:00開始)
 
@@ -13,7 +13,7 @@ MEPA-1
 
 MEPA-2
 ●線形方程式とアプリケーション
-座長：TBD
+座長：相原 研輔（東京都市大学）
 
 **(3)時空間行列に対するGMRES上限解析へのSAMAの適用**
 依田 凌, 中島 研吾（東京大学）, Matthias Bolten（University of Wuppertal）, 藤井 昭宏（工学院大学）
@@ -26,8 +26,8 @@ MEPA-2
 
 
 MEPA-3
-●TBD
-座長：TBD
+●招待講演
+座長：保國 惠一（筑波大学）
 
 17:00-17:40
 **(6)【招待講演】 Verified numerical computation for matrix real powers**
