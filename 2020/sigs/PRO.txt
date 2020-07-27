@@ -1,6 +1,6 @@
 PRO-1
 ●言語処理系
-座長：TBD
+座長：澄川 靖信（東京都立大学）
 
 **A Method for Validating Binary Optimizers**
 ○川人 基弘(日本IBM東京基礎研究所), Reid Copeland(IBM Canada Software Lab - Toronto), 孝壽 俊彦(日本IBM東京基礎研究所), David Siegwart(IBM United Kingdom Limited), 小原 盛幹(日本IBM東京基礎研究所)
@@ -22,7 +22,7 @@ PRO-2
 
 PRO-3
 ●コンパイル・性能評価・高速化
-座長：TBD
+座長：堀江 倫大（日本アイ・ビー・エム）
 
 **Compiling ONNX neural network model using MLIR**
 ○Tung D. Le(IBM Research - Tokyo), Gheorghe-Teodor Bercea(IBM T.J. Watson Research Center), Tong Chen(IBM T.J. Watson Research Center), Alexandre E. Eichenberger(IBM T.J. Watson Research Center), Haruki Imai(IBM Research - Tokyo), Tian Jin(IBM T.J. Watson Research Center), Kiyokuni Kawachiya(IBM Research - Tokyo), Yasushi Negishi(IBM Research - Tokyo), Kevin O'Brien(IBM T.J. Watson Research Center)
