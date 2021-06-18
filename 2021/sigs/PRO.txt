@@ -1,0 +1,44 @@
+PRO-1
+●言語処理系
+座長：澄川 靖信（東京都立大学）
+
+**A Method for Validating Binary Optimizers**
+○川人 基弘(日本IBM東京基礎研究所), Reid Copeland(IBM Canada Software Lab - Toronto), 孝壽 俊彦(日本IBM東京基礎研究所), David Siegwart(IBM United Kingdom Limited), 小原 盛幹(日本IBM東京基礎研究所)
+
+**Branch chainingのRXマイコン向け実装**
+○千葉 雄司(株式会社日立製作所), 永井 佑樹(株式会社日立ソリューションズ), 中川 満(ルネサスエレクトロニクス株式会社)
+
+PRO-2
+●性能評価
+座長：江本 健斗（九州工業大学）
+
+（13:45 開始）
+
+**Experimental Comparison of Vertex Scheduling Policies for Distributed Asynchronous Graph Processing Systems**
+○綿引 隼人(東京大学情報理工学系研究科), 佐藤 重幸(東京大学情報理工学系研究科), 田浦 健次朗(東京大学情報理工学系研究科)
+
+**Elixirにおけるデータ並列スケルトンに基づくSIMD並列化の性能評価**
+○山崎 進(北九州市立大学), 久江 雄喜(北九州市立大学)
+
+PRO-3
+●コンパイル・性能評価・高速化
+座長：堀江 倫大（日本アイ・ビー・エム）
+
+**Compiling ONNX neural network model using MLIR**
+○Tung D. Le(IBM Research - Tokyo), Gheorghe-Teodor Bercea(IBM T.J. Watson Research Center), Tong Chen(IBM T.J. Watson Research Center), Alexandre E. Eichenberger(IBM T.J. Watson Research Center), Haruki Imai(IBM Research - Tokyo), Tian Jin(IBM T.J. Watson Research Center), Kiyokuni Kawachiya(IBM Research - Tokyo), Yasushi Negishi(IBM Research - Tokyo), Kevin O'Brien(IBM T.J. Watson Research Center)
+
+**関数型言語ElixirのIoT実行環境Nervesのリアルタイム性能の評価**
+○河上 晃治(京都大学大学院情報学研究科), 高瀬 英希(京都大学大学院情報学研究科, JSTさきがけ)
+
+**OpenCLコードの生成によるElixirアプリケーションの高速化**
+○安部 竜矢(京都大学大学院情報学研究科), 山崎 進(北九州市立大学国際環境工学部), 高瀬 英希(京都大学大学院情報学研究科, JSTさきがけ)
+
+PRO-4
+●形式言語
+座長：水島 宏太（株式会社オプト）
+
+**Automata with Three Types of Constraints**
+○新屋 良磨(秋田大学数理科学コース)
+
+**同一箇所で複数発生する左再帰を扱えるpackrat parser**
+○梅田 理生(筑波大学理工情報生命学術院システム情報工学研究群), 前田 敦司(筑波大学システム情報系情報工学域)
