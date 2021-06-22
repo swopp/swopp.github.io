@@ -1,44 +1,38 @@
 PRO-1
-●言語処理系
-座長：澄川 靖信（東京都立大学）
-
-**A Method for Validating Binary Optimizers**
-○川人 基弘(日本IBM東京基礎研究所), Reid Copeland(IBM Canada Software Lab - Toronto), 孝壽 俊彦(日本IBM東京基礎研究所), David Siegwart(IBM United Kingdom Limited), 小原 盛幹(日本IBM東京基礎研究所)
-
-**Branch chainingのRXマイコン向け実装**
-○千葉 雄司(株式会社日立製作所), 永井 佑樹(株式会社日立ソリューションズ), 中川 満(ルネサスエレクトロニクス株式会社)
-
+●プログラム解析
+座長：TBA
+**Detection of Layered Bottlenecks in Microservices**
+〇稲垣 達氏 (日本IBM東京基礎研究所), 上田 陽平 (日本IBM東京基礎研究所), 小原 盛幹 (日本IBM東京基礎研究所), 千葉 立寛 (日本IBM東京基礎研究所)
+**情報量に着目したインフォメーションフロー追跡による情報漏洩防止手法**
+○小川 愛理 (日本IBM東京基礎研究所, 東京大学大学院情報理工学系研究科), 塩谷 亮太 (東京大学大学院情報理工学系研究科)
 PRO-2
-●性能評価
-座長：江本 健斗（九州工業大学）
-
-（13:45 開始）
-
-**Experimental Comparison of Vertex Scheduling Policies for Distributed Asynchronous Graph Processing Systems**
-○綿引 隼人(東京大学情報理工学系研究科), 佐藤 重幸(東京大学情報理工学系研究科), 田浦 健次朗(東京大学情報理工学系研究科)
-
-**Elixirにおけるデータ並列スケルトンに基づくSIMD並列化の性能評価**
-○山崎 進(北九州市立大学), 久江 雄喜(北九州市立大学)
-
+●バイナリ
+座長：TBA
+**JSONのデータ格納効率を高めるバイナリフォーマットBTONの設計と実装**
+○李 彦志 (芝浦工業大学), 菅谷 みどり (芝浦工業大学)
+**Automatic Optimize-time Validation for Binary Optimizers**
+○川人 基弘 (日本IBM東京基礎研究所), Reid Coperand (IBM Canada), 孝壽 俊彦 (日本IBM東京基礎研究所), David Siegwart (IBM United Kingdom Limited), 小原 盛幹 (日本IBM東京基礎研究所)
 PRO-3
-●コンパイル・性能評価・高速化
-座長：堀江 倫大（日本アイ・ビー・エム）
-
-**Compiling ONNX neural network model using MLIR**
-○Tung D. Le(IBM Research - Tokyo), Gheorghe-Teodor Bercea(IBM T.J. Watson Research Center), Tong Chen(IBM T.J. Watson Research Center), Alexandre E. Eichenberger(IBM T.J. Watson Research Center), Haruki Imai(IBM Research - Tokyo), Tian Jin(IBM T.J. Watson Research Center), Kiyokuni Kawachiya(IBM Research - Tokyo), Yasushi Negishi(IBM Research - Tokyo), Kevin O'Brien(IBM T.J. Watson Research Center)
-
-**関数型言語ElixirのIoT実行環境Nervesのリアルタイム性能の評価**
-○河上 晃治(京都大学大学院情報学研究科), 高瀬 英希(京都大学大学院情報学研究科, JSTさきがけ)
-
-**OpenCLコードの生成によるElixirアプリケーションの高速化**
-○安部 竜矢(京都大学大学院情報学研究科), 山崎 進(北九州市立大学国際環境工学部), 高瀬 英希(京都大学大学院情報学研究科, JSTさきがけ)
-
+●組み込み系
+座長：TBA
+**RL78マイコン向けCコンパイラにおけるprocedural abstractionの実装**
+○千葉 雄司 (株式会社日立製作所), 永井 佑樹 (株式会社日立ソリューションズ), 久島 伊知郎 (ルネサス エレクトロニクス株式会社)
 PRO-4
-●形式言語
-座長：水島 宏太（株式会社オプト）
-
-**Automata with Three Types of Constraints**
-○新屋 良磨(秋田大学数理科学コース)
-
-**同一箇所で複数発生する左再帰を扱えるpackrat parser**
-○梅田 理生(筑波大学理工情報生命学術院システム情報工学研究群), 前田 敦司(筑波大学システム情報系情報工学域)
+●並列プログラミング
+座長：TBA
+**Julia言語へのActorの導入**
+中田 秀基 (産業技術総合研究所)
+**Experience in testing MPI+Java parallel and distributed programs with JUnit**
+○Patrick Finnerty (Graduate School of System Informatics, Kobe University), Yoshiki Kawanishi (Graduate School of System Informatics, Kobe University), Tomio Kamada (Graduate School of System Informatics, Kobe University), Chikara Ohta (Graduate School of System Informatics, Kobe University)
+PRO-5
+●ツール
+座長：TBA
+**言語実現フレームワークに基づく汎言語的オブジェクトグラフ収集手法**
+○高橋 修祐 (東京工業大学), 伊澤 侑祐 (東京工業大学), 増原 英彦 (東京工業大学), 叢 悠悠 (東京工業大学)
+**Design and Implementation of a multicomplex number library for computing any order of derivatives**
+○Shaowen Li (Graduate School of Engineering, the University of Tokyo), Hiroyuki Sato (Information Technology Center, the University of Tokyo)
+PRO-6
+●GPGPU
+座長：TBA
+**Scalar Replacement Considering Branch Divergence**
+○福原 淳司 (東京理科大学理工学研究科), 滝本 宗宏 (東京理科大学理工学研究科)
