@@ -1,12 +1,12 @@
 PRO-1
-●プログラム解析
+●並列プログラミング
 座長：TBA
 
-**Detection of Layered Bottlenecks in Microservices**
-〇稲垣 達氏 (日本IBM東京基礎研究所), 上田 陽平 (日本IBM東京基礎研究所), 小原 盛幹 (日本IBM東京基礎研究所), 千葉 立寛 (日本IBM東京基礎研究所)
+**Julia言語へのActorの導入**
+中田 秀基 (産業技術総合研究所)
 
-**情報量に着目したインフォメーションフロー追跡による情報漏洩防止手法**
-○小川 愛理 (日本IBM東京基礎研究所, 東京大学大学院情報理工学系研究科), 塩谷 亮太 (東京大学大学院情報理工学系研究科)
+**Experience in testing MPI+Java parallel and distributed programs with JUnit**
+○Patrick Finnerty (Graduate School of System Informatics, Kobe University), Yoshiki Kawanishi (Graduate School of System Informatics, Kobe University), Tomio Kamada (Graduate School of System Informatics, Kobe University), Chikara Ohta (Graduate School of System Informatics, Kobe University)
 
 PRO-2
 ●バイナリ
@@ -26,14 +26,14 @@ PRO-3
 ○千葉 雄司 (株式会社日立製作所), 永井 佑樹 (株式会社日立ソリューションズ), 久島 伊知郎 (ルネサス エレクトロニクス株式会社)
 
 PRO-4
-●並列プログラミング
+●プログラム解析
 座長：TBA
 
-**Julia言語へのActorの導入**
-中田 秀基 (産業技術総合研究所)
+**Detection of Layered Bottlenecks in Microservices**
+〇稲垣 達氏 (日本IBM東京基礎研究所), 上田 陽平 (日本IBM東京基礎研究所), 小原 盛幹 (日本IBM東京基礎研究所), 千葉 立寛 (日本IBM東京基礎研究所)
 
-**Experience in testing MPI+Java parallel and distributed programs with JUnit**
-○Patrick Finnerty (Graduate School of System Informatics, Kobe University), Yoshiki Kawanishi (Graduate School of System Informatics, Kobe University), Tomio Kamada (Graduate School of System Informatics, Kobe University), Chikara Ohta (Graduate School of System Informatics, Kobe University)
+**情報量に着目したインフォメーションフロー追跡による情報漏洩防止手法**
+○小川 愛理 (日本IBM東京基礎研究所, 東京大学大学院情報理工学系研究科), 塩谷 亮太 (東京大学大学院情報理工学系研究科)
 
 PRO-5
 ●ツール
