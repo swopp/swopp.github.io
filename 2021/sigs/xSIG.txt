@@ -1,63 +1,63 @@
 xSIG-1
-●New Processor Architecture
-座長：滝沢 寛之（東北大学）
+●トランザクショナルメモリ
+座長：山田　浩史 (東京農工大学)
 
 09:30-
-xSIG 2020 オープニング 
+xSIG 2021 オープニング 
 
-**(1) 距離制限を保証するSTRAIGHTコード生成アルゴリズムの提案**
-杉田 脩，小泉 透，入江 英嗣，坂井 修一（東京大学）
+**(1) A Safe Fallback Mechanism for Exploiting Parallelism of Hardware Transactional Memory**
+山下 淳，小林 龍之介，山本 和諒，浅井 優太（名工大），塩谷 亮太（東大），五島 正裕（NII），津邑 公暁（名工大）
 
-**(2) 入力検索機構の改良による自動メモ化プロセッサの省電力化**
-武石 隆太郎，津邑 公暁（名古屋工業大学），中島 康彦（奈良先端科学技術大学院大学）
+**(2) A History-Based Conflict Prediction for Software Transactional Memory**
+山本和諒，浅井 優太，山下 淳，小林 龍之介（名古屋工業大学），塩谷 亮太（東京大学），五島 正裕（国立情報学研究所），津邑 公暁（名古屋工業大学）
 
 xSIG-2
-●Transaction Processing
-座長：千代 英一郎（成蹊大学）
+●プロセッサ
+座長：江川　隆輔 (東京電機大学)
 
-**(3) ハイブリッドトランザクショナルメモリ高速化のためのハードウェア機構活用手法**
-浅井 優太，山下 淳，小林 龍之介，二間瀬 悠希（名古屋工業大学），塩谷 亮太（東京大学），五島 正裕（国立情報学研究所），津邑 公暁（名古屋工業大学）
+**(3) Out-of-Step Pipeline for Efficient Gather/Scatter**
+葛 毅，依田 勝洋，一場  幸，伊藤 真紀子，吉川 隆英（富士通研），五島 正裕（国立情報学研究所）
 
-**(4) トランザクショナルメモリに適したグラフ処理プログラミングの検討**
-山下 淳，浅井 優太，小林 龍之介，二間瀬 悠希（名古屋工業大学），塩谷 亮太（東京大学），五島 正裕（国立情報学研究所），津邑 公暁（名古屋工業大学）
+**(4) A Study on Instruction Supply for Speculative Execution Processors**
+出川 祐，中村 朋生，小泉 透，塩谷 亮太，入江 英嗣，坂井 修一（東京大学）
 
-**(5) アボートの抑制を目的とするスレッド制御を用いたトランザクションへの資源割り当て**
-葛木 優太，伊藤 竜一（大阪大学），中園翔（NTT），佐々木 勇和，鬼塚 真（大阪大学）
+**(5) A Dynamic Target Selection of Computation Reuse for Auto-Memoization Processor**
+中原 博研，武石 隆太郎，津邑 公暁（名古屋工業大学），中島 康彦（奈良先端科学技術大学院大学）
 
 xSIG-3
-●Programming System
-座長：中田 秀基（産業技術総合研究所）
+●並列計算と最適化
+座長：伊達　進 (大阪大学)
 
-**(6) 部分評価に基づくクエリコンパイラにおけるSIMD命令の活用**
-根本 潤，川島 英之，遠山 元道（慶應義塾大学）
+**(6) Analysis of Concurrency Control Optimization for Highly Contended Workloads**
+舛村 康成（慶應大学），星野 喬（サイボウズ・ラボ），川島 英之（慶應大学）
 
-**(7) 生産性と性能を両立する動画像処理環境の開発**
-高岡 昌弘，津邑 公暁（名古屋工業大学）
+**(7) A novel ILU preconditioning method with block structure suitable for SIMD vectorization**
+鈴木 謙吾, 深谷 猛, 岩下 武史（北海道大学）
 
-**(8) 自然言語記述からの近似コード生成を用いた初学者プログラミング支援**
-秋信 有花，倉光 君郎（日本女子大学）
+**(8) Hisui:A Image and Video Processing Framework with Auto-Optimizer**
+奥田 一平，高岡 昌弘，津邑 公暁（名古屋工業大学）
 
 xSIG-4
-●Cloud, Edge and Quantum
-座長： 鯉渕 道紘（国立情報学研究所）
+●ネットワーク
+座長：滝澤　真一朗 (産総研)
 
-**(9) Power Consumption Reduction Method and Edge Offload Server for Multiple Robots**
-三宮 夏帆（芝浦工業大学），天野 英晴（慶應義塾大学），菅谷 みどり（芝浦工業大学）
+**(9) Table-separate Packet Processing Caches for Highly Efficient Table Lookups inRouters**
+長田 大樹，田中 京介，八巻 隼人，三輪 忍，本多 弘樹（電気通信大学），五島 正裕（国立情報学研究所）
 
-**(10) エッジ，クラウド間分散処理に向けたNNを用いた動作識別手法の検討**
-高崎 智香子（お茶の水女子大学），竹房 あつ子（国立情報学研究所），中田 秀基（産業技術総合研究所），小口 正人（お茶の水女子大学）
+**(10) The Case for Packet Forwarding Cache of Commodity Switches for Parallel Computers**
+Shoichi Hirasawa (NII)，Hayato Yamaki (The University of Electro-Communictions)
 
-**(11) 量子アニーリングによる配送計画問題の評価**
-齋藤 和広，大山 重樹（株式会社KDDI総合研究所），梅木 智光（KDDI株式会社），黒川 茂莉，小野 智弘（株式会社KDDI総合研究所）
+**(11) A Study on a Distributed Stream Processing System for Online Video Action Recognition**
+高崎 智香子（お茶の水女子大学），竹房 あつ子（国立情報学研究所），中田秀基（産業技術総合研究所），小口 正人（お茶の水女子大学）
 
 xSIG-5
-●HPC Software
-座長：千葉 立寛（IBM東京基礎研究所）
+●FPGA
+座長：佐野　健太郎 (理化学研究所)
 
-**(12) ベイズ最適化による洪水シミュレーションコードの負荷バランス自動調整**
-石塚 歩（東北大学工学部），山下 毅，江川 隆輔，滝沢 寛之（東北大学サイバーサイエンスセンター），山本 道，風間 聡（東北大学大学院工学研究科）
+**(12) Transprecision Calculation Platform Offloaded on FPGA**
+Tadayoshi Hara, Toshiro Hanawa (The University of Tokyo)
 
-**(13) Automated Subspace Correction法を前処理とするCGソルバの開発と評価**
-池原 紘太，深谷 猛，岩下 武史（北海道大学）
+**(13) Particle Filter-based vs. Graph-based: SLAM Acceleration on Low-end FPGAs**
+Keisuke Sugiura, Hiroki Matsutani (Keio University)
 
-xSIG 2020 表彰式・クロージング
+xSIG 2021 表彰式・クロージング
