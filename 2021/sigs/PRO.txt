@@ -1,4 +1,11 @@
 PRO-1
+●
+座長：TBA
+
+**講演はありません**
+
+
+PRO-2
 ●並列プログラミング
 座長：TBA
 
@@ -8,7 +15,7 @@ PRO-1
 **Experience in testing MPI+Java parallel and distributed programs with JUnit**
 ○Patrick Finnerty (Graduate School of System Informatics, Kobe University), Yoshiki Kawanishi (Graduate School of System Informatics, Kobe University), Tomio Kamada (Graduate School of System Informatics, Kobe University), Chikara Ohta (Graduate School of System Informatics, Kobe University)
 
-PRO-2
+PRO-3
 ●バイナリ
 座長：TBA
 
@@ -18,12 +25,6 @@ PRO-2
 **Automatic Optimize-time Validation for Binary Optimizers**
 ○川人 基弘 (日本IBM東京基礎研究所), Reid Coperand (IBM Canada), 孝壽 俊彦 (日本IBM東京基礎研究所), David Siegwart (IBM United Kingdom Limited), 小原 盛幹 (日本IBM東京基礎研究所)
 
-PRO-3
-●組み込み系
-座長：TBA
-
-**RL78マイコン向けCコンパイラにおけるprocedural abstractionの実装**
-○千葉 雄司 (株式会社日立製作所), 永井 佑樹 (株式会社日立ソリューションズ), 久島 伊知郎 (ルネサス エレクトロニクス株式会社)
 
 PRO-4
 ●プログラム解析
@@ -46,8 +47,11 @@ PRO-5
 ○Shaowen Li (Graduate School of Engineering, the University of Tokyo), Hiroyuki Sato (Information Technology Center, the University of Tokyo)
 
 PRO-6
-●GPGPU
+●コンパイラと最適化
 座長：TBA
+
+**RL78マイコン向けCコンパイラにおけるprocedural abstractionの実装**
+○千葉 雄司 (株式会社日立製作所), 永井 佑樹 (株式会社日立ソリューションズ), 久島 伊知郎 (ルネサス エレクトロニクス株式会社)
 
 **Scalar Replacement Considering Branch Divergence**
 ○福原 淳司 (東京理科大学理工学研究科), 滝本 宗宏 (東京理科大学理工学研究科)
