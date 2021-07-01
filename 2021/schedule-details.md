@@ -1,13 +1,13 @@
 ---
 title: プログラム
 layout: page
-permalink: /2021/kariprogram/
+permalink: /2021/program/
 ---
 
 
 2021/06/19 最終更新
-その他、開催に関する情報は[SWoPP2021ウェブサイト](https://sites.google.com/site/swoppweb/swopp2021/) を参照してください。
-著者の方へ： 発表題目等に変更がある場合は、発表先研究会に連絡してください。
+その他、開催に関する情報は[SWoPP2021ウェブサイト](https://sites.google.com/site/swoppweb/swopp2021/) を参照してください。<br />
+著者の方へ： 個別の発表に関する問い合わせは、発表先の研究会までお願いします。
 
 
 <br />
