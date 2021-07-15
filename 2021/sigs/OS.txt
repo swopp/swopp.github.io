@@ -34,7 +34,7 @@ OS-3
 座長：TBD
 
 **(7) Towards Compute Flexibility for Genome Analysis in the Hybrid Cloud**
-Yoshimura Takesh, Chiba Tatsuhiro（IBM Research - Tokyo）
+Yoshimura Takeshi, Chiba Tatsuhiro（IBM Research - Tokyo）
 
 
 **(8) コンテナ基盤を用いたデータライフサイクル管理**
