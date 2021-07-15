@@ -55,7 +55,7 @@ xSIG-5
 座長：佐野　健太郎 (理化学研究所)
 
 **(12) Transprecision Calculation Platform Offloaded on FPGA**
-Tadayoshi Hara, Toshiro Hanawa (The University of Tokyo)
+Tadayoshi Hara, Toshihiro Hanawa (The University of Tokyo)
 
 **(13) Particle Filter-based vs. Graph-based: SLAM Acceleration on Low-end FPGAs**
 Keisuke Sugiura, Hiroki Matsutani (Keio University)
