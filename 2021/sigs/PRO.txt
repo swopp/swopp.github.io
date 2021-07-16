@@ -15,7 +15,7 @@ PRO-2
 **Automatic Optimize-time Validation for Binary Optimizers**
 ○川人 基弘 (日本IBM東京基礎研究所), Reid Coperand (IBM Canada), 孝壽 俊彦 (日本IBM東京基礎研究所), David Siegwart (IBM United Kingdom Limited), 小原 盛幹 (日本IBM東京基礎研究所)
 
-**JSONのデータ格納効率を高めるバイナリフォーマットBTONの設計と実装**
+**JSONのデータ格納効率を高めるバイナリフォーマットTBONの設計と実装**
 ○李 彦志 (芝浦工業大学), 菅谷 みどり (芝浦工業大学)
 
 
