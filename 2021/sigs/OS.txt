@@ -1,6 +1,6 @@
 OS-1
 ●オフロード
-座長：TBD
+座長：山田 浩史（東京農工大学）
 
 **(1) Intel SGXとSMMの組み合わせによるIDSの安全な実行機構**
 古賀 吉道，光来 健一（九州工業大学）
@@ -16,7 +16,7 @@ OS-1
 
 OS-2
 ●永続メモリ・並列分散
-座長：TBD
+座長：田所 秀和（キオクシア）
 
 **(4) バイト単位でアクセス可能な永続メモリに最適化したキーバリューストア**
 大山 泰弘（慶應義塾大学），オブラン ピエール ルイ（株式会社IIJイノベーションインスティテュート），貴田 駿，河野 健二（慶應義塾大学）
@@ -31,7 +31,7 @@ OS-2
 
 OS-3
 ●コンテナ・クラウド
-座長：TBD
+座長：阿部 洋丈（筑波大学）
 
 **(7) Towards Compute Flexibility for Genome Analysis in the Hybrid Cloud**
 Yoshimura Takeshi, Chiba Tatsuhiro（IBM Research - Tokyo）
