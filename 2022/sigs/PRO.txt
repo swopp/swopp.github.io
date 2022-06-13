@@ -1,0 +1,50 @@
+PRO-1
+●並列プログラミング
+座長：紙名 哲生（大分大学）
+
+**Julia言語へのActorの導入**
+中田 秀基 (産業技術総合研究所)
+
+**Experience in testing MPI+Java parallel and distributed programs with JUnit**
+○Patrick Finnerty (Graduate School of System Informatics, Kobe University), Yoshiki Kawanishi (Graduate School of System Informatics, Kobe University), Tomio Kamada (Graduate School of System Informatics, Kobe University), Chikara Ohta (Graduate School of System Informatics, Kobe University)
+
+PRO-2
+●バイナリ
+座長：千代 英一郎（成蹊大学）
+
+**Automatic Optimize-time Validation for Binary Optimizers**
+○川人 基弘 (日本IBM東京基礎研究所), Reid Coperand (IBM Canada), 孝壽 俊彦 (日本IBM東京基礎研究所), David Siegwart (IBM United Kingdom Limited), 小原 盛幹 (日本IBM東京基礎研究所)
+
+**JSONのデータ格納効率を高めるバイナリフォーマットTBONの設計と実装**
+○李 彦志 (芝浦工業大学), 菅谷 みどり (芝浦工業大学)
+
+
+PRO-3
+●プログラム解析
+座長：安部 達也（千葉工業大学）
+
+**Detection of Layered Bottlenecks in Microservices**
+○Tatsushi Inagaki (IBM Research Tokyo), Yohei Ueda (IBM Research Tokyo), Moriyoshi Ohara (IBM Research Tokyo), Tatsuhiro Chiba (IBM Research Tokyo), Qi Zhang (IBM Research Thomas J. Watson Research Center)
+
+**情報量に着目したインフォメーションフロー追跡による情報漏洩防止手法**
+○小川 愛理 (日本IBM東京基礎研究所, 東京大学大学院情報理工学系研究科), 塩谷 亮太 (東京大学大学院情報理工学系研究科)
+
+PRO-4
+●ツール
+座長：川端 英之（広島市立大学）
+
+**言語実現フレームワークに基づく汎言語的オブジェクトグラフ収集手法**
+○高橋 修祐 (東京工業大学), 伊澤 侑祐 (東京工業大学), 増原 英彦 (東京工業大学), 叢 悠悠 (東京工業大学)
+
+**Design and Implementation of a multicomplex number library for computing any order of derivatives**
+○Shaowen Li (Graduate School of Engineering, the University of Tokyo), Hiroyuki Sato (Information Technology Center, the University of Tokyo)
+
+PRO-5
+●コンパイラと最適化
+座長：平石 拓（京都橘大学）
+
+**RL78マイコン向けCコンパイラにおけるprocedural abstractionの実装**
+○千葉 雄司 (株式会社日立製作所), 永井 佑樹 (株式会社日立ソリューションズ), 久島 伊知郎 (ルネサス エレクトロニクス株式会社)
+
+**Scalar Replacement Considering Branch Divergence**
+○福原 淳司 (東京理科大学理工学研究科), 滝本 宗宏 (東京理科大学理工学研究科)
