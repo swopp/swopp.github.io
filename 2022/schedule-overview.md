@@ -1,7 +1,7 @@
 ---
 title: 時間割概要
 layout: page
-permalink: /2022/overview/
+permalink: /2022beta/overview/
 ---
 
 

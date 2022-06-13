@@ -1,7 +1,7 @@
 ---
 title: プログラム
 layout: page
-permalink: /2022/program/
+permalink: /2022beta/program/
 ---
 
 
