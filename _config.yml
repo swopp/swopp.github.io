@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: SWoPP2021プログラム
-email: SWoPP2020組織委員会 <swopp-sigkanji _at_ googlegroups.com>
-description: 2021年並列／分散／協調処理に関するサマー・ワークショップ (SWoPP2021)
+title: SWoPP2022プログラム
+email: SWoPP2022組織委員会 <swopp-sigkanji _at_ googlegroups.com>
+description: 2022年並列／分散／協調処理に関するサマー・ワークショップ (SWoPP2022)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://swopp.github.io" # the base hostname & protocol for your site
 twitter_username: swoppweb
