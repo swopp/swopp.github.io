@@ -110,7 +110,7 @@ ARC+CPSY+DC-9
 **(20) Fault-aware Hardware Scheduling of Neurons for Deep Neural Networks**
 ○Shresthamali Shaswot, He Yuan, Kondo Masaaki (Keio Univ.)
 
-**12:00修了 **
+**12:00終了**
 
 ARC+CPSY+DC-10
 ●メモリ
