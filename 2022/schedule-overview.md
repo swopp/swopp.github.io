@@ -52,7 +52,7 @@ permalink: /2022beta/overview/
 | 12:30-13:30<br/>お昼休み                                | xSIG PC/OC会議   |                   |                    |                    |                    |
 | 13:30-15:00<br/>研究会                                  | HPC-6            | ARC+CPSY+DC-5     | MEPA-1             | PRO-2              |                    |
 | 15:15-16:45<br/>研究会                                  | HPC-7            | ARC+CPSY+DC-6     | MEPA-2             | PRO-3              |                    |
-| 17:00-18:30<br/>研究会                                  | HPC-8            | ARC+CPSY+DC-7     | MEPA-3             | PRO-4(編集会議)    |                    |
+| 17:00-18:30<br/>研究会                                  | HPC-8            | ARC+CPSY+DC-7     | MEPA-3             | PRO-4              |                    |
 | 18:45-21:00<br/>懇親会                                  |                  |                   |                    |                    |                    |
 
 

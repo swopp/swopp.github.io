@@ -1,50 +1,59 @@
 PRO-1
-●並列プログラミング
-座長：紙名 哲生（大分大学）
+●言語モデルとプログラミング支援
+座長：TBA
 
-**Julia言語へのActorの導入**
-中田 秀基 (産業技術総合研究所)
+**左再帰を含むPEGからパーサを生成する際の静的な最適化**
+○齋藤 俊哉 (筑波大学), 前田 敦司 (筑波大学)
 
-**Experience in testing MPI+Java parallel and distributed programs with JUnit**
-○Patrick Finnerty (Graduate School of System Informatics, Kobe University), Yoshiki Kawanishi (Graduate School of System Informatics, Kobe University), Tomio Kamada (Graduate School of System Informatics, Kobe University), Chikara Ohta (Graduate School of System Informatics, Kobe University)
+**部分的な自然言語入力とコード生成モデルによるプログラミング支援**
+○高野 志歩 (日本女子大学), 富岡 真由 (日本女子大学), 倉光 君郎 (日本女子大学)
+
+**CoNaLaチャレンジ: 言語生成モデルT5によるコード生成**
+○相馬 菜生 (日本女子大学), 梶浦 照乃 (日本女子大学), 小原 百々雅 (日本女子大学), 倉光 君郎 (日本女子大学)
+
 
 PRO-2
-●バイナリ
-座長：千代 英一郎（成蹊大学）
+●分散計算
+座長：TBA
 
-**Automatic Optimize-time Validation for Binary Optimizers**
-○川人 基弘 (日本IBM東京基礎研究所), Reid Coperand (IBM Canada), 孝壽 俊彦 (日本IBM東京基礎研究所), David Siegwart (IBM United Kingdom Limited), 小原 盛幹 (日本IBM東京基礎研究所)
+**IaaSクラウド環境での Confidential Computing によるセキュアなアプリケーション実行環境の構築手法**
+○上田 陽平 (日本IBM 東京基礎研究所), 稲垣 達氏 (日本IBM 東京基礎研究所), 小原 盛幹 (日本IBM 東京基礎研究所)
 
-**JSONのデータ格納効率を高めるバイナリフォーマットTBONの設計と実装**
-○李 彦志 (芝浦工業大学), 菅谷 みどり (芝浦工業大学)
+**C++におけるポインタベースのデータ構造のためのFar Memoryアロケータ**
+○秀島 宇音 (東京大学), 佐藤 重幸 (東京大学), 田浦 健次朗 (東京大学)
 
 
 PRO-3
-●プログラム解析
-座長：安部 達也（千葉工業大学）
+●型と並列プログラミング
+座長：TBA
 
-**Detection of Layered Bottlenecks in Microservices**
-○Tatsushi Inagaki (IBM Research Tokyo), Yohei Ueda (IBM Research Tokyo), Moriyoshi Ohara (IBM Research Tokyo), Tatsuhiro Chiba (IBM Research Tokyo), Qi Zhang (IBM Research Thomas J. Watson Research Center)
+**Type checking data structures more complex than trees**
+○佐野 仁 (早稲田大学), 山本 直輝 (早稲田大学), 上田 和紀 (早稲田大学)
 
-**情報量に着目したインフォメーションフロー追跡による情報漏洩防止手法**
-○小川 愛理 (日本IBM東京基礎研究所, 東京大学大学院情報理工学系研究科), 塩谷 亮太 (東京大学大学院情報理工学系研究科)
+**並列指向プログラミング言語の設計と実装**
+○柴田 謙 (ウィリアム・ライオン・マッケンジー高等学校), 高前田 伸也 (東京大学)
 
 PRO-4
-●ツール
-座長：川端 英之（広島市立大学）
-
-**言語実現フレームワークに基づく汎言語的オブジェクトグラフ収集手法**
-○高橋 修祐 (東京工業大学), 伊澤 侑祐 (東京工業大学), 増原 英彦 (東京工業大学), 叢 悠悠 (東京工業大学)
-
-**Design and Implementation of a multicomplex number library for computing any order of derivatives**
-○Shaowen Li (Graduate School of Engineering, the University of Tokyo), Hiroyuki Sato (Information Technology Center, the University of Tokyo)
+●編集委員会
 
 PRO-5
-●コンパイラと最適化
-座長：平石 拓（京都橘大学）
+●並列言語
+座長：TBA
 
-**RL78マイコン向けCコンパイラにおけるprocedural abstractionの実装**
-○千葉 雄司 (株式会社日立製作所), 永井 佑樹 (株式会社日立ソリューションズ), 久島 伊知郎 (ルネサス エレクトロニクス株式会社)
+**並列言語に適した階層的トラバーサル戦略の実現に向けて**
+○志岐 優介 (九州工業大学), 八杉 昌宏 (九州工業大学), 平石 拓 (京都橘大学)
 
-**Scalar Replacement Considering Branch Divergence**
-○福原 淳司 (東京理科大学理工学研究科), 滝本 宗宏 (東京理科大学理工学研究科)
+**並列言語処理系で利用可能な移植性に優れた計算状態操作機構の改善に向けて**
+○竹内　千裕 (九州工業大学), 八杉 昌宏 (九州工業大学), 平石 拓 (京都橘大学)
+
+PRO-6
+●言語処理系と機械学習
+座長：TBA
+
+**遺伝的アルゴリズムによるコンパイラ最適化の効果の見積**
+○千葉 雄司 (株式会社 日立製作所), 中川 満 (ルネサス エレクトロニクス株式会社)
+
+**ディープラーニングアクセラレータ向けシミュレータの設計と実装**
+○井上 拓 (日本IBM 東京基礎研究所), 小川 愛理 (日本IBM 東京基礎研究所), 石崎 一明 (日本IBM 東京基礎研究所), 小原 盛幹 (日本IBM 東京基礎研究所)
+
+
