@@ -89,12 +89,6 @@ ARC+CPSY+DC-7
 **ARC/CPSY 拡大幹事会**
 
 ARC+CPSY+DC-8
-●
-座長：
-
-**講演はありません**
-
-ARC+CPSY+DC-9
 ●AI技術
 座長：未定 ()
 座長補佐：未定 ()
@@ -110,7 +104,7 @@ ARC+CPSY+DC-9
 **(20) Fault-aware Hardware Scheduling of Computations in Deep Neural Networks**
 ○Shresthamali Shaswot, He Yuan, Kondo Masaaki (Keio Univ.)
 
-ARC+CPSY+DC-10
+ARC+CPSY+DC-9
 ●メモリ
 座長：未定 ()
 座長補佐：未定 ()
@@ -123,6 +117,12 @@ ARC+CPSY+DC-10
 
 **(23) 主記憶帯域使用率向上のためのCGRAタンデム化**
 ○赤部知也・中島康彦（奈良先端大）
+
+ARC+CPSY+DC-10
+●
+座長：
+
+**講演はありません**
 
 ARC+CPSY+DC-11
 ●
