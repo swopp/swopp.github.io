@@ -49,7 +49,7 @@ permalink: /2022/overview/
 | 08:45-09:15<br/>受付＆会場準備(開場09:00)               | 準備             | 準備              | 準備               | 準備               | 準備               |
 | 09:15-10:45<br/>研究会                                  | HPC-4            | ARC+CPSY+DC-3     |                    | OS-6               |                    |
 | 11:00-12:30<br/>研究会                                  | HPC-5            | ARC+CPSY+DC-4     |                    | PRO-1              |                    |
-| 12:30-13:30<br/>お昼休み                                | 
+| 12:30-13:30<br/>お昼休み                                |                  | SWoPP合同委員会   |                    |                    |                    |
 | 13:30-15:00<br/>研究会                                  | HPC-6            | ARC+CPSY+DC-5     | MEPA-1             | PRO-2              |                    |
 | 15:15-16:45<br/>研究会                                  | HPC-7            | ARC+CPSY+DC-6     | MEPA-2             | PRO-3              |                    |
 | 17:00-18:30<br/>研究会                                  | HPC-8            | ARC+CPSY+DC-7     | MEPA-3             | PRO-4              |                    |
