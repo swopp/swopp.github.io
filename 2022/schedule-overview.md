@@ -35,7 +35,7 @@ permalink: /2022/overview/
 | 13:30-15:00<br/>研究会                                  | xSIG-3           | HPC-1             |                    | OS-3               |                    |
 | 15:15-16:45<br/>研究会                                  | xSIG-4           | HPC-2             |                    | OS-4               |                    |
 | 17:00-18:30<br/>研究会                                  | xSIG-5           | HPC-3             |                    | OS-5               |                    |
-| 18:45-21:00<br/>                                        | BoF-1            |                   |                    |                    |                    |
+| 19:00-21:00<br/>                                        | BoF-1            |                   |                    |                    |                    |
 
 
 
@@ -53,7 +53,7 @@ permalink: /2022/overview/
 | 13:30-15:00<br/>研究会                                  | HPC-6            | ARC+CPSY+DC-5     | MEPA-1             | PRO-2              |                    |
 | 15:15-16:45<br/>研究会                                  | HPC-7            | ARC+CPSY+DC-6     | MEPA-2             | PRO-3              |                    |
 | 17:00-18:30<br/>研究会                                  | HPC-8            | ARC+CPSY+DC-7     | MEPA-3             | PRO-4              |                    |
-| 18:45-21:00<br/>懇親会                                  |                  |                   |                    |                    |                    |
+| 19:00-21:00<br/>懇親会                                  |                  |                   |                    |                    |                    |
 
 
 <br/>
