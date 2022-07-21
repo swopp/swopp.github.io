@@ -4,7 +4,7 @@ xSIG-1
 
 xSIG 2022 オープニング (10分)
 
-**(1)Android端末の端末毎の性能と公平性を考慮した通信制御の検討**(ショート)
+**(1)Android端末の端末毎の性能と公平性を考慮した通信制御の検討**(ショート 質疑込み20分)
 松野 瑛南(お茶の水女子大学)，山口 実靖(工学院大学)，神山 剛(長崎大学)，小口 正人(お茶の水女子大学)
 
 **(2)CholeskyQRとBCGS2による非縦長行列のQR分解**
@@ -60,10 +60,10 @@ xSIG-5
 **(13)RISC-Vをベースアーキテクチャとする自動メモ化プロセッサの実装および評価**
 宮川 晃輔(名古屋工業大学), 中原 博研(名古屋工業大学), 津邑 公暁(名古屋工業大学),中島 康彦(奈良先端科学技術大学院大学)
 
-**(14)Layer-wise power/performance analysis for single-board CNN inference (short)**
+**(14)Layer-wise power/performance analysis for single-board CNN inference**(short, 20min including Q/A)
 Kuan Yi Ng(Kyushu University), Aalaa M.A. Babai(Kyushu University), Satoshi Kawakami(Kyushu University), Teruo Tanimoto(Kyushu University) and Koji Inoue(Kyushu University)
 
-**(15)多言語T5への追加事前学習によるPython言語モデルの構築**(ショート)
+**(15)多言語T5への追加事前学習によるPython言語モデルの構築**(ショート 質疑込み20分)
 梶浦 照乃(日本女子大学), 小原 百々雅(日本女子大学), 秋信 有花(日本女子大学), 倉光 君郎(日本女子大学)
 
 xSIG 2022 表彰式・クロージング (20分)
