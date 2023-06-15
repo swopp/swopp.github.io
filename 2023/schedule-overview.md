@@ -58,10 +58,10 @@ permalink: /2023/overview/
 | 08:30-09:00<br/>受付＆会場準備(開場08:30)               | 準備             | 準備              | 準備              | 　　              | 準備               |
 | 09:00-10:40<br/>研究会                                  | HPC-1            | ARC+CPSY+DC-1     | MEPA-1           |                   | Poster             |
 | 10:55-12:10<br/>研究会                                  | HPC-2            | ARC+CPSY+DC-2     | MEPA-2           |   準備               | Poster             |
-| 12:10-13:40<br/>お昼休み                                 |                  |                  |                    | SWoPP合同委員会    |                        |
+| 12:10-13:40<br/>お昼休み                                 |                  |       |                    | SWoPP合同委員会    |                        |
 | 13:40-15:20<br/>研究会                                  | HPC-3            | ARC+CPSY+DC-3     | MEPA-3            | PRO-1              | Poster             |
 | 15:35-17:15<br/>研究会                                  | HPC-4            | ARC+CPSY+DC-4     | OS-1              | PRO-2              | Poster             |
-| 17:30-19:10<br/>研究会                                  | HPC-5            | ARC+CPSY+DC-5     | OS-2              | PRO-3              | Poster             |
+| 17:30-19:10<br/>研究会                                  | HPC-5            | ARC/CPSY拡大幹事会     | OS-2              | PRO-3              | Poster             |
 | 19:30-21:30<br/>懇親会                                  |                  |                   |                   |                    | 懇親会              |
 
 
@@ -73,12 +73,12 @@ permalink: /2023/overview/
 | 時間      | 武道館BC  | 武道館A   | スタジオB      | 多目的会議室B |  サブアリーナ(2F) |
 |----------|------------------|-------------------|--------------------|---------------------|---------------------|
 | 08:30-09:00<br/>受付＆会場準備(開場08:30)                | 準備             | 準備              | 準備               | 準備               | 準備               |
-| 09:00-10:40<br/>研究会                                  | HPC-6            | ARC+CPSY+DC-6            |  OS-3              | PRO-4              | Poster           |
-| 10:55-12:10<br/>研究会                                  | HPC-7            | ARC+CPSY+DC-7            |  OS-4              | PRO-5              | Poster               |
-| 12:10-13:40<br/>お昼休み                                 | HPC委員会        |                          |  OS委員会          | PRO編集委員会        |             |
-| 13:40-15:20<br/>研究会                                  | HPC-8            | ARC+CPSY+DC-8           |  OS-5              | RECONF-1             | Poster             |
-| 15:35-17:15<br/>研究会                                  | HPC-9            | ARC+CPSY+DC-9           |                    | RECONF-2              |            |
-| 17:30-19:10<br/>研究会                                  |                  | ARC+CPSY+DC-10           |                    |                  |             |
+| 09:00-10:40<br/>研究会                                  | HPC-6            | ARC+CPSY+DC-5            |  OS-3              | PRO-4              | Poster           |
+| 10:55-12:10<br/>研究会                                  | HPC-7            | ARC+CPSY+DC-6            |  OS-4              | PRO-5              | Poster               |
+| 12:10-13:40<br/>お昼休み                                 | HPC委員会        |  ARC/CPSY拡大専門委員会                        |  OS委員会          | PRO編集委員会        |             |
+| 13:40-15:20<br/>研究会                                  | HPC-8            | ARC+CPSY+DC-7           |  OS-5              | RECONF-1             | Poster             |
+| 15:35-17:15<br/>研究会                                  | HPC-9            | ARC+CPSY+DC-8           |                    | RECONF-2              |            |
+| 17:30-19:10<br/>研究会                                  |                  | ARC+CPSY+DC-9           |                    |                  |             |
 | 19:30-21:30<br/>BoF　                                   |                  |                          |                    | BoF            |     　　          |
      
 
