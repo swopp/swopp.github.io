@@ -1,7 +1,7 @@
 ---
 title: プログラム
 layout: page
-permalink: /2023/program/
+permalink: /2023-pre/program/
 ---
 
 
