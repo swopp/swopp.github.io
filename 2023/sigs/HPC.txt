@@ -88,7 +88,7 @@ HPC-6
 ○中澤 里奈，Choochotkaew Sunyanan，Amaral Marcelo Carneiro do，千葉 立寛（IBM Research）
 
 **(22) Large-scale Graph Neural Network Training System**
-○Zhuang Chen（東工大），Wahib Mohamed（理研），Chen Peng，Liu Xin（産総研），Endo Toshio（東工大），Matsuoka Satoshi（理研）
+○Zhuang Chen（東工大），Wahib Mohamed（理研），Chen Peng，Liu Xin（産総研），Endo Toshio（東工大），Matsuoka Satoshi（理研/東工大）
 
 **(23) ジョブスクリプト名に基づく特徴量を用いたジョブ実行時間予測モデルの検証**
 ○和田 哲也（大阪大），遠藤 新（奈良先端大），伊達 進（大阪大）
@@ -130,7 +130,7 @@ HPC-9
 ○藤田 典久，小林 諒平（筑波大），Johnston Beau，Miniskar Narasinga Rao，Lee Seyong，Teranishi Keita，S. Vetter Jeffrey（ORNL），朴 泰祐（筑波大）
 
 **(32) Comparison of Parallel STL with C/C++ GPU Programming Models**
-○金 道鉉，中島 康彦（奈良先端大）
+○Imada Joanna，高橋 慧智，下村 陽一，滝沢 寛之（東北大）
 
 **(33) マルチグリッド前処理付き共役勾配法を用いた数値海洋モデルの複数GPUへの実装と最適化**
 ○山岸 孝輝（RIST），松村 義正，羽角 博康（東京大）
