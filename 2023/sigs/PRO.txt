@@ -1,0 +1,43 @@
+PRO-1
+●プログラミング・検証
+座長：未定
+
+**Rabbit: a modeling language for verifying data-flow security**
+○稲葉 皓信 (京都大学), 関山 太朗 (NII), 五十嵐 淳 (京都大学), 石川 裕 (NII)
+
+**ChatGPTはどのくらいプログラミングを理解しているか？**
+○佐藤 美唯 (日本女子大学), 相馬 菜生 (日本女子大学), 伊東 和香 (日本女子大学), 小原 有以 (日本女子大学), 東出 紗也夏 (日本女子大学), 髙野 志歩 (日本女子大学), 倉光 君郎 (日本女子大学)
+
+
+PRO-2
+●機械学習・最適化
+座長：未定
+
+**深層学習モデルの性能向上に向けて: PyTorch 2.0とMLPerfを用いた性能評価**
+○伊澤 侑祐 (IBM), 堀江 倫大 (IBM), 緒方 一則 (IBM), トレント スコット (IBM), 千葉 立寛(IBM)
+
+**畳込みニューラルネットワーク向け省メモリ化技術の評価**
+○千葉 雄司 (中央大学)
+
+
+PRO-3
+●編集委員会
+
+
+PRO-4
+●最適化（１）
+座長：未定
+
+**Automatically fixing data races in CUDA programs by building thread-local cache**
+○Junyu Lin (東京大学), Akimasa Morihata (東京大学)
+
+**サイズ特化型ベクトル化に基づく可変長ベクトル実行**
+○福原 淳司 (東京理科大学), 岩澤 京子, 滝本 宗宏 (東京理科大学)
+
+
+PRO-5
+●最適化（２）
+座長：未定
+
+**A High-Performance Hybrid Binary Translator using Source-Level Information**
+○陳 暢彬 (東京大学), 杉田 脩 (東京大学), 塩谷 亮太 (東京大学)
