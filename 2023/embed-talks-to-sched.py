@@ -9,13 +9,13 @@ if sys.version_info.major != 3:
     sys.stderr.write('Please use python 3.x\n')
     exit()
 
-rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA|BoF|xSIG)-\d+)')
+rex = re.compile('((?:ARC\+CPSY\+DC|HPC|PRO|OS|MEPA|BoF|xSIG|RECONF)-\d+)')
 
 data = {}
 
 unicodedata.normalize('NFC', 'test')
 
-sigs = [ "HPC", "OS", "ARC+CPSY+DC", "PRO", "MEPA", "BoF", "xSIG" ]
+sigs = [ "HPC", "OS", "ARC+CPSY+DC", "PRO", "MEPA", "BoF", "xSIG", "RECONF" ]
 
 for sig in sigs:
     path = "sigs/%s.txt" % sig
