@@ -108,33 +108,34 @@ ARC+CPSY+DC-8
 ○内田 直希, 稲垣 景子, 福本 聡 (都立大), 新井 雅之 (日大)
 
 ARC+CPSY+DC-9
-●スマートNIC・エッジコンピューティング基盤
-座長：未定
-
-**(26) Run-time pluggable packet processing on Smart NIC with WebAssembly**
-○Deng Gongyu, Ryo Ouchi, Ryuichi Sakamoto (Tokyo Institute of Technology)
-
-**(27) FPGA上での軽量オンデバイス学習を用いた高帯域ネットワーク侵入検知手法**
-○呉 漫 (慶應義塾大), 近藤 正章 (慶應義塾大／理研)
-
-**(28) RISC-V MPUおよびSLM再構成ロジックを混載した「SLMLET」チップの評価**
-○矢内 洋祐, 小島 拓也, 奥原 颯 (慶應義塾大), 飯田 全広 (熊本大), 天野 英晴 (慶應義塾大)
-
-**(29) 連合学習におけるバックドアの発動遅延による攻撃者特定の撹乱**
-○筒井 政成, 金子 竜也, 高前田 伸也 (東大)
-
-ARC+CPSY+DC-10
 ●機械学習
 座長：未定
 
-**(30) Accelerating Convergence of Tabular Reinforcement Learning with Compressed Sensing**
+**(26) Accelerating Convergence of Tabular Reinforcement Learning with Compressed Sensing**
 ○Shresthamali Shaswot (Keio University), Kondo Masaaki (Keio University/RIKEN)
 
-**(31) リニアアレイ型CGRA向けCGN実装方法の検討と評価**
+**(27) リニアアレイ型CGRA向けCGN実装方法の検討と評価**
 ○金 道鉉, 中島 康彦 (奈良先端大)
 
-**(32) 機械学習インデックスを使用した秘密文字列検索**
+**(28) 機械学習インデックスを使用した秘密文字列検索**
 ○藤村 彩紀, 山田 修平, 藤木 大地（慶應義塾大）
 
-**(33) アニーリングマシンによるベイジアンネットワーク構造学習のビット数削減手法**
+**(29) アニーリングマシンによるベイジアンネットワーク構造学習のビット数削減手法**
 ○齊藤 一希, 安戸 僚汰, 髙木 直史 (京大)
+
+ARC+CPSY+DC-10
+●スマートNIC・エッジコンピューティング基盤
+座長：未定
+
+**(30) Run-time pluggable packet processing on Smart NIC with WebAssembly**
+○Deng Gongyu, Ryo Ouchi, Ryuichi Sakamoto (Tokyo Institute of Technology)
+
+**(31) FPGA上での軽量オンデバイス学習を用いた高帯域ネットワーク侵入検知手法**
+○呉 漫 (慶應義塾大), 近藤 正章 (慶應義塾大／理研)
+
+**(32) RISC-V MPUおよびSLM再構成ロジックを混載した「SLMLET」チップの評価**
+○矢内 洋祐, 小島 拓也, 奥原 颯 (慶應義塾大), 飯田 全広 (熊本大), 天野 英晴 (慶應義塾大)
+
+**(33) 連合学習におけるバックドアの発動遅延による攻撃者特定の撹乱**
+○筒井 政成, 金子 竜也, 高前田 伸也 (東大)
+
