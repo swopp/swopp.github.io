@@ -111,7 +111,7 @@ ARC+CPSY+DC-9
 ●機械学習
 座長：未定
 
-**(26) Accelerating Convergence of Tabular Reinforcement Learning with Compressed Sensing**
+**(26) Enhancing Deep Reinforcement Learning with Compressed Sensing-based State Estimation**
 ○Shresthamali Shaswot (Keio University), Kondo Masaaki (Keio University/RIKEN)
 
 **(27) リニアアレイ型CGRA向けCGN実装方法の検討と評価**
