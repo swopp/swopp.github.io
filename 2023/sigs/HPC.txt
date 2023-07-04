@@ -130,7 +130,7 @@ HPC-8
 **(25) ロングベクトル環境におけるプロファイルを用いた自動ベクトル化技術**
 ○石田 祐二郎，細見 岳生（NEC），山下 晃弘，伊達 進（大阪大）
 
-**(26) Revisiting Temporal Blocking Stencil Optimizations**
+**(26) High-performance Temporal Blocking Stencils at Low GPU Occupancy**
 ○Zhang Lingqi（東工大），Wahib Mohamed（理研），Chen Peng（産総研），Tanimura Yusuke（産総研），Endo Toshio（東工大），Matsuoka Satoshi（理研）
 
 HPC-9
