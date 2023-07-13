@@ -28,6 +28,8 @@ PRO-4
 ●最適化（１）
 座長：未定
 
+**※9:30から開始します．**
+
 **Automatically fixing data races in CUDA programs by building thread-local cache**
 ○Junyu Lin (東京大学), Akimasa Morihata (東京大学)
 
