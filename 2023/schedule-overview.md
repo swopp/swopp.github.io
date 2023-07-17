@@ -78,6 +78,7 @@ permalink: /2023/overview/
 | 13:40-15:20<br/>研究会                                  | HPC-8            | ARC+CPSY+DC-8           |  OS-5              | RECONF-1             | Poster             |
 | 15:35-17:15<br/>研究会                                  | HPC-9            | ARC+CPSY+DC-9           |                    | RECONF-2              |            |
 | 17:30-19:10<br/>研究会                                  |                  | ARC+CPSY+DC-10           |                    |                  |             |
+| 19:20-19:30<br/>BoF　                                   |                  |                          |                    | BoF-0            |     　　          |
 | 19:30-21:30<br/>BoF　                                   |                  |                          |                    | BoF-1            |     　　          |
 
 
