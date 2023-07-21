@@ -125,7 +125,7 @@ ARC+CPSY+DC-9
 
 ARC+CPSY+DC-10
 ●スマートNIC・エッジコンピューティング基盤
-座長：川上 哲志 (九州大)
+座長：小林 諒平 (筑波大)
 
 **(30) Run-time pluggable packet processing on Smart NIC with WebAssembly**
 ○Deng Gongyu, Ryo Ouchi, Ryuichi Sakamoto (Tokyo Institute of Technology)
