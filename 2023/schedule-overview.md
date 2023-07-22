@@ -47,6 +47,7 @@ permalink: /2023/overview/
 | 19:10-19:20<br/>研究会                                  | xSIG-6           | Poster             |
 
 
+<br/>
 
 
 # 8/3(木)
