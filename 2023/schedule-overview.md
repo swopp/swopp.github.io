@@ -45,7 +45,7 @@ permalink: /2023/overview/
 | 15:35-17:15<br/>研究会                                  | xSIG-4           | Poster             |
 | 17:30-19:10<br/>研究会                                  | xSIG-5           | Poster             |
 | 19:10-19:20<br/>研究会                                  | xSIG-6           | Poster             |
-| 19:30-21:30<br/>BoF　　　             　　　　　　       |   (BoF)              | Poster             |
+
 
 
 
