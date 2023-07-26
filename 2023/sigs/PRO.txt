@@ -30,11 +30,11 @@ PRO-4
 
 **※9:30から開始します．**
 
-**Automatically fixing data races in CUDA programs by building thread-local cache**
-○Junyu Lin (東京大学), Akimasa Morihata (東京大学)
-
 **サイズ特化型ベクトル化に基づく可変長ベクトル実行**
 ○福原 淳司 (東京理科大学), 岩澤 京子, 滝本 宗宏 (東京理科大学)
+
+**Automatically fixing data races in CUDA programs by building thread-local cache**
+○Junyu Lin (東京大学), Akimasa Morihata (東京大学)
 
 
 PRO-5
