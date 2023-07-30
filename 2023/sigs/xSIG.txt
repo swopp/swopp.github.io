@@ -29,7 +29,7 @@ xSIG-2
 **(7) 5G SA 環境における IoT システムのモバイル通信性能評価** (ショート)
 伊藤 千紗 (お茶の水女子大学) , 竹房 あつ子 (国立情報学研究所) , 中田 秀基 (産業総合研究所) , 小口 正人 (お茶の水女子大学)
 
-**(8) 頻度を考慮したTCP BBRのexpire処理によるTCP公平性改善** (ショート)
+**(8) 頻度を考慮したTCP BBRのexpireによるTCP公平性改善** (ショート)
 大塚 玲緒, 勝俣 夏輝, 山口 実靖 (工学院大学)
 
 xSIG-3
@@ -67,7 +67,7 @@ xSIG-5
 **(16) Is Self-Supervised Pretraining Good for Extrapolation in Molecular Property Prediction?** (ショート)
 Shun Takashige, Masatoshi Hanai, Toyotaro Suzumura, Limin Wang and Kenjiro Taura (Univ. Tokyo)
 
-**(17) 大規模言語モデルT5を用いたプログラミング初学者向けエラー対応AIモデル** (ショート)
+**(17) プログラミング初学者向けエラー診断コーパスの開発について** (ショート)
 高橋 舞衣, 相馬 菜生, 佐藤 美唯, 小原 百々雅, 倉光 君郎 (日本女子大学)
 
 xSIG 2023 表彰式・クロージング (20分)
