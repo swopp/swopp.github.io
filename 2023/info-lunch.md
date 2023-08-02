@@ -44,11 +44,6 @@ permalink: /2023/lunch/
 - [六花亭 五稜郭店](https://mainichibeer.jp/rokkatei-hakodate/)（市電13分「五稜郭公園前」下車＋徒歩12分）
 
 
-# ビュッフェ
-
-- [ホテル法華クラブ函館 レストランローズ](https://ameblo.jp/utashin/entry-12748180983.html)（市電13分「五稜郭公園前」下車＋徒歩2分）
-
-
 # 寿司・海鮮
 
 - [まるかつ水産 柏木店](https://oishi-hakodate.com/2023/05/07/%E3%80%8C%E3%81%BE%E3%82%8B%E3%81%8B%E3%81%A4%E6%B0%B4%E7%94%A3-%E6%9F%8F%E6%9C%A8%E5%BA%97%E3%80%8D%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%97/)（市電8分「柏木町」下車＋徒歩1分）
@@ -62,6 +57,11 @@ permalink: /2023/lunch/
 # 肉
 
 - [STEAK&HAMBURG ひげ 函館五稜郭店](https://tabelog.com/hokkaido/A0105/A010501/1052809/)（市電13分「五稜郭公園前」下車＋徒歩1分）
+
+
+# ビュッフェ
+
+- [ホテル法華クラブ函館 レストランローズ](https://ameblo.jp/utashin/entry-12748180983.html)（市電13分「五稜郭公園前」下車＋徒歩2分）
 
 
 # その他
