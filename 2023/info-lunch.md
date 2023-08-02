@@ -54,9 +54,9 @@ permalink: /2023/lunch/
 - [まるかつ水産 柏木店](https://tabelog.com/hokkaido/A0105/A010501/1008375/)（市電8分「柏木町」下車＋徒歩1分）
 - [寿司海鮮処函太郎 五稜郭公園店](https://tabelog.com/hokkaido/A0105/A010501/1004338/)（市電13分「五稜郭公園前」下車＋徒歩17分）
 - [IZAKAYA HAKOYA](https://tabelog.com/hokkaido/A0105/A010501/1050944/)（市電13分「五稜郭公園前」下車＋徒歩9分）
-- 金八鮨（徒歩3分）
-- 雷門鮨 湯川店（徒歩11分）
-- 鮨処 木はら（徒歩12分，注：高級店）
+- [金八鮨](https://tabelog.com/hokkaido/A0105/A010501/1013443/)（徒歩3分）
+- [雷門鮨 湯川店](https://tabelog.com/hokkaido/A0105/A010501/1000039/)（徒歩11分）
+- [鮨処 木はら](http://www.hakodate-kihara.com/2016/?page_id=34)（徒歩12分，高級店）
 
 
 # 肉
