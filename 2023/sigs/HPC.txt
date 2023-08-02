@@ -89,13 +89,14 @@ HPC-6
 ●機械学習
 座長：小松 一彦（東北大）
 
-**※ 9:25から開始します。**
+**※ 9:50から開始します。**
 
 **(17) NVIDIA H100 GPUにおけるグラフニューラルネットワークの学習精度と実行性能評価**
 ○小林 諒平，藤田 典久，朴 泰祐，天笠 俊之（筑波大）
 
-**(18) 深層学習モデルにおける電力最適化に向けた消費電力特性および電力制御手法の評価**
-○中澤 里奈，Choochotkaew Sunyanan，Amaral Marcelo Carneiro do，千葉 立寛（IBM Research）
+**(発表キャンセル)**
+**~~(18) 深層学習モデルにおける電力最適化に向けた消費電力特性および電力制御手法の評価~~**
+~~○中澤 里奈，Choochotkaew Sunyanan，Amaral Marcelo Carneiro do，千葉 立寛（IBM Research）~~
 
 **(19) Scalable Training of Graph Convolutional Networks on Supercomputers**
 ○Zhuang Chen（東工大），Chen Peng，Liu Xin（産総研），Matsuoka Satoshi（理研/東工大），Endo Toshio（東工大），Wahib Mohamed（理研）
