@@ -22,7 +22,7 @@ permalink: /2023/lunch/
 
 
 # スープカレー
-- [RAMAI 函館店](https://tabelog.com/hokkaido/A0105/A010501/1007125/)（徒歩14分）
+- [RAMAI 函館店](https://hakodatedayo.blog.jp/archives/51801097.html)（徒歩14分）
 
 
 # ラッキーピエロ
@@ -51,12 +51,12 @@ permalink: /2023/lunch/
 
 # 寿司・海鮮
 
-- [まるかつ水産 柏木店](https://tabelog.com/hokkaido/A0105/A010501/1008375/)（市電8分「柏木町」下車＋徒歩1分）
-- [寿司海鮮処函太郎 五稜郭公園店](https://tabelog.com/hokkaido/A0105/A010501/1004338/)（市電13分「五稜郭公園前」下車＋徒歩17分）
+- [まるかつ水産 柏木店](https://oishi-hakodate.com/2023/05/07/%E3%80%8C%E3%81%BE%E3%82%8B%E3%81%8B%E3%81%A4%E6%B0%B4%E7%94%A3-%E6%9F%8F%E6%9C%A8%E5%BA%97%E3%80%8D%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%97/)（市電8分「柏木町」下車＋徒歩1分）
+- [寿司海鮮処函太郎 五稜郭公園店](https://hakodatedayo.blog.jp/archives/52163539.html)（市電13分「五稜郭公園前」下車＋徒歩17分）
 - [IZAKAYA HAKOYA](https://tabelog.com/hokkaido/A0105/A010501/1050944/)（市電13分「五稜郭公園前」下車＋徒歩9分）
-- [金八鮨](https://tabelog.com/hokkaido/A0105/A010501/1013443/)（徒歩3分）
-- [雷門鮨 湯川店](https://tabelog.com/hokkaido/A0105/A010501/1000039/)（徒歩11分）
-- [鮨処 木はら](http://www.hakodate-kihara.com/2016/?page_id=34)（徒歩12分，高級店）
+- [金八鮨](http://blog.livedoor.jp/moya_sic/archives/52265843.html)（徒歩3分）
+- [雷門鮨 湯川店](https://johnny88.net/raimon-sushi-hakodate/)（徒歩11分）
+- [鮨処 木はら](https://www.hakobura.jp/spots/7)（徒歩12分，高級店）
 
 
 # 肉
