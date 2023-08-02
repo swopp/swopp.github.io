@@ -16,13 +16,13 @@ permalink: /2023/lunch/
 
 - [函館麺や 一文字 函館総本店](http://www.ichi-monji.com/2018/?page_id=40)（徒歩12-13分）
 - [麺厨房あじさい 本店](https://www.ajisai.tv/info/)（市電13分「五稜郭公園前」下車＋徒歩9分）
-- しおいち（徒歩2分）
-- ブルートレイン（徒歩2分）
-- りんさん（徒歩11分）
+- [しおいち](https://tabelog.com/hokkaido/A0105/A010501/1045159/)（徒歩2分）
+- [ブルートレイン](https://www.hakobura.jp/spots/28)（徒歩2分）
+- [りんさん](https://www.hakobura.jp/spots/165)（徒歩11分）
 
 
 # スープカレー
-- RAMAI 函館店（徒歩14分）
+- [RAMAI 函館店](https://tabelog.com/hokkaido/A0105/A010501/1007125/)（徒歩14分）
 
 
 # ラッキーピエロ
@@ -67,7 +67,7 @@ permalink: /2023/lunch/
 # その他
 
 - [Endeavour(函館湯川ブリュワリー)](http://www.shop-endeavour.jp/about.html)（徒歩3分）
-- そば処みのや 湯川店（徒歩10分）
-- そば処松くら（徒歩12分）
+- [そば処みのや 湯川店](https://tabelog.com/hokkaido/A0105/A010501/1021466/)（徒歩10分）
+- [そば処松くら](https://matsukura.co/info/)（徒歩12分）
 
 
