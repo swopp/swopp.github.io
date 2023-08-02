@@ -56,7 +56,7 @@ permalink: /2023/lunch/
 
 # 肉
 
-- [STEAK&HAMBURG ひげ 函館五稜郭店](https://tabelog.com/hokkaido/A0105/A010501/1052809/)（市電13分「五稜郭公園前」下車＋徒歩1分）
+- [STEAK&HAMBURG ひげ 函館五稜郭店](https://oguni-beef.jp/hige)（市電13分「五稜郭公園前」下車＋徒歩1分）
 
 
 # ビュッフェ
