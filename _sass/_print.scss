@@ -66,10 +66,15 @@
 	table.swopp2022table td:nth-of-type(4):before { font-weight: bold; content: "[803会議室(8F)] "; }
 	table.swopp2022table td:nth-of-type(5):before { font-weight: bold; content: "[804会議室(8F)] "; }
 	table.swopp2022table td:nth-of-type(6):before { font-weight: bold; content: "[805会議室(8F)] "; }
-        table.swopp2023table td:nth-of-type(1) { background-color: #ccc; }
-        table.swopp2023table td:nth-of-type(2):before { font-weight: bold; content: "[武道館BC] "; }
-        table.swopp2023table td:nth-of-type(3):before { font-weight: bold; content: "[武道館A] "; }
-        table.swopp2023table td:nth-of-type(4):before { font-weight: bold; content: "[スタジオB] "; }
-        table.swopp2023table td:nth-of-type(5):before { font-weight: bold; content: "[多目的会議室B] "; }
-        table.swopp2023table td:nth-of-type(6):before { font-weight: bold; content: "[サブアリーナ(2F)] "; }
+	table.swopp2023table td:nth-of-type(1) { background-color: #ccc; }
+	table.swopp2023table td:nth-of-type(2):before { font-weight: bold; content: "[武道館BC] "; }
+	table.swopp2023table td:nth-of-type(3):before { font-weight: bold; content: "[武道館A] "; }
+	table.swopp2023table td:nth-of-type(4):before { font-weight: bold; content: "[スタジオB] "; }
+	table.swopp2023table td:nth-of-type(5):before { font-weight: bold; content: "[多目的会議室B] "; }
+	table.swopp2023table td:nth-of-type(6):before { font-weight: bold; content: "[サブアリーナ(2F)] "; }
+        table.swopp2024table td:nth-of-type(1) { background-color: #ccc; }
+        table.swopp2024table td:nth-of-type(2):before { font-weight: bold; content: "[大会議室(4F)] "; }
+        table.swopp2024table td:nth-of-type(3):before { font-weight: bold; content: "[小ホール(5F)] "; }
+        table.swopp2024table td:nth-of-type(4):before { font-weight: bold; content: "[会議室2-3(4F)] "; }
+        table.swopp2024table td:nth-of-type(5):before { font-weight: bold; content: "[会議室6(5F)] "; }
 }
