@@ -28,7 +28,6 @@ for sig in sigs:
             else:
                 data[session_name] += line
 
-
 for session_name in data:
     text = data[session_name]
     text = text.strip()
