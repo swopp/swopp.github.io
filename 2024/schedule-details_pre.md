@@ -60,7 +60,7 @@ permalink: /2024/pre-program/
 | 13:35-15:15<br/>研究会                                  | HPC-3              | ARC+CPSY+DC+RECONF-3 | OS-1               | PRO-1            |
 | 15:30-17:10<br/>研究会                                  | HPC-4              | ARC+CPSY+DC+RECONF-4 | OS-2               | PRO-2            |
 | 17:25-18:40<br/>研究会                                  | HPC-5              | ARC+CPSY+DC+RECONF-5 |                    | PRO-3            |
-| 19:00-21:00<br/>懇親会                                  | 懇親会             |                      |                    |                  |
+| 19:00-21:00<br/>懇親会                                  |                    |                      |                    |                  |
 
 
 <br/>
