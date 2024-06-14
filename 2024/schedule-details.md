@@ -1,7 +1,7 @@
 ---
 title: プログラム
 layout: page
-permalink: /2024/pre-program/
+permalink: /2024/program/
 ---
 
 その他、開催に関する情報は[SWoPP2024ウェブサイト](https://sites.google.com/site/swoppweb/swopp-2024/) を参照してください。<br />
