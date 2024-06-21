@@ -1,5 +1,5 @@
 xSIG-1
-●Research Awards
+●Research Awardセッション
 座長：未定
 
 xSIG 2024 オープニング (10分)
@@ -96,8 +96,6 @@ xSIG-7
 **(23) GMRES(m)法における近似疎行列ベクトル積の導入可能性の検証**
 今多 和歩, 佐竹 祐樹, 深谷 猛 (北海道大学)
 
-xSIG 2024 表彰式・クロージング (18:20〜)
-
 xSIG-8
 ●セキュリティ・異常検知
 座長：未定
@@ -110,3 +108,6 @@ xSIG-8
 
 **(26) Development of High-level Synthesis Compiler Automatically Synthesizing Memory Integrity Verification Engines** (ショート)
 Tomoya Nagatani, Shinya Takamaeda-Yamazaki (The University of Tokyo)
+
+xSIG-9
+●xSIG 2024 表彰式・クロージング
