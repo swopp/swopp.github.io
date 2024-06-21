@@ -29,7 +29,7 @@ xSIG-2
 **(7) Hardware Co-design Approach for Fixed-weight DNN Accelerators Using Masked Adder Trees**
 Yoshiki Ozaki, Tatsuya Kaneko, Shinya Takamaeda-Yamazaki (The University of Tokyo)
 
-**(8) 脳波の特徴量算出における高速化実現に向けたPythonの自動並列化機能の実装と評価** (ショート)
+**(8) 脳波の特徴量算出における高速化実現に向けたPythonの自動並列化機能の実装と評価** (ショート 20分)
 加藤 颯真, 菅谷 みどり (芝浦工業大学)
 
 xSIG-3
@@ -45,13 +45,13 @@ xSIG-3
 **(11) タンパク質構造予測プログラムOmegaFoldのマルチGPUを用いた高速化**
 大沢 泰生, 遠藤 敏夫, 細木 隆豊 (東京工業大学)
 
-**(12) AlphaFold2における構造最適化ステップの高速化** (ショート)
+**(12) AlphaFold2における構造最適化ステップの高速化** (ショート 20分)
 下内 良太, 河口 真一, 曽我 隆 (大阪大学), 山口 健太, 川崎 隆矢 (NECソリューションイノベータ), 伊達 進 (大阪大学)
 
 xSIG-4
 ●ポスターセッション
 
-場所：特別展示室 (2F)
+会場：特別展示室 (2F)
 
 xSIG-5
 ●並列分散
@@ -98,6 +98,8 @@ xSIG-7
 **(23) GMRES(m)法における近似疎行列ベクトル積の導入可能性の検証**
 今多 和歩, 佐竹 祐樹, 深谷 猛 (北海道大学)
 
+(18:15終了)
+
 xSIG 2024 表彰式・クロージング (18:20〜)
 
 xSIG-8
@@ -112,5 +114,7 @@ xSIG-8
 
 **(26) Development of High-level Synthesis Compiler Automatically Synthesizing Memory Integrity Verification Engines** (ショート)
 Tomoya Nagatani, Shinya Takamaeda-Yamazaki (The University of Tokyo)
+
+(18:10終了)
 
 xSIG 2024 表彰式・クロージング (18:20〜 大会議室にて)
