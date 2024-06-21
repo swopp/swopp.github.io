@@ -66,7 +66,7 @@ xSIG-5
 **(15) LLM分散データセット学習基盤の開発**
 小柳 響子, 相馬 菜生, 倉光 君郎 (日本女子大学), 片桐 孝洋 (名古屋大学), 横手 靖彦 (理化学研究所), 石川 裕 (国立情報学研究所)
 
-**(16) タスク並列分散処理における書き込み履歴を利用した効率的なキャッシュコヒーレンスプロトコル** (ショート)
+**(16) タスク並列分散処理における書き込み履歴を利用した効率的なキャッシュコヒーレンスプロトコル** (ショート 20分)
 佐々木 大夢, 椎名 峻平, 田浦 健次朗 (東京大学)
 
 xSIG-6
@@ -82,7 +82,7 @@ Honoka Anada, Sefutsu Ryu, Tatsuya Kaneko, Shinya Takamaeda-Yamazaki (The Univer
 **(19) 自動メモ化プロセッサにおける入力情報の登録基準及び置換ポリシーの改良**
 森 隆志, 前川 隼輝, 藤江 健吾, 宮川 晃輔, 小泉 透 (名古屋工業大学), 塩谷 亮太 (東京大学), 五島 正裕 (国立情報学研究所), 津邑 公暁 (名古屋工業大学)
 
-**(20) アウトオブオーダプロセッサ向け自動メモ化機構の設計** (ショート)
+**(20) アウトオブオーダプロセッサ向け自動メモ化機構の設計** (ショート 20分)
 前川 隼輝, 宮川 晃輔, 森 隆志, 藤江 健吾, 小泉 透 (名古屋工業大学), 塩谷 亮太 (東京大学), 五島 正裕 (国立情報学研究所), 津邑 公暁 (名古屋工業大学)
 
 xSIG-7
@@ -112,7 +112,7 @@ xSIG-8
 **(25) ガウス過程回帰に基づく宇宙機テレメトリ異常検知システムのFPGAによる高効率化**
 河内 陸 (豊橋技術科学大学), 尾亦 範泰, 堤 誠司 (JAXA), 佐藤 幸紀 (豊橋技術科学大学)
 
-**(26) Development of High-level Synthesis Compiler Automatically Synthesizing Memory Integrity Verification Engines** (ショート)
+**(26) Development of High-level Synthesis Compiler Automatically Synthesizing Memory Integrity Verification Engines** (ショート 20分)
 Tomoya Nagatani, Shinya Takamaeda-Yamazaki (The University of Tokyo)
 
 (18:10終了)
