@@ -82,7 +82,7 @@ permalink: /2024/program/
 
 | 略称 | 正式名称 |
 |------|-----|
-| xSIG | The 5th cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming |
+| xSIG | Cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming |
 | HPC | 情報処理学会 ハイパフォーマンスコンピューティング研究会 |
 | ARC+CPSY+DC+RECON | 情報処理学会 システム・アーキテクチャ研究会<br />電子情報通信学会 コンピュータシステム研究会<br />電子情報通信学会 ディペンダブルコンピューティング研究会<br />電子情報通信学会 リコンフィギャラブルシステム研究会 |
 | OS | 情報処理学会 システムソフトウェアとオペレーティング・システム研究会 |
