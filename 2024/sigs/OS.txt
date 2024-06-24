@@ -50,14 +50,14 @@ OS-4
 ●分散処理・並行処理
 座長：未定
 
-**(13) Optimized Read Tracking and Batch Core Bitmap Updates for Deterministic Concurrency Control**
-李 浩文 (慶應義塾大学), 大西 璃奈 (慶應義塾大学), 川島 英之 (慶應義塾大学)
-
-**(14) Freezer 機構による公平な共有排他ロックの柔軟化と高速化**
+**(13) Freezer 機構による公平な共有排他ロックの柔軟化と高速化**
 星野 喬 (サイボウズ・ラボ)
 
-**(15) ヘテロジニアス環境向けMEC-RMにおけるFaaS向けスケジューリング手法の提案**
+**(14) ヘテロジニアス環境向けMEC-RMにおけるFaaS向けスケジューリング手法の提案**
 蓮原 裕太, 李 彦志, 萩原 景太, 菅谷 みどり (芝浦工業大学)
+
+**(15) Optimized Read Tracking and Batch Core Bitmap Updates for Deterministic Concurrency Control**
+李 浩文 (慶應義塾大学), 大西 璃奈 (慶應義塾大学), 川島 英之 (慶應義塾大学)
 
 **(16) 状態機械複製プロトコルRabiaの評価**
 高田 晴成, 川島 英之 (慶應義塾大学)
