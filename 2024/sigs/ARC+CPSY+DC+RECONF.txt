@@ -92,22 +92,6 @@ ARC+CPSY+DC+RECONF-6
 ○中村知子・秋吉賢治・中村昂矢・鈴木利明・山崎亜佳根・山中正晴・齋藤靖夫（NECプラットフォームズ）
 
 ARC+CPSY+DC+RECONF-7
-●ビックデータ処理・信頼性
-座長：未定
-
-**(24) Improved computational efficiency for rainfall prediction with hardware and software co-design**
-○Deshmukh Sameer Satish, Honda Takumi (Fujitsu), Amemiya Arata (RIKEN), Elmon Lang Ian (Fujitsu)
-
-**(25) 近似問合せ処理エンジン用トランザクション処理法**
-○川島英之（慶大）
-
-**(26) 技術書類からの自然言語処理によるエンティティ及びリレーションの抽出とデータ構造**
-○吉永　純（NALTEC）
-
-**(27) 相互依存ネットワークにおけるシャープレイ値を応用した強化ノード選択手法の提案**
-○松井香樹・土屋達弘（阪大）
-
-ARC+CPSY+DC+RECONF-8
 ●クラウド基盤・データ管理手法
 座長：未定
 
@@ -122,6 +106,22 @@ ARC+CPSY+DC+RECONF-8
 
 **(31) 高速ホスト・Enclave間データ授受を実現するメモリプール用メモリアロケータの実装と性能評価**
 ○木治康一郎・丁　健軒・齊木昭大・木村啓二（早大）
+
+ARC+CPSY+DC+RECONF-8
+●ビックデータ処理・信頼性
+座長：未定
+
+**(24) Improved computational efficiency for rainfall prediction with hardware and software co-design**
+○Deshmukh Sameer Satish, Honda Takumi (Fujitsu), Amemiya Arata (RIKEN), Elmon Lang Ian (Fujitsu)
+
+**(25) 近似問合せ処理エンジン用トランザクション処理法**
+○川島英之（慶大）
+
+**(26) 技術書類からの自然言語処理によるエンティティ及びリレーションの抽出とデータ構造**
+○吉永　純（NALTEC）
+
+**(27) 相互依存ネットワークにおけるシャープレイ値を応用した強化ノード選択手法の提案**
+○松井香樹・土屋達弘（阪大）
 
 ARC+CPSY+DC+RECONF-9
 ●アクセラレーション技術
