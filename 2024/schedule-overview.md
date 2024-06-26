@@ -69,12 +69,12 @@ permalink: /2024/overview/
 | 時間                                                    | 大会議室（4F）     | 小ホール（5F）        | 会議室2-3（4F）    | 会議室6（5F）    |
 |---------------------------------------------------------|--------------------|-----------------------|--------------------|------------------|
 | 08:30-09:00<br/>受付＆会場準備（開場08:30）             | 準備               | 準備                  | 準備               | 準備             |
-| 09:00-10:40<br/>研究会                                  | HPC-6              | ARC+CPSY+DC+RECONF-6  | OS-3               | PRO-4            |
-| 10:55-12:35<br/>研究会                                  | HPC-7              | ARC+CPSY+DC+RECONF-7  | OS-4               | PRO-5            |
+| 09:00-10:40<br/>研究会                                  |                    | ARC+CPSY+DC+RECONF-6  | OS-3               | PRO-4            |
+| 10:55-12:35<br/>研究会                                  | HPC-6              | ARC+CPSY+DC+RECONF-7  | OS-4               | PRO-5            |
 | 12:35-13:35<br/>お昼休み                                |                    | ARC/CPSY拡大委員会    | OS運営委員会       | PRO編集委員会    |
-| 13:35-15:15<br/>研究会                                  | HPC-8              | ARC+CPSY+DC+RECONF-8  |                    | MEPA-1           |
-| 15:30-17:10<br/>研究会                                  | HPC-9              | ARC+CPSY+DC+RECONF-9  |                    | MEPA-2           |
-| 17:25-18:40<br/>研究会                                  |                    | ARC+CPSY+DC+RECONF-10 |                    | MEPA-3           |
+| 13:35-15:15<br/>研究会                                  | HPC-7              | ARC+CPSY+DC+RECONF-8  |                    | MEPA-1           |
+| 15:30-17:10<br/>研究会                                  | HPC-8              | ARC+CPSY+DC+RECONF-9  |                    | MEPA-2           |
+| 17:25-18:40<br/>研究会                                  | HPC-9              | ARC+CPSY+DC+RECONF-10 |                    | MEPA-3           |
 | 19:00-21:00<br/>BoFパネルセッション                     | BoF-2              |                       |                    |                  |
 
 
