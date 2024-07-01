@@ -82,7 +82,7 @@ permalink: /2024/overview/
 
 # BoFの企画概要
 
-<b> (BoF-1)  ARC250記念企画：ARC版 Test of Time で振り返るこれまでとこれから</b>
+<b> (BoF-1)  ARC250回 記念パネル（仮）</b>
 
 **オーガナイザ：津邑 公暁 (名古屋工業大学)**
 
