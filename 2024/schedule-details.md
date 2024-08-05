@@ -92,13 +92,13 @@ permalink: /2024/program/
 
 <b>対象者</b>：SWoPPの参加者全員
 
-<b>Zoom接続情報</b>：
-トピック: SWoPP2024 day 1
-時刻: 2024年8月7日 07:30 AM 大阪、札幌、東京
-参加 Zoom ミーティング
-https://us02web.zoom.us/j/5437349807?pwd=3Z0Tnoyh66ykyzAhu9zyu75lX5ZJJc.1&omn=81222846602
-ミーティング ID: 543 734 9807
-パスコード: 069491
+<b><font color=#ff0000>Zoom接続情報</font></b>：<br>
+トピック: SWoPP2024 day 1<br>
+時刻: 2024年8月7日 07:30 AM 大阪、札幌、東京<br>
+参加 Zoom ミーティング<br>
+https://us02web.zoom.us/j/5437349807?pwd=3Z0Tnoyh66ykyzAhu9zyu75lX5ZJJc.1&omn=81222846602<br>
+ミーティング ID: 543 734 9807<br>
+パスコード: 069491<br>
 
 <br />
 
