@@ -1,0 +1,121 @@
+xSIG-1
+●Research Awardセッション
+座長：大島 聡史 (九州大学)
+
+xSIG 2024 オープニング (10分)
+
+**(1) 実行サイクル数に応じた動的近似アーキテクチャのRTL設計とソフトプロセッサ実装** (Best RA)
+鈴木 渉太, 出川 祐也, 吉田 智裕, 門本 淳一郎, 入江 英嗣, 坂井 修一 (東京大学)
+
+**(2) 動的複数問合せ最適化を可能にするデータベースシステムの提案と初期評価** (Outstanding RA)
+木村 元紀, 合田 和生 (東京大学)
+
+**(3) ソフトウェアキャッシュを備えた同期クロック不要な分散トランザクショナルメモリ** (Outstanding RA)
+伊原 槻, 二本松 秀樹, 酒井 駿輔, 小泉 透 (名古屋工業大学), 塩谷 亮太 (東京大学), 五島 正裕 (国立情報学研究所), 津邑 公暁 (名古屋工業大学)
+
+**(4) Hardware/Algorithm Co-design for Gradient Boosting Decision Trees via Bit-level Early-termination for Embedded Systems** (Outstanding RA)
+Daichi Tokuda, Shinya Takamaeda-Yamazaki (The University of Tokyo)
+
+xSIG-2
+●機械学習
+座長：新井 淳也 (NTT)
+
+**(5) 説明可能AI技術によるプログラムの性能モデルの解析** (IEEE YR)
+片山 敏伸, 高橋 慧智, 下村 陽一, 滝沢 寛之 (東北大学)
+
+**(6) とても軽量な日本語コードLLMの開発** (Outstanding UG)
+小原 有以, 相馬 菜生, 小原 百々雅, 佐藤 美唯, 梶浦 照乃, 倉光 君郎 (日本女子大学)
+
+**(7) Hardware Co-design Approach for Fixed-weight DNN Accelerators Using Masked Adder Trees** (Outstanding Effort)
+Yoshiki Ozaki, Tatsuya Kaneko, Shinya Takamaeda-Yamazaki (The University of Tokyo)
+
+**(8) 脳波の特徴量算出における高速化実現に向けたPythonの自動並列化機能の実装と評価** (ショート 20分)
+加藤 颯真, 菅谷 みどり (芝浦工業大学)
+
+xSIG-3
+●GPU
+座長：小林 諒平 (筑波大学)
+
+**(9) GPU直接IOを用いたファイルIOの高速化** (Best M)
+富永 瑞己, 塙 敏博, 三木 洋平 (東京大学)
+
+**(10) 非同期マルチGPU処理系におけるCPUを介在しないワークスティーリング**
+細川 颯介, 椎名 峻平, 田浦　健次朗 (東京大学)
+
+**(11) タンパク質構造予測プログラムOmegaFoldのマルチGPUを用いた高速化** (Outstanding Effort)
+大沢 泰生, 遠藤 敏夫, 細木 隆豊 (東京工業大学)
+
+**(12) AlphaFold2における構造最適化ステップの高速化** (ショート 20分)
+下内 良太, 河口 真一, 曽我 隆 (大阪大学), 山口 健太, 川崎 隆矢 (NECソリューションイノベータ), 伊達 進 (大阪大学)
+
+xSIG-4
+●ポスターセッション
+
+会場：特別展示室 (2F)
+座長：平石 拓 (京都橘大学)
+
+xSIG-5
+●並列分散
+座長：深谷 猛 (北海道大学)
+
+**(13) タスク間の依存関係を考慮したワークフローのバッチジョブスケジューリング** (Best UG)
+柳井 快斗, 高橋 慧智, 下村 陽一, 滝沢 寛之 (東北大学)
+
+**(14) トランザクション処理向け複合型索引機構PLIの高性能化**
+別所 祐太朗 (NTTコンピュータ＆データサイエンス研究所), 川島 英之 (慶応義塾大学)
+
+**(15) LLM分散データセット学習基盤の開発** (Outstanding Effort)
+小柳 響子, 相馬 菜生, 倉光 君郎 (日本女子大学), 片桐 孝洋 (名古屋大学), 横手 靖彦 (理化学研究所), 石川 裕 (国立情報学研究所)
+
+**(16) タスク並列分散処理における書き込み履歴を利用した効率的なキャッシュコヒーレンスプロトコル** (ショート 20分)
+佐々木 大夢, 椎名 峻平, 田浦 健次朗 (東京大学)
+
+xSIG-6
+●アーキテクチャ
+座長：穐山 空道 (立命館大学)
+
+**(17) Edge-popup Algorithm with Sparsely Assigned Scores for Hardware-efficient Transfer Learning** (IEEE YR)
+Honoka Anada, Sefutsu Ryu, Tatsuya Kaneko, Shinya Takamaeda-Yamazaki (The University of Tokyo)
+
+**(18) STRAIGHTアーキテクチャにおけるリンカの実現**
+周 友佳, 杉田 脩, 入江 英嗣, 坂井 修一 (東京大学)
+
+**(19) 自動メモ化プロセッサにおける入力情報の登録基準及び置換ポリシーの改良** (Outstanding UG)
+森 隆志, 前川 隼輝, 藤江 健吾, 宮川 晃輔, 小泉 透 (名古屋工業大学), 塩谷 亮太 (東京大学), 五島 正裕 (国立情報学研究所), 津邑 公暁 (名古屋工業大学)
+
+**(20) アウトオブオーダプロセッサ向け自動メモ化機構の設計** (ショート 20分)
+前川 隼輝, 宮川 晃輔, 森 隆志, 藤江 健吾, 小泉 透 (名古屋工業大学), 塩谷 亮太 (東京大学), 五島 正裕 (国立情報学研究所), 津邑 公暁 (名古屋工業大学)
+
+xSIG-7
+●量子コンピューティング・近似計算
+座長：河合 直聡 (名古屋大学)
+
+**(21) QRAM上のデータベース格納に関する一検討** (Outstanding M)
+御手洗 陽紀, 合田 和生 (東京大学)
+
+**(22) 量子アニーリングを用いたグラフ彩色問題による時間割編成**
+松田 和幸, 李 天鎬, 川島 正行 (岡山理科大学)
+
+**(23) GMRES(m)法における近似疎行列ベクトル積の導入可能性の検証** (Outstanding Presentation)
+今多 和歩, 佐竹 祐樹, 深谷 猛 (北海道大学)
+
+(18:15終了)
+
+xSIG 2024 表彰式・クロージング (18:20〜)
+
+xSIG-8
+●セキュリティ・異常検知
+座長：光来 健一 (九州工業大学)
+
+**(24) メモリ暗号化された機密コンテナ環境におけるメモリ参照遅延とサービス応答性能の評価**
+中井 樹 (豊橋技術科学大学), 深井 貴明, 広渕 崇宏 (産業技術総合研究所), 佐藤 幸紀 (豊橋技術科学大学)
+
+**(25) ガウス過程回帰に基づく宇宙機テレメトリ異常検知システムのFPGAによる高効率化**
+河内 陸 (豊橋技術科学大学), 尾亦 範泰, 堤 誠司 (JAXA), 佐藤 幸紀 (豊橋技術科学大学)
+
+**(26) Development of High-level Synthesis Compiler Automatically Synthesizing Memory Integrity Verification Engines** (ショート 20分)
+Tomoya Nagatani, Shinya Takamaeda-Yamazaki (The University of Tokyo)
+
+(18:10終了)
+
+xSIG 2024 表彰式・クロージング (18:20〜 大会議室にて)

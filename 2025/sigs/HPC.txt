@@ -1,0 +1,146 @@
+HPC-1
+●実行環境と性能評価
+座長：野村 哲弘（東工大）
+
+**(1) ポスト富岳世代のMN-Coreベースアクセラレータ対応OpenACCのインターフェイスとコンパイラの検討及び開発**
+○綱島 隆太（神戸大）・遠藤 克浩（産総研）・中里 直人（会津大）・井町 宏人（PFN）・牧野 淳一郎（PFN/神戸大）
+
+**(2) GPU向け指示文統合マクロの実装**
+○三木 洋平・塙 敏博（東大）
+
+**(3) 多様な環境におけるマルチ・タスク・ミニベンチマークの評価とPerformance Portability**
+○藤田 典久（筑波大）・Beau Johnston（Oak Ridge National Laboratory）・小林 諒平（筑波大）・Alaul Haque Monil・Rao Miniskar Narasinga・Teranishi Keita・Lee Seyong・S. Vetter Jeffrey（Oak Ridge National Laboratory）・朴 泰祐（筑波大）
+
+**(4) GH200の予備性能評価**
+○塙 敏博（東大）・建部 修見（筑波大）・中島 研吾（東大）・朴 泰祐（筑波大）・三木 洋平・下川辺 隆史・山崎 一哉・住元 真司（東大）・高橋 大介・額田 彰・多田野 寛人・小林 諒平・藤田 典久（筑波大）・田浦 健次朗・細川 颯介・髙橋 淳一郎（東大）・成瀬 彰（NVIDIA）
+
+
+HPC-2
+●分散システム
+座長：大辻 弘貴（富士通）
+
+**(5) Leveraging GPUDirect Storage for Efficient Image Reconstruction**
+○Wu Du（Tokyo Institute of Technology）・Chen Peng（AIST）・Endo Toshio（Tokyo Institute of Technology）・Matsuoka Satoshi・Wahib Mohamed（RIKEN）
+
+**(6) 共用計算機・占有計算機間での安全なデータ共有方式の検討**
+○中村 隆喜（東北大）
+
+**(7) スパコンTSUBAMEシリーズにおけるリソース分割戦略**
+○野村 哲弘・遠藤 敏夫（東工大）
+
+**(8) HPC-AI時代に向けたもっとみんなのスパコンTSUBAME4.0**
+○遠藤 敏夫・野村 哲弘・渡邊 寿雄・安良岡 由規・鶴見 慶（東工大）
+
+HPC-3
+●システム運用
+座長：遠藤 新（NAIST）
+
+**(9) HPCシステム用ウェブポータルにおける ジョブスケジューラの抽象化**
+○谷澤 悠太・高橋 慧智・下村 陽一・滝沢 寛之（東北大）
+
+**(10) スーパーコンピュータ「富岳」における利用者参加型の省電力運用の試行**
+○末安 史親・井口 裕次・岡本 光央・菅田 勝文・庄司 文由（理研）
+
+**(11) スーパーコンピュータ「富岳」における運用保守自動化への取り組み**
+○平嶋 浩二（富士通）・岡本 光央・井口 裕次（理研）
+
+**(12) ジョブレベルの電力効率の向上のためのCPU電力制御手法の検討**
+○高橋 理起・深沢 圭一郎・岩下 武史（京大）
+
+HPC-4
+●深層学習
+座長：横田 理央（東工大）
+
+**(13) Distributed K-FAC Over Unstable Networks**
+○Yu Mingzhe・Tatebe Osamu（University of Tsukuba）
+
+**(14) High-performance Graph Convolutional Networks Training on Fugaku and ABCI Supercomputers**
+○Zhuang Chen（Tokyo Institute of Technology/RIKEN）・Chen Peng・Liu Xin（AIST）・Yokota Rio・Endo Toshio（Tokyo Institute of Technology）・Matsuoka Satoshi・Wahib Mohamed（RIKEN）
+
+**(15) Enhancing Sparse DNN Inference on GPUs: Adaptive Tile Pruning and Split-Tiled Sparse Matrix Multiplication**
+○Li Yanchen・Ino Fumihiko（Osaka University）
+
+**(16) ガラス動力学の深層グラフニューラルネットワークモデルの各種GPU等での性能評価・解析**
+○芝 隼人（兵庫県立大）・深川 宏樹（DeepFlow株式会社）・下川辺 隆史（東大）
+
+HPC-5
+●量子コンピューティング
+座長：河合 直聡（名大）
+
+**(17) 大規模かつ高精度な量子化学計算に向けた分散並列処理の実装と評価**
+○飯嶋 直輝・今村 智史・高 虹・笠置 明彦・吉田 英司（富士通）
+
+
+**(18) 国産量子コンピュータの運用とその課題について**
+○森 俊夫・束野 仁政・桝本 尚之・宮永 崇史（大阪大）・富田 賢・新井 正伸（理研）
+
+**(19) シミュレーテッド量子アニーリングの並列化手法の評価**
+○足原 啓心・中村 あすか・前川 仁孝（千葉工業大）
+
+
+HPC-6
+●並列計算（１）
+座長：高橋 大介（筑波大）
+
+（発表取り下げのため、（２１）および（２２）の発表時刻は繰り上げ）
+
+**(20) Further Investigation for Optimization of Communication-Computation Overlapping in Parallel Multigrid Methods**
+○中島 研吾（東大）
+
+（発表取り下げ） **~~SCG法を用いた粒子法半陰解法におけるマルチコア/SIMD並列処理~~**
+~~○齊藤 大輔・吉田 明正（明治大）~~
+
+**(21) 可変長精度浮動小数点計算に対応した疎行列ベクトル乗算の性能評価**
+○幸谷 智紀（静岡理工科大）
+
+**(22) 粒子の影響半径を用いた影響範囲の近似精度向上による解像度可変型MPS法の近傍判定回数削減**
+○石井 滉人・中村 あすか（千葉工業大）・富永 浩文（明治大）・前川 仁孝（千葉工業大）
+
+**CS領域功績賞授賞/CS領域奨励賞受賞/学生優秀発表賞 表彰式**
+
+HPC-7
+●並列計算（２）
+座長：置田 真生（阪大）
+
+（発表取り下げのため、開始時刻を14:00に繰り下げ）
+
+**(23) MPI/OpenMP並列化によるスライドパズルのZero-Aware Pattern Databaseの構築**
+○長橋 朋也・高橋 大介（筑波大）
+
+**(24) ヤコビ法ループにおけるスレッドオーバーラップの評価**
+○曽我 隆（大阪大）・細見 岳生（NEC）・山下 晃弘・伊達 進（大阪大）
+
+（発表取り下げ） **~~Tensor Core based Stencil with Efficient Computation Utilization~~**
+~~○ZHANG LINGQI（RIKEN）~~
+
+**(25) 格子H行列を用いた地震シミュレーションのマルチGPU並列化**
+○百武 尚輝・星野 哲也（名大）・小澤 創（スタンフォード大）・伊田 明弘（海洋研究開発機構）・安藤 亮輔・河合 直聡・永井 亨・片桐 孝洋（名大）
+
+HPC-8
+●並列計算（３）
+座長：二村 保徳（筑波大学）
+
+**(26) レイトレーシング加速機構を有するGPUを用いた電波の伝搬損失計算の実装と性能比較**
+○イ ジュンヒョク・大島 聡史（九大）
+
+**(27) FRUGAL: Reducing GPU Memory Requirement of HPC Applications**
+○Wang Tengfei（Tokyo Institute of Technology）・Zhang Lingqi（RIKEN）・Ivanov   Ivan R.（Tokyo Institute of Technology/RIKEN）・Chen Peng（AIST/RIKEN）・Endo Toshio（Tokyo Institute of Technology）・Wahib Mohamed（RIKEN）
+
+**(28) C++ Sender/Receiver非同期実行モデルで実装されたRed-Black SOR法のGPU上での評価**
+○田道 竜大・藤本 典幸（大阪公立大）
+
+**(29) 高効率的なデータ処理の実現に向けたGPUの自律駆動方式に関する検討**
+○仙田 学・西山 達也・石崎 晃朗（NTT）　
+
+HPC-9
+●通信
+座長：中尾 昌広（理研）
+
+**(30) スーパーコンピュータ「富岳」における富士通MPIのジョブ次元変換機能**
+○野瀬 貴史・伏見 政晃・井原 宣孝・中村 朋健（富士通）・中村 宜文・村井 均（理研）
+
+**(31) 直接結合網におけるPartial In-Network AggregationによるAllreduceの高速化**
+○立岩 斉明・森田 和孝（NTT）・石田 渉（NTTイノベーティブデバイス）・村中 勇介・西潟 愛美（NTT）
+
+**(32) Halo通信における不連続データ転送のTofuインターコネクトによる実装と性能評価**
+○有迫 廉真・南里 豪志（九大)
