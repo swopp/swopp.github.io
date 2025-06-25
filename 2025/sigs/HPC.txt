@@ -1,146 +1,142 @@
 HPC-1
-●実行環境と性能評価
-座長：野村 哲弘（東工大）
 
-**(1) ポスト富岳世代のMN-Coreベースアクセラレータ対応OpenACCのインターフェイスとコンパイラの検討及び開発**
-○綱島 隆太（神戸大）・遠藤 克浩（産総研）・中里 直人（会津大）・井町 宏人（PFN）・牧野 淳一郎（PFN/神戸大）
+HPCは9:40開始となります。
 
-**(2) GPU向け指示文統合マクロの実装**
-○三木 洋平・塙 敏博（東大）
+●計算方法
+座長：
 
-**(3) 多様な環境におけるマルチ・タスク・ミニベンチマークの評価とPerformance Portability**
-○藤田 典久（筑波大）・Beau Johnston（Oak Ridge National Laboratory）・小林 諒平（筑波大）・Alaul Haque Monil・Rao Miniskar Narasinga・Teranishi Keita・Lee Seyong・S. Vetter Jeffrey（Oak Ridge National Laboratory）・朴 泰祐（筑波大）
+**(1) 疎行列における実部と虚部の分離と棄却による BiCG 法の高速化**
+○山内和希(大阪大学 大学院情報科学研究科), 桝井晃基(大阪大学 大学院情報科学研究科), 伊野文彦(大阪大学 大学院情報科学研究科)
 
-**(4) GH200の予備性能評価**
-○塙 敏博（東大）・建部 修見（筑波大）・中島 研吾（東大）・朴 泰祐（筑波大）・三木 洋平・下川辺 隆史・山崎 一哉・住元 真司（東大）・高橋 大介・額田 彰・多田野 寛人・小林 諒平・藤田 典久（筑波大）・田浦 健次朗・細川 颯介・髙橋 淳一郎（東大）・成瀬 彰（NVIDIA）
+**(2) 大規模並列環境におけるパイプライン型共役勾配法**
+○中島研吾(東京大学情報基盤センター/理化学研究所計算科学研究センター), 深谷猛(北海道大学情報基盤センター), 南里豪志(九州大学情報基盤研究開発センター)
 
+**(3) Can Tensor Cores Accelerate Non-GEMM Workloads? An Analytical Study**
+○Zhang Lingqi(RIKEN Center for Computational Science), Huang Jiajun(University of South Florida Tampa), Di Sheng(Argonne National Laboratory), Matsuoka Satoshi(RIKEN-CCS), Wahib Mohamed(RIKEN Center for Computational Science)
 
 HPC-2
-●分散システム
-座長：大辻 弘貴（富士通）
+●高精度演算/量子
+座長：
 
-**(5) Leveraging GPUDirect Storage for Efficient Image Reconstruction**
-○Wu Du（Tokyo Institute of Technology）・Chen Peng（AIST）・Endo Toshio（Tokyo Institute of Technology）・Matsuoka Satoshi・Wahib Mohamed（RIKEN）
+**(4) 悪条件代数方程式に対する多倍長精度直接解法の性能評価**
+○幸谷智紀(追手門学院大学)
 
-**(6) 共用計算機・占有計算機間での安全なデータ共有方式の検討**
-○中村 隆喜（東北大）
+**(5) 量子マルチプログラミングによる量子計算機スループットの最適化**
+○森俊夫(大阪大学), 中田秀基(順天堂大学), 束野仁政(大阪大学), 桝本尚之(大阪大学), 宮永崇史(大阪大学), 宮地孝輔(大阪大学)
 
-**(7) スパコンTSUBAMEシリーズにおけるリソース分割戦略**
-○野村 哲弘・遠藤 敏夫（東工大）
-
-**(8) HPC-AI時代に向けたもっとみんなのスパコンTSUBAME4.0**
-○遠藤 敏夫・野村 哲弘・渡邊 寿雄・安良岡 由規・鶴見 慶（東工大）
+**(6) 組合せ最適化問題のための疑似量子アニーリングマシンの制約機能に関する検討**
+○伴内光太郎(日本電気株式会社/東北大学), 小松一彦(東北大学), 中曽根才将(日本電気株式会社), 百瀬真太郎(日本電気株式会社/東北大学), 小林広明(東北大学)  
 
 HPC-3
-●システム運用
-座長：遠藤 新（NAIST）
+●LLM
+座長：
 
-**(9) HPCシステム用ウェブポータルにおける ジョブスケジューラの抽象化**
-○谷澤 悠太・高橋 慧智・下村 陽一・滝沢 寛之（東北大）
+**(7) LLMCP・RAGを用いたプロシージャル3D生成LLMエージェント3Difyの提案とスパコンの利用**
+○林俊一郎(名古屋大学 情報学研究科), 椋木大地(名古屋大学 情報基盤センター), 大島聡史(名古屋大学 情報基盤センター / 九州大学 情報基盤研究開発センター), 片桐孝洋(名古屋大学 情報基盤センター), 星野哲也(名古屋大学 情報基盤センター)
 
-**(10) スーパーコンピュータ「富岳」における利用者参加型の省電力運用の試行**
-○末安 史親・井口 裕次・岡本 光央・菅田 勝文・庄司 文由（理研）
+**(8) Survey of block sparsity in LLMs for text summarization**
+○DESHMUKH SAMEER(Fujitsu Ltd.)
 
-**(11) スーパーコンピュータ「富岳」における運用保守自動化への取り組み**
-○平嶋 浩二（富士通）・岡本 光央・井口 裕次（理研）
+**(9) 大規模言語モデルによるプログラム最適化機能の試作―富岳を想定したループアンローリング支援―**
+○似鳥啓吾(理化学研究所), 村井均(理化学研究所), 庄司文由(理化学研究所), 森本達也(アドバンスソフト株式会社)
 
-**(12) ジョブレベルの電力効率の向上のためのCPU電力制御手法の検討**
-○高橋 理起・深沢 圭一郎・岩下 武史（京大）
+**(10) BLASコードを題材としたGPTモデルによる数値計算コード実装支援に関する考察**
+○椋木大地(名古屋大学 情報基盤センター), 林俊一郎(名古屋大学 情報学研究科), 星野哲也(名古屋大学 情報基盤センター), 片桐孝洋(名古屋大学 情報基盤センター)   
 
 HPC-4
-●深層学習
-座長：横田 理央（東工大）
+●最適化
+座長：
 
-**(13) Distributed K-FAC Over Unstable Networks**
-○Yu Mingzhe・Tatebe Osamu（University of Tsukuba）
+**(11) Cerebras CS-2における 格子ボルツマン法の複数PE実装の検討**
+○酒井宏己(明治大学 理工学研究科 情報科学専攻), 折原冴保(明治大学 理工学研究科 情報科学専攻), 下川辺隆史(東京大学情報基盤センター), 宮島敬明(明治大学 理工学研究科 情報科学専攻)
 
-**(14) High-performance Graph Convolutional Networks Training on Fugaku and ABCI Supercomputers**
-○Zhuang Chen（Tokyo Institute of Technology/RIKEN）・Chen Peng・Liu Xin（AIST）・Yokota Rio・Endo Toshio（Tokyo Institute of Technology）・Matsuoka Satoshi・Wahib Mohamed（RIKEN）
+**(12) Cerebras CS-2を用いた疎行列ベクトル積の測定と最適化実装への検討**
+○折原冴保(明治大学 理工学研究科 情報科学専攻), 酒井宏己(明治大学 理工学研究科 情報科学専攻), 宮島敬明(明治大学 理工学研究科 情報科学専攻)
 
-**(15) Enhancing Sparse DNN Inference on GPUs: Adaptive Tile Pruning and Split-Tiled Sparse Matrix Multiplication**
-○Li Yanchen・Ino Fumihiko（Osaka University）
+**(13) オープンソース流体解析プログラム DualSPHysics のOpenACCを用いたGPUへの移植と性能評価**
+○長谷川和久(明治大学大学院理工学研究科), 阿部碧音(明治大学大学院理工学研究科), 和田大(明治大学大学院理工学研究科), 宮島敬明(明治大学理工学部)
 
-**(16) ガラス動力学の深層グラフニューラルネットワークモデルの各種GPU等での性能評価・解析**
-○芝 隼人（兵庫県立大）・深川 宏樹（DeepFlow株式会社）・下川辺 隆史（東大）
+**(14) ソースコードと中間コードの静的解析に基づくGPUデータレイアウト最適化手法**
+○山本真太朗(三重大学), 大野和彦(三重大学)  
 
 HPC-5
-●量子コンピューティング
-座長：河合 直聡（名大）
+●Graph / Training
+座長：
 
-**(17) 大規模かつ高精度な量子化学計算に向けた分散並列処理の実装と評価**
-○飯嶋 直輝・今村 智史・高 虹・笠置 明彦・吉田 英司（富士通）
+**(15) Graphical Ray Casting Representation of Directed Acyclic Graph in Critical Path Detection**
+○Bai Zhengyang(RIKEN), Chen Peng(RIKEN), Zhang Lingqi(Institute of Science Tokyo), ZhuangChen(RIKEN), Abeywickrama Tenindra(RIKEN), Xu Jing(Kyoto University), Wu Du(Institute of Science Tokyo), Vatai Emil(RIKEN), Wahib Mohamed(RIKEN)
 
+**(16) Scaling Large-scale GNN Training to Thousands of Processors on CPU-based Supercomputers**
+○Zhuang Chen(Institute of Science Tokyo, RIKEN Center for Computational Science), Chen Peng(RIKEN Center for Computational Science), Endo Toshio(Institute of Science Tokyo), Wahib Mohamed(RIKEN Center for Computational Science)
 
-**(18) 国産量子コンピュータの運用とその課題について**
-○森 俊夫・束野 仁政・桝本 尚之・宮永 崇史（大阪大）・富田 賢・新井 正伸（理研）
+**(17) 大規模スーパーコンピュータ向けネットワークトポロジの媒介中心性を用いた評価**
+○佐藤智優(東京科学大学), 遠藤敏夫(東京科学大学), 細木隆豊(東京科学大学)
 
-**(19) シミュレーテッド量子アニーリングの並列化手法の評価**
-○足原 啓心・中村 あすか・前川 仁孝（千葉工業大）
-
+**(18) 分散並列学習における通信圧縮技術のボトルネック解析**
+○小宮山悠輔(東京科学大学), 細木隆豊(東京科学大学), 遠藤敏夫(東京科学大学)
 
 HPC-6
-●並列計算（１）
-座長：高橋 大介（筑波大）
 
-（発表取り下げのため、（２１）および（２２）の発表時刻は繰り上げ）
+HPCは9:40開始となります。
 
-**(20) Further Investigation for Optimization of Communication-Computation Overlapping in Parallel Multigrid Methods**
-○中島 研吾（東大）
+●運用
+座長：
 
-（発表取り下げ） **~~SCG法を用いた粒子法半陰解法におけるマルチコア/SIMD並列処理~~**
-~~○齊藤 大輔・吉田 明正（明治大）~~
+**(19) 次世代計算基盤の運用に向けて**
+○塙敏博(東京大学), 野村哲弘(東京科学大学), 山本啓二(理化学研究所), 竹房あつ子(国立情報学研究所), 大島聡史(九州大学), 住元真司(東京大学), 三浦信一(理化学研究所), 中尾昌広(理化学研究所), 金山秀智(理化学研究所), 庄司文由(理化学研究所), 佐賀一繁(国立情報学研究所), 藤原一毅(国立情報学研究所), 田中秀樹(国立情報学研究所)
 
-**(21) 可変長精度浮動小数点計算に対応した疎行列ベクトル乗算の性能評価**
-○幸谷 智紀（静岡理工科大）
+**(20) オーバーコミット状態におけるノード内ジョブスケジューリング手法の性能比較**
+○矢澤智成(東京科学大学), 遠藤敏夫(東京科学大学), 南将平(プロメテック・ソフトウェア株式会社), 細木隆豊(東京科学大学)
 
-**(22) 粒子の影響半径を用いた影響範囲の近似精度向上による解像度可変型MPS法の近傍判定回数削減**
-○石井 滉人・中村 あすか（千葉工業大）・富永 浩文（明治大）・前川 仁孝（千葉工業大）
-
-**CS領域功績賞授賞/CS領域奨励賞受賞/学生優秀発表賞 表彰式**
+**(21) Secure Storage with Ciphertext-Policy Attribute-based Access Control for HPC System**
+○SU Chang(University of Tokyo), HANAWA Toshihiro(University of Tokyo)
 
 HPC-7
-●並列計算（２）
-座長：置田 真生（阪大）
 
-（発表取り下げのため、開始時刻を14:00に繰り下げ）
+●推論
+座長：
 
-**(23) MPI/OpenMP並列化によるスライドパズルのZero-Aware Pattern Databaseの構築**
-○長橋 朋也・高橋 大介（筑波大）
+**(22) ABCIにおける共用の推論評価試験環境の提供に向けた性能調査と方式検討**
+○大西尚樹(国立研究開発法人産業技術総合研究所), 谷村勇輔(国立研究開発法人産業技術総合研究所), 滝澤真一朗(国立研究開発法人産業技術総合研究所), 中田秀基(国立研究開発法人産業技術総合研究所)
 
-**(24) ヤコビ法ループにおけるスレッドオーバーラップの評価**
-○曽我 隆（大阪大）・細見 岳生（NEC）・山下 晃弘・伊達 進（大阪大）
+**(23) A Metric-Driven Kubernetes Operator for Dynamic MPS-Based GPU Sharing in Inference-Focused Clusters**
+○Choonhaklai Papon(Nara Institute of Science and Technology), Ichikawa Kohei(Nara Institute of Science and Technology), Iida Hajimu(Nara Institute of Science and Technology)
 
-（発表取り下げ） **~~Tensor Core based Stencil with Efficient Computation Utilization~~**
-~~○ZHANG LINGQI（RIKEN）~~
+**(24) CXLメモリプール実験システムの初期評価 **
+○遠藤敏夫(東京科学大学), 坂本龍一(東京科学大学), 野村哲弘(東京科学大学), 小林諒平(東京科学大学), 大辻弘貴(富士通株式会社), 加藤純(富士通株式会社), 古藤明音(富士通株式会社), 三輪真弘(富士通株式会社)
 
-**(25) 格子H行列を用いた地震シミュレーションのマルチGPU並列化**
-○百武 尚輝・星野 哲也（名大）・小澤 創（スタンフォード大）・伊田 明弘（海洋研究開発機構）・安藤 亮輔・河合 直聡・永井 亨・片桐 孝洋（名大）
+**CS領域功績賞授賞/CS領域奨励賞受賞/学生優秀発表賞 表彰式** 
 
 HPC-8
-●並列計算（３）
-座長：二村 保徳（筑波大学）
 
-**(26) レイトレーシング加速機構を有するGPUを用いた電波の伝搬損失計算の実装と性能比較**
-○イ ジュンヒョク・大島 聡史（九大）
+●精度
+座長：
 
-**(27) FRUGAL: Reducing GPU Memory Requirement of HPC Applications**
-○Wang Tengfei（Tokyo Institute of Technology）・Zhang Lingqi（RIKEN）・Ivanov   Ivan R.（Tokyo Institute of Technology/RIKEN）・Chen Peng（AIST/RIKEN）・Endo Toshio（Tokyo Institute of Technology）・Wahib Mohamed（RIKEN）
+**(25) より低精度なFFTを用いた高精度なFFTの計算手法の提案**
+○川上昌汰(筑波大学大学院理工情報生命学術院), 高橋大介(筑波大学計算科学研究センター)
 
-**(28) C++ Sender/Receiver非同期実行モデルで実装されたRed-Black SOR法のGPU上での評価**
-○田道 竜大・藤本 典幸（大阪公立大）
+**(26) 倍精度三角関数の高速な完全精度実装に向けて**
+○小泉透(名古屋工業大学), 水野将成(名古屋工業大学), 津邑公暁(名古屋工業大学)
 
-**(29) 高効率的なデータ処理の実現に向けたGPUの自律駆動方式に関する検討**
-○仙田 学・西山 達也・石崎 晃朗（NTT）　
+**(27) INT8による倍精度行列積エミュレーションの高速化と混合精度入出力に対応したライブラリの実装**
+○中嶋陸(電気通信大学), 内野佑基(理化学研究所), 成見哲(電気通信大学), 今村俊幸(理化学研究所)
+
+**(28) 疑似的な高精度演算の行列分解への応用**
+○矢崎雪莉(芝浦工業大学), 尾崎克久(芝浦工業大学)
 
 HPC-9
+
 ●通信
-座長：中尾 昌広（理研）
+座長：
 
-**(30) スーパーコンピュータ「富岳」における富士通MPIのジョブ次元変換機能**
-○野瀬 貴史・伏見 政晃・井原 宣孝・中村 朋健（富士通）・中村 宜文・村井 均（理研）
+**(29) WaitIO-Router:異種ネットワーク間高速通信を実現する通信ライブラリの試作**
+○住元真司(東京大学 情報基盤センター), 胡 曜(東京大学 情報基盤センター), 山崎 一哉(東京大学 情報基盤センター), 中島 研吾(東京大学 情報基盤センター/理化学研究所　計算科学研究センター )
 
-**(31) 直接結合網におけるPartial In-Network AggregationによるAllreduceの高速化**
-○立岩 斉明・森田 和孝（NTT）・石田 渉（NTTイノベーティブデバイス）・村中 勇介・西潟 愛美（NTT）
+**(30) GPUカーネル内発行通信による通信オーバヘッド削減効果の検証**
+○有迫廉真(九州大学大学院システム情報科学府), 南里豪志(九州大学情報基盤研究開発センター)
 
-**(32) Halo通信における不連続データ転送のTofuインターコネクトによる実装と性能評価**
-○有迫 廉真・南里 豪志（九大)
+**(31) 大規模高速ストレージアーキテクチャの実現に向けた非同期RPC基盤の設計**
+○中野将生(筑波大学大学院), 建部修見(筑波大学計算科学研究センター)
+
+**(32) 共有メモリアーキテクチャにおける高性能RPCの方式検討**
+○前田宗則(富士通株式会社/筑波大学), 大辻弘貴(富士通株式会社), 平賀弘平(富士通株式会社), 建部修見(筑波大学)
