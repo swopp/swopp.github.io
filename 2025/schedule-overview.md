@@ -44,7 +44,7 @@ permalink: /2025/overview/
 | 13:20-15:00<br/>研究会                                  | OS-1               | ARC+CPSY+DC+RECONF-3| HPC-3               | PRO-1          |
 | 15:10-16:50<br/>研究会                                  | OS-2               | ARC+CPSY+DC+RECONF-4| HPC-4               | PRO-1          |
 | 17:00-18:40<br/>研究会                                  | OS-3               | ARC+CPSY+DC+RECONF-5| HPC-5               |                |
-| 19:00-21:00<br/>BoFパネルセッション                     |                    | BoF1                |	                   |                |
+| 19:00-21:00<br/>BoFパネルセッション                     |                    | BoF-1               |	                   |                |
 
 
 <br/>
