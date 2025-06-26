@@ -77,7 +77,7 @@ HPC-5
 
 HPC-6
 
-HPCは9:40開始となります。
+HPCは9:25開始となります。
 
 ●運用
 座長：
@@ -140,3 +140,20 @@ HPC-9
 
 **(32) 共有メモリアーキテクチャにおける高性能RPCの方式検討**
 ○前田宗則(富士通株式会社/筑波大学), 大辻弘貴(富士通株式会社), 平賀弘平(富士通株式会社), 建部修見(筑波大学)
+
+HPC-10
+●I/O
+座長：
+
+**(33) Pluvio: アドホックファイルシステムのためのzero-copy I/O非同期ラ
+ンタイムの設計**
+○前田椋祐(筑波大学大学院), 中野将生(筑波大学大学院), 建部修見(筑波大学計算科学研究センター)
+
+**(34) BBView: Viewを意識したMPI-IO対応バーストバッファの設計**
+○小山創平(筑波大学), 建部修見(筑波大学)
+
+**(35) 超大規模データを指向したGPU直接IOの性能評価**
+○竹島颯(東京大学), 塙敏博(東京大学), 三木洋平(東京大学)
+
+**(36) High-performance high-througput high-resolution X-ray CT reconstruction**
+○Wu Du(Institute of Science Tokyo), Zhang Enzhi(Hokkaido University), Chen Peng(RIKEN Center for Computational Science), Endo Toshio(Institute of Science Tokyo), Matsuoka Satoshi(RIKEN Center for Computational Science), Wahib Mohamed(RIKEN Center for Computational Science) 
