@@ -9,7 +9,7 @@ if sys.version_info.major != 3:
     sys.stderr.write('Please use python 3.x\n')
     exit()
 
-rex = re.compile('((?:ARC\+CPSY\+DC\+RECONF|HPC|PRO|OS|MEPA|BoF|xSIG)-\d+)')
+rex = re.compile('((?:ARC\\+CPSY\\+DC\\+RECONF|HPC|PRO|OS|MEPA|BoF|xSIG)-\\d+)')
 
 data = {}
 
@@ -28,7 +28,6 @@ for sig in sigs:
             else:
                 data[session_name] += line
 
-
 for session_name in data:
     text = data[session_name]
     text = text.strip()
@@ -46,8 +45,12 @@ with open("schedule-overview.md") as fin:
 
     table_text = fin.read()
     for session_name in data:
-        # add a space not to repalce HPC-11 with HPC-1
-        table_text = table_text.replace(session_name + ' ', data[session_name])
+        #Added if-else to enable replacement in the case of "ARC+CPSY+DC+RECONF1|"
+        if session_name + '|' in table_text:
+            table_text = table_text.replace(session_name + '|', data[session_name]+'|')
+        else:
+            # add a space not to repalce HPC-11 with HPC-1
+            table_text = table_text.replace(session_name + ' ', data[session_name])
 
 
 # keep the header
