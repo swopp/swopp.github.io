@@ -1,6 +1,9 @@
- 
-<font corlo="red"><b>現在掲載のものは仮のものです</b></font><br>
-プログラム詳細については6月末~7月頭に掲載します。
+---
+title: プログラム
+layout: page
+permalink: /2024/program/
+---
+
 
 その他、開催に関する情報は[SWoPP2025ウェブサイト](https://sites.google.com/site/swoppweb/swopp-2025/) を参照してください。<br />
 
