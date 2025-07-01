@@ -42,7 +42,7 @@ permalink: /2025/overview/
 | 11:05-12:20<br/>研究会                                  | 準備               | ARC+CPSY+DC+RECONF-2| HPC-2               | 準備           |
 | 12:20-13:20<br/>お昼休み                                |                    | 委員会?             | 委員会?             | 委員会?        |
 | 13:20-15:00<br/>研究会                                  | OS-1               | ARC+CPSY+DC+RECONF-3| HPC-3               | PRO-1          |
-| 15:10-16:50<br/>研究会                                  | OS-2               | ARC+CPSY+DC+RECONF-4| HPC-4               | PRO-1          |
+| 15:10-16:50<br/>研究会                                  | OS-2               | ARC+CPSY+DC+RECONF-4| HPC-4               | PRO-2          |
 | 17:00-18:40<br/>研究会                                  | OS-3               | ARC+CPSY+DC+RECONF-5| HPC-5               |                |
 | 19:00-21:00<br/>BoFパネルセッション                     |                    | BoF-1               |	                   |                |
 
@@ -55,12 +55,12 @@ permalink: /2025/overview/
 | 時間                                                    | 第1小ホール(4F/5F) | 61会議室(6F)          | 54会議室(5F)      | 62会議室(6F)     |
 |---------------------------------------------------------|--------------------|-----------------------|-------------------|------------------|
 | 08:30-09:00<br/>受付＆会場準備（開場08:30）             | 準備               | 準備                  | 準備              | 準備             |
-| 09:00-10:40<br/>研究会                                  | OS-4               | ARC+CPSY+DC+RECONF-6  | HPC-6             | PRO-3            |
-| 10:55-12:35<br/>研究会                                  | OS-5               | ARC+CPSY+DC+RECONF-7  | HPC-7             | PRO-4            |
-| 12:35-13:35<br/>お昼休み                                | 委員会             | 委員会             | SWoPP合同委員会   |                     |
-| 13:35-15:15<br/>研究会                                  |                    | ARC+CPSY+DC+RECONF-8  | HPC-8             | PRO-5            |
-| 15:30-17:10<br/>研究会                                  |                    | ARC+CPSY+DC+RECONF-9  | HPC-9             | MEPA-1           |
-| 17:25-18:40<br/>研究会                                  |                    | ARC+CPSY+DC+RECONF-10 | HPC-10            | MEPA-2           |
+| 09:15-10:55<br/>研究会                                  | OS-4               | ARC+CPSY+DC+RECONF-6  | HPC-6             | PRO-3            |
+| 11:05-12:20<br/>研究会                                  | OS-5               | ARC+CPSY+DC+RECONF-7  | HPC-7             | PRO-4            |
+| 12:20-13:20<br/>お昼休み                                | 委員会             | 委員会             | SWoPP合同委員会   |                     |
+| 13:20-15:00<br/>研究会                                  |                    | ARC+CPSY+DC+RECONF-8  | HPC-8             | PRO-5            |
+| 15:10-16:50<br/>研究会                                  |                    | ARC+CPSY+DC+RECONF-9  | HPC-9             | MEPA-1           |
+| 17:00-18:40<br/>研究会                                  |                    | ARC+CPSY+DC+RECONF-10 | HPC-10            | MEPA-2           |
 | 19:00-21:00<br/>懇親会                                  |                    |                       |                   |                  |
 
 
