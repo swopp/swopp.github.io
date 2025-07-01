@@ -1,55 +1,52 @@
 PRO-1
 ●プログラミング（１）
-座長：to be announced
+座長：TBD
 
 **(1)  Entity Component Systemアーキテクチャに基づいたプロセッサシミュレータの開発**
-前川 隼輝 (名古屋工業大学), 小田喜 陽彦 (東京大学), 小泉 透 (名古屋工業大学), 塩谷 亮太 (東京大学), 津邑 公暁 (名古屋工業大学)
+○前川 隼輝 (名古屋工業大学), 小田喜 陽彦 (東京大学), 小泉 透 (名古屋工業大学), 塩谷 亮太 (東京大学), 津邑 公暁 (名古屋工業大学)
 
 **(2) Compilation for a Version Polymorphic Object-Oriented Programming Language**
-Luthfan Anshar Lubis, Yudai Tanabe, Hidehiko Masuhara (Institute of Science Tokyo)
+○Luthfan Anshar Lubis, Yudai Tanabe, Hidehiko Masuhara (Institute of Science Tokyo)
 
 
 PRO-2
 ●グラフ関連
-座長：to be announced
+座長：TBD
 
 **(3) Putbackベースの双方向変換言語BiGULの更新ベース化と移行後の性質について**
-豊田雅希, 日高宗一郎 (法政大学)
+○豊田雅希, 日高宗一郎 (法政大学)
 
 **(4) Introducing Linear Implication Types to λGT for Computing With Incomplete Graphs**
-Jin Sano, Kazunori Ueda (Waseda University)
+○Jin Sano, Kazunori Ueda (Waseda University)
+
 
 
 PRO-3
-●編集委員会@楽屋
+●PIM・マイコン
+座長：TBD
+
+**(5) Babylonを用いたPIM向けJavaオフロードAPIの設計と実装**
+○佐藤 重幸 (電気通信大学), 鵜川 始陽(東京大学)
+
+**(6) RL78マイコンのレジスタバンクの呼出先で退避する記憶領域としての活用**
+○千葉雄司 (ルネサス エレクトロニクス株式会社)
 
 
 PRO-4
-●PIM・マイコン
-座長：to be announced
-
-**(5) Babylonを用いたPIM向けJavaオフロードAPIの設計と実装**
-佐藤 重幸 (電気通信大学), 鵜川 始陽(東京大学)
-
-**(6) RL78マイコンのレジスタバンクの呼出先で退避する記憶領域としての活用**
-千葉雄司 (ルネサス エレクトロニクス株式会社)
-
-
-PRO-5
 ●量子計算
-座長：to be announced
+座長：TBD
 
 **(7) Maudeによる測定型量子計算の自動検証**
 
 
-PRO-6
+PRO-5
 ●RUST関連
-座長：to be announced
+座長：TBD
 
 **(8) 入出力整合性を満たすSFQ回路を記述するためのRustを用いたドメイン固有言語**
-大石 芽吹, 田中 燦 (東京大学), 高前田 伸(東京大学・理化学研究所)
+○大石 芽吹, 田中 燦 (東京大学), 高前田 伸(東京大学・理化学研究所)
 
 **(9) Rust製TLSFアロケータの形式検証**
-柿下シナイ, 長谷川央, 青木利晃 (北陸先端科学技術大学院大学), 神戸隆太, 高野祐輝 (株式会社ティアフォー)
+○柿下シナイ, 長谷川央, 青木利晃 (北陸先端科学技術大学院大学), 神戸隆太, 高野祐輝 (株式会社ティアフォー)
 
 
