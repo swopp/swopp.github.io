@@ -4,7 +4,7 @@ layout: page
 permalink: /2025/program/
 ---
 
-
+<b>プログラムは変更の可能性があります。</b>
 その他、開催に関する情報は[SWoPP2025ウェブサイト](https://sites.google.com/site/swoppweb/swopp-2025/) を参照してください。<br />
 
 著者の方へ： 個別の発表に関する問い合わせは、発表先の研究会までお願いします。
