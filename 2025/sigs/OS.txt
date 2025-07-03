@@ -38,7 +38,7 @@ OS-3
 山内利宏(岡山大学)，楠恒輝(富士通株式会社)，古藤明音(富士通株式会社)，大辻弘貴(富士通株式会社)，笠置明彦(富士通株式会社)，吉田英司(富士通株式会社)，中島耕太(富士通株式会社)，乃村能成(岡山大学)，谷口秀夫(岡山大学)
 
 **(10) SmartNICを用いたサイドカープロキシの高速化**
-坂本龍一(Science Tokyo)，河野竜也(Science Tokyo)，大内亮(Science Tokyo)，GongyuDeng(Science Tokyo)
+坂本龍一(Science Tokyo)，河野竜也(Science Tokyo)，大内亮(Science Tokyo)，Gongyu Deng(Science Tokyo)
 
 OS-4
 ●カーネル
