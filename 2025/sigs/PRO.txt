@@ -8,18 +8,14 @@ PRO-1
 **(1)  Entity Component Systemアーキテクチャに基づいたプロセッサシミュレータの開発**
 ○前川 隼輝 (名古屋工業大学), 小田喜 陽彦 (東京大学), 小泉 透 (名古屋工業大学), 塩谷 亮太 (東京大学), 津邑 公暁 (名古屋工業大学)
 
-**(2) Compilation for a Version Polymorphic Object-Oriented Programming Language**
-○Luthfan Anshar Lubis, Yudai Tanabe, Hidehiko Masuhara (Institute of Science Tokyo)
-
-
 PRO-2
 ●グラフ関連
 座長：TBD
 
-**(3) Putbackベースの双方向変換言語BiGULの更新ベース化と移行後の性質について**
+**(2) Putbackベースの双方向変換言語BiGULの更新ベース化と移行後の性質について**
 ○豊田 雅希, 日高 宗一郎 (法政大学)
 
-**(4) Introducing Linear Implication Types to λGT for Computing With Incomplete Graphs**
+**(3) Introducing Linear Implication Types to λGT for Computing With Incomplete Graphs**
 ○Jin Sano, Kazunori Ueda (Waseda University)
 
 
@@ -27,10 +23,10 @@ PRO-3
 ●PIM・マイコン
 座長：TBD
 
-**(5) Babylonを用いたPIM向けJavaオフロードAPIの設計と実装**
+**(4) Babylonを用いたPIM向けJavaオフロードAPIの設計と実装**
 ○佐藤 重幸 (電気通信大学), 鵜川 始陽(東京大学)
 
-**(6) RL78マイコンのレジスタバンクの呼出先で退避する記憶領域としての活用**
+**(5) RL78マイコンのレジスタバンクの呼出先で退避する記憶領域としての活用**
 ○千葉 雄司 (ルネサス エレクトロニクス株式会社)
 
 
@@ -38,7 +34,7 @@ PRO-4
 ●量子計算
 座長：TBD
 
-**(7) Maudeによる測定型量子計算の自動検証**
+**(6) Maudeによる測定型量子計算の自動検証**
 ○名越 龍一, 髙木 翼 (北陸先端科学技術大学院大学)
 
 **※11:55終了予定です．**
@@ -47,10 +43,10 @@ PRO-5
 ●RUST関連
 座長：TBD
 
-**(8) 入出力整合性を満たすSFQ回路を記述するためのRustを用いたドメイン固有言語**
+**(7) 入出力整合性を満たすSFQ回路を記述するためのRustを用いたドメイン固有言語**
 ○大石 芽吹, 田中 燦 (東京大学), 高前田 伸(東京大学・理化学研究所)
 
-**(9) Rust製TLSFアロケータの形式検証 (短い発表)**
+**(8) Rust製TLSFアロケータの形式検証 (短い発表)**
 ○柿下 シナイ, 長谷川 央, 青木 利晃 (北陸先端科学技術大学院大学), 神戸 隆太, 高野 祐輝 (株式会社ティアフォー)
 
 **※14:40に終了、14:50には部屋を開放予定です．**
