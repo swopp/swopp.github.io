@@ -4,7 +4,6 @@ layout: page
 permalink: /2025/program/
 ---
 
-プログラム詳細については6月末~7月頭に掲載します。
 
 その他、開催に関する情報は[SWoPP2025ウェブサイト](https://sites.google.com/site/swoppweb/swopp-2025/) を参照してください。<br />
 著者の方へ： 個別の発表に関する問い合わせは、発表先の研究会までお願いします。
