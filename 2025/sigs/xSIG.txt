@@ -13,95 +13,93 @@ xSIG-1
 **(3) トランザクショナルメモリのためのトランザクションカラーリングによるスケジューリング手法**
 藤井 創悟,岩越 智貴,佐藤 宏樹,伊原 槻,酒井 駿輔,小泉 透（名古屋工業大学）,塩谷 亮太（東京大学）,五島 正裕（国立情報学研究所）,津邑 公暁（名古屋工業大学）	
 
+
+
 xSIG-2
 ●TBD
 座長：TBD
 
-**(4) ユニバーサルTEEアーキテクチャのためのメモリ保護方式**
-内山 一秀（総合研究大学院大学/国立情報学研究所）, 五島 正裕（国立情報学研究所/総合研究大学院大学）
+**(4) Cache CoherentなHeterogeneous Computing環境での機械学習に向けた性能評価** (Outstanding Student)
+Junichiro Takahashi, Kenjiro Taura, Toshihiro Hanawa(Unv. Tokyo)
 
-**(5) STRAIGHTプロセッサにおけるスケーラビリティ実証のためのRTL実装と最適構成の評価** (Outstanding Effort)
-鄭 風音, 山内 悠理子, 杉田 脩, 塩谷 亮太, 門本 淳一郎, 入江 英嗣（東京大学）	
+**(5) ESSC法を前処理とするCG法のGPU実装とその有効性検証** (Outstanding Effort)
+工藤 侑也，佐竹 祐樹，深谷 猛（北海道大学），岩下 武史（京都大学）	
 
-**(6) STRAIGHTアーキテクチャにおける選択的再実行手法の検討** (short)
-山内 悠理子, 杉田 脩, 小泉 透, 塩谷 亮太, 門本 淳一郎, 入江 英嗣（東京大学）	
-
-**(7) マルチロボット環境におけるSLAM処理のスケーラブルなオフローディング手法の提案** (short)
-久保田 幸士郎，蓮原 裕太，菅谷 みどり（芝浦工業大学）	
+**(6) Intel AMXを用いた行列積和演算の性能評価** (Outstanding Student)
+遠藤悠介，大島聡史，南里豪志(九州大学)	
 
 
 xSIG-3
 ●TBD
 座長：TBD
 
-**(8) FPGA向け高位合成におけるデータ転送自動最適化ツールの提案**
-西田 宗馬, 小泉 透, 津邑 公暁（名古屋工業大学）	
+**(7) ユニバーサルTEEアーキテクチャのためのメモリ保護方式**
+内山 一秀（総合研究大学院大学/国立情報学研究所）, 五島 正裕（国立情報学研究所/総合研究大学院大学）
 
-**(9) 単一磁束量子回路向けアドバンストプロセスを対象としたコンパクト熱モデルの設計**
-齋藤 旭，石川 伊織，Pratiksha Mundhe，井上 弘士，Ilkwon Byun（九州大学）	
+**(8) STRAIGHTプロセッサにおけるスケーラビリティ実証のためのRTL実装と最適構成の評価** (Outstanding Effort)
+鄭 風音, 山内 悠理子, 杉田 脩, 塩谷 亮太, 門本 淳一郎, 入江 英嗣（東京大学）	
 
-**(10) エッジサーバレス環境におけるコンテキストスイッチ削減のための協調実行モデル** (Outstanding Student)
-佐々木 孟, 李 彦志, 菅谷 みどり (芝浦工業大学)	
+**(9) STRAIGHTアーキテクチャにおける選択的再実行手法の検討** (short)
+山内 悠理子, 杉田 脩, 小泉 透, 塩谷 亮太, 門本 淳一郎, 入江 英嗣（東京大学）	
 
-
+**(10) マルチロボット環境におけるSLAM処理のスケーラブルなオフローディング手法の提案** (short)
+久保田 幸士郎，蓮原 裕太，菅谷 みどり（芝浦工業大学）	
 
 xSIG-4
 ●TBD
 座長：TBD
 
-**(11) Union-Findアルゴリズムによるオンライン表面符号デコーダの実装と評価** (IEEE Award)
-笠村 卓矢（東京大学）, 門本 淳一郎（東京大学）, 入江 英嗣（東京大学）	
+**(11) 大規模言語モデルを活用したレガシーコード近代化の実用性** (Outstanding Student)
+今井 廉,河合 直聡（東北大学）,高橋 慧智（大阪大学/東北大学）,滝沢 寛之（東北大学）	
 
-**(12) トランザクショナルメモリ性能を正確に評価可能なベンチマークスイートの開発** (IEEE Award)
-佐藤 宏樹，酒井 駿輔，伊原 槻，小泉 透（名古屋工業大学）,塩谷 亮太（東京大学），五島 正裕（国立情報学研究所），津邑 公暁（名古屋工業大学）	
+**(12) 言語間転移を活用した日本語のコード生成性能の向上** (Outstanding Presentation)
+西潟 優羽，佐藤 美唯，倉光 君郎(日本女子大学)        	
 
-**(13) GPU UVMのオーバヘッド抑制に向けたページフォルト処理集約手法** (Outstanding Research)
-森 隆志, 巽 友佑, 小泉 透, 津邑 公暁（名古屋工業大学）	
+**(13) Evaluating the Performance of AI Workloads on a Dataflow-Based Tensor Streaming Processor** (short)
+Yugo Abe, Syafiq Pozi, Yukinori Sato (Toyohashi University of Technology)
 
-**(14) 融合積和演算命令を生かした三角関数実装の高精度化** (Best Research)
-水野 将成，小泉 透，津邑 公暁（名古屋工業大学）	
+**(14) Simulation-based Optimization of Cloud Resource Allocation for Large-Scale Kubernetes Clusters** (short)
+Yuxin Zhao, Siyi Hu, Yukinori Sato (Toyohashi University of Technology)
 
 
 xSIG-5
 ●TBD
 座長：TBD
 
-**(15) Cache CoherentなHeterogeneous Computing環境での機械学習に向けた性能評価** (Outstanding Student)
-Junichiro Takahashi, Kenjiro Taura, Toshihiro Hanawa(Unv. Tokyo)
+**(15) FPGA向け高位合成におけるデータ転送自動最適化ツールの提案**
+西田 宗馬, 小泉 透, 津邑 公暁（名古屋工業大学）	
 
-**(16) ESSC法を前処理とするCG法のGPU実装とその有効性検証** (Outstanding Effort)
-工藤 侑也，佐竹 祐樹，深谷 猛（北海道大学），岩下 武史（京都大学）	
+**(16) 単一磁束量子回路向けアドバンストプロセスを対象としたコンパクト熱モデルの設計**
+齋藤 旭，石川 伊織，Pratiksha Mundhe，井上 弘士，Ilkwon Byun（九州大学）	
 
-**(17) Intel AMXを用いた行列積和演算の性能評価** (Outstanding Student)
-遠藤悠介，大島聡史，南里豪志(九州大学)	
+**(17) エッジサーバレス環境におけるコンテキストスイッチ削減のための協調実行モデル** (Outstanding Student)
+佐々木 孟, 李 彦志, 菅谷 みどり (芝浦工業大学)	
+
 
 xSIG-6
 ●TBD
 座長：TBD
 
-**(18) 大規模言語モデルを活用したレガシーコード近代化の実用性** (Outstanding Student)
-今井 廉,河合 直聡（東北大学）,高橋 慧智（大阪大学/東北大学）,滝沢 寛之（東北大学）	
+**(18) 計算状態操作向けM-Closureの再実装と予備的評価**
+八杉 昌宏（九州工業大学）, 廣田 陽紀（九州工業大学）, 平石 拓（京都橘大学）	
 
-**(19) 言語間転移を活用した日本語のコード生成性能の向上** (Outstanding Presentation)
-西潟 優羽，佐藤 美唯，倉光 君郎(日本女子大学)        	
-
-**(20) Evaluating the Performance of AI Workloads on a Dataflow-Based Tensor Streaming Processor** (short)
-Yugo Abe, Syafiq Pozi, Yukinori Sato (Toyohashi University of Technology)
-
-**(21) Simulation-based Optimization of Cloud Resource Allocation for Large-Scale Kubernetes Clusters** (short)
-Yuxin Zhao, Siyi Hu, Yukinori Sato (Toyohashi University of Technology)
-
+**(19) 局所探索法を用いた実体化ビュー選択最適化によるクエリワークロード高速化**
+アンダーソン圭那(大阪大学)、佐々木勇和(大阪大学)、Yohanes Yohanie Fridelin Panduman(大阪大学)、鬼塚真(大阪大学)	
 
 
 xSIG-7
 ●TBD
 座長：TBD
 
-**(22) 計算状態操作向けM-Closureの再実装と予備的評価**
-八杉 昌宏（九州工業大学）, 廣田 陽紀（九州工業大学）, 平石 拓（京都橘大学）	
+**(20) Union-Findアルゴリズムによるオンライン表面符号デコーダの実装と評価** (IEEE Award)
+笠村 卓矢（東京大学）, 門本 淳一郎（東京大学）, 入江 英嗣（東京大学）	
 
-**(23) 局所探索法を用いた実体化ビュー選択最適化によるクエリワークロード高速化**
-アンダーソン圭那(大阪大学)、佐々木勇和(大阪大学)、Yohanes Yohanie Fridelin Panduman(大阪大学)、鬼塚真(大阪大学)	
+**(21) トランザクショナルメモリ性能を正確に評価可能なベンチマークスイートの開発** (IEEE Award)
+佐藤 宏樹，酒井 駿輔，伊原 槻，小泉 透（名古屋工業大学）,塩谷 亮太（東京大学），五島 正裕（国立情報学研究所），津邑 公暁（名古屋工業大学）	
 
+**(22) GPU UVMのオーバヘッド抑制に向けたページフォルト処理集約手法** (Outstanding Research)
+森 隆志, 巽 友佑, 小泉 透, 津邑 公暁（名古屋工業大学）	
 
-xSIGクロージング
+**(23) 融合積和演算命令を生かした三角関数実装の高精度化** (Best Research)
+水野 将成，小泉 透，津邑 公暁（名古屋工業大学）	
+
