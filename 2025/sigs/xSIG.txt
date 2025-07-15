@@ -55,8 +55,8 @@ xSIG-4
 **(12) 言語間転移を活用した日本語のコード生成性能の向上** (Outstanding Presentation)
 西潟 優羽，佐藤 美唯，倉光 君郎(日本女子大学)        	
 
-**(13) Evaluating the Performance of AI Workloads on a Dataflow-Based Tensor Streaming Processor** (short)
-Yugo Abe, Syafiq Pozi, Yukinori Sato (Toyohashi University of Technology)
+**(13) データフロー方式のテンソル向けストリーミング処理プロセッサにおけるAIワークロードの性能評価** (short)
+阿部 雄剛（豊橋技大）, Muhammad Syafiq Mohd Pozi（ウタラマレーシア大）, 佐藤 幸紀（豊橋技大）
 
 **(14) Simulation-based Optimization of Cloud Resource Allocation for Large-Scale Kubernetes Clusters** (short)
 Yuxin Zhao, Siyi Hu, Yukinori Sato (Toyohashi University of Technology)
