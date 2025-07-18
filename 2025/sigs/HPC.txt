@@ -31,10 +31,10 @@ HPC-3
 ●LLM
 座長：
 
-**(7) LLMCP・RAGを用いたプロシージャル3D生成LLMエージェント3Difyの提案とスパコンの利用**
+**(7) MCP・RAGを用いたプロシージャル3D生成LLMエージェント3Difyの提案とスパコンの利用**
 ○林俊一郎(名古屋大学 情報学研究科), 椋木大地(名古屋大学 情報基盤センター), 大島聡史(名古屋大学 情報基盤センター / 九州大学 情報基盤研究開発センター), 片桐孝洋(名古屋大学 情報基盤センター), 星野哲也(名古屋大学 情報基盤センター)
 
-**(8) Survey of block sparsity in LLMs for text summarization**
+**(8) BLock Sparse Transformers (BLaST)によるLLM事前学習の高速化**
 ○DESHMUKH SAMEER(Fujitsu Ltd.)
 
 **(9) 大規模言語モデルによるプログラム最適化機能の試作―富岳を想定したループアンローリング支援―**
@@ -66,8 +66,8 @@ HPC-5
 **(15) Graphical Ray Casting Representation of Directed Acyclic Graph in Critical Path Detection**
 ○Bai Zhengyang(RIKEN), Chen Peng(RIKEN), Zhang Lingqi(Institute of Science Tokyo), ZhuangChen(RIKEN), Abeywickrama Tenindra(RIKEN), Xu Jing(Kyoto University), Wu Du(Institute of Science Tokyo), Vatai Emil(RIKEN), Wahib Mohamed(RIKEN)
 
-**(16) Scaling Large-scale GNN Training to Thousands of Processors on CPU-based Supercomputers**
-○Zhuang Chen(Institute of Science Tokyo, RIKEN Center for Computational Science), Chen Peng(RIKEN Center for Computational Science), Endo Toshio(Institute of Science Tokyo), Wahib Mohamed(RIKEN Center for Computational Science)
+**(16) Topology-aware Process Mapping for Distributed Graph Convolutional Network Training**
+○Zhuang Chen(Institute of Science Tokyo, RIKEN Center for Computational Science), Jeannot Emmanuel(RIKEN Center for Computational Science), Endo Toshio(Institute of Science Tokyo), Wahib Mohamed(RIKEN Center for Computational Science)
 
 **(17) 大規模スーパーコンピュータ向けネットワークトポロジの媒介中心性を用いた評価**
 ○佐藤智優(東京科学大学), 遠藤敏夫(東京科学大学), 細木隆豊(東京科学大学)
