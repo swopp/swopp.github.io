@@ -108,7 +108,7 @@ HPC-7
 座長：長曽 大 (理化学研究所)
 
 **(22) ABCIにおける共用の推論評価試験環境の提供に向けた性能調査と方式検討**
-○大西尚樹(国立研究開発法人産業技術総合研究所), 谷村勇輔(国立研究開発法人産業技術総合研究所), 滝澤真一朗(国立研究開発法人産業技術総合研究所), 中田秀基(国立研究開発法人産業技術総合研究所)
+○大西尚樹(産業技術総合研究所), 谷村勇輔(産業技術総合研究所), 滝澤真一朗(産業技術総合研究所), 中田秀基(産業技術総合研究所)
 
 **(23) A Metric-Driven Kubernetes Operator for Dynamic MPS-Based GPU Sharing in Inference-Focused Clusters**
 ○Choonhaklai Papon(Nara Institute of Science and Technology), Ichikawa Kohei(Nara Institute of Science and Technology), Iida Hajimu(Nara Institute of Science and Technology)
