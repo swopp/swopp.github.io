@@ -1,6 +1,6 @@
 ARC+CPSY+DC+RECONF-1
 ●符号化・文字列探索
-座長：
+座長：小泉 透 (名工大)
 
 **<span style="color:red;">NOTICE：9:40から開始します！！</span>**
 **(1) 高度に並列動作する認証メモリ暗号アーキテクチャ**
@@ -17,7 +17,7 @@ ARC+CPSY+DC+RECONF-1
 
 ARC+CPSY+DC+RECONF-2
 ●ネットワーク
-座長：
+座長：木戸 善之 (岡山理科大)
 
 **(5) XDPを用いたパケット圧縮転送システム**
 ○新井涼太郎・三輪　忍・本多弘樹・八巻隼人（電通大）
@@ -30,7 +30,7 @@ ARC+CPSY+DC+RECONF-2
 
 ARC+CPSY+DC+RECONF-3
 ●性能最適化
-座長：
+座長：岩崎 裕江 (東京農工大)
 
 **(8) GPUを用いた大規模ベイジアンネットワーク構造学習のデータアクセス削減による高速化**
 ○行方 聖・宮城 竜大・錦織 広尚・中村 宏・高瀬 英希（東京大学）
@@ -46,7 +46,7 @@ ARC+CPSY+DC+RECONF-3
 
 ARC+CPSY+DC+RECONF-4
 ●アーキテクチャ
-座長：
+座長：入江 英嗣 (東大)
 
 **(12) GPU互換なプログラミング環境を持つProcessing-in-Memoryアーキテクチャの検討**
 ○石川 諒・倉垣 勇介（慶應義塾大）・和 遠（理研）・近藤 正章（慶應義塾大/理研）
@@ -62,7 +62,7 @@ ARC+CPSY+DC+RECONF-4
 
 ARC+CPSY+DC+RECONF-5
 ●量子
-座長：
+座長：新田 高庸 (会津大)
 
 **(16) Design and Implementation of a Discrete-Event Simulator of Quantum Interconnect: a case for Bell-State Swapping**
 ○Zhang Yuchen・Kawakami Satoshi・Ono Takatsugu・Tanimoto Teruo Zhang Yuchen・Kawakami Satoshi・Ono Takatsugu・Tanimoto Teruo（Kyushu Unversity）
@@ -79,7 +79,7 @@ ARC+CPSY+DC+RECONF-5
 
 ARC+CPSY+DC+RECONF-6
 ●組み込み
-座長：
+座長：井口 寧 (北陸先端大)
 
 **(20) 組込み向けRISC-Vベクトル拡張命令を用いたCNNにおける演算性能の評価**
 ○大河原学人・大津金光・北本拓磨・横田隆史（宇都宮大）
@@ -95,7 +95,7 @@ ARC+CPSY+DC+RECONF-6
 
 ARC+CPSY+DC+RECONF-7
 ●LLM
-座長：
+座長：高瀬 英希 (東大)
 
 **(24) PIMによる動的量子化を用いた大規模言語モデル推論の効率化**
 ○松島康祐・大越康之・本村真人・藤木大地（東京科学大）
@@ -108,7 +108,7 @@ ARC+CPSY+DC+RECONF-7
 
 ARC+CPSY+DC+RECONF-8
 ●テスト・対故障
-座長：
+座長：市原 英行 (広島市立大)
 
 **(27) 機械学習を用いたキャッシュ管理手法の検討**
 ○杉浦直人（慶大）・藤木大地（科学大）・松谷宏紀（慶大）
@@ -124,7 +124,7 @@ ARC+CPSY+DC+RECONF-8
 
 ARC+CPSY+DC+RECONF-9
 ●eFPGA
-座長:
+座長:小林 悠記 (NEC)
 
 
 **(31) ヘテロジニアスPC-FPGA複合システムの構想**
@@ -141,7 +141,7 @@ ARC+CPSY+DC+RECONF-9
 
 ARC+CPSY+DC+RECONF-10
 ●AI
-座長：
+座長：丹羽 直也 (東京農工大)
 
 **(35) 早期出力を導入した分割学習の拡張に向けた予備評価**
 ○織田 悠希・小野 悠太・中村 宏・高瀬 英希（東大）
