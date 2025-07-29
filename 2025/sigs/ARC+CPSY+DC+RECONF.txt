@@ -106,6 +106,8 @@ ARC+CPSY+DC+RECONF-7
 **(26) 大規模言語モデルのための実機In-DRAM計算による低ビット行列積高速化**
 ○久保 龍哉・篤田 大知・長谷 知弥・薄井 真之（東大）・Lei Qu・Ting Cao（マイクロソフト リサーチ）・高前田 伸也（東大/理研）
 
+**<span style="color:red;">NOTICE：表彰式 12:20~</span>**
+
 ARC+CPSY+DC+RECONF-8
 ●テスト・耐故障
 座長：市原 英行 (広島市立大)
