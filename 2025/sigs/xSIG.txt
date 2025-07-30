@@ -1,8 +1,8 @@
 xSIGオープニング
 
 xSIG-1
-●TBD
-座長：TBD
+●xSIG-1
+座長：星野 喬（サイボウズ・ラボ）
 
 **(1) 自動メモ化プロセッサにおけるRAM ベースのルックアップテーブル導入による省電力化** 
 宮脇 佑太,藤江 健吾 ,小泉 透(名古屋工業大学) ,塩谷 亮太(東京大学) ,五島 正裕(国立情報学研究所) ,津邑 公暁(名古屋工業大学)
@@ -16,8 +16,8 @@ xSIG-1
 
 
 xSIG-2
-●TBD
-座長：TBD
+●xSIG-2
+座長：藤田 典久（筑波大）
 
 **(4) Cache CoherentなHeterogeneous Computing環境での機械学習に向けた性能評価** (Outstanding Student)
 Junichiro Takahashi, Kenjiro Taura, Toshihiro Hanawa(Unv. Tokyo)
@@ -30,8 +30,8 @@ Junichiro Takahashi, Kenjiro Taura, Toshihiro Hanawa(Unv. Tokyo)
 
 
 xSIG-3
-●TBD
-座長：TBD
+●xSIG-3
+座長：中園（LINEヤフー）
 
 **(7) ユニバーサルTEEアーキテクチャのためのメモリ保護方式**
 内山 一秀（総合研究大学院大学/国立情報学研究所）, 五島 正裕（国立情報学研究所/総合研究大学院大学）
@@ -46,8 +46,8 @@ xSIG-3
 久保田 幸士郎，蓮原 裕太，菅谷 みどり（芝浦工業大学）	
 
 xSIG-4
-●TBD
-座長：TBD
+●xSIG-4
+座長：深谷 猛（北海道大学）
 
 **(11) 大規模言語モデルを活用したレガシーコード近代化の実用性** (Outstanding Student)
 今井 廉,河合 直聡（東北大学）,高橋 慧智（大阪大学/東北大学）,滝沢 寛之（東北大学）	
@@ -63,8 +63,8 @@ Yuxin Zhao, Siyi Hu, Yukinori Sato (Toyohashi University of Technology)
 
 
 xSIG-5
-●TBD
-座長：TBD
+●xSIG-5
+座長：上野 洋典（理研/東大）
 
 **(15) FPGA向け高位合成におけるデータ転送自動最適化ツールの提案**
 西田 宗馬, 小泉 透, 津邑 公暁（名古屋工業大学）	
@@ -77,8 +77,8 @@ xSIG-5
 
 
 xSIG-6
-●TBD
-座長：TBD
+●xSIG-6
+座長：小泉 透（名工大）
 
 **(18) 計算状態操作向けM-Closureの再実装と予備的評価**
 八杉 昌宏（九州工業大学）, 廣田 陽紀（九州工業大学）, 平石 拓（京都橘大学）	
@@ -88,8 +88,8 @@ xSIG-6
 
 
 xSIG-7
-●TBD
-座長：TBD
+●xSIG-7
+座長：小林 諒平 (東京科学大学)
 
 **(20) Union-Findアルゴリズムによるオンライン表面符号デコーダの実装と評価** (IEEE Award)
 笠村 卓矢（東京大学）, 門本 淳一郎（東京大学）, 入江 英嗣（東京大学）	
