@@ -65,7 +65,7 @@ ARC+CPSY+DC+RECONF-5
 座長：新田 高庸 (会津大)
 
 **(16) Design and Implementation of a Discrete-Event Simulator of Quantum Interconnect: a case for Bell-State Swapping**
-○Zhang Yuchen・Kawakami Satoshi・Ono Takatsugu・Tanimoto Teruo Zhang Yuchen・Kawakami Satoshi・Ono Takatsugu・Tanimoto Teruo（Kyushu Unversity）
+○Zhang Yuchen・Kawakami Satoshi・Ono Takatsugu・Tanimoto Teruo(Kyushu Unversity）
 
 **(17) 精度最適化型浮動小数点演算による拡張可能な量子状態計算**
 ○コ ショウウ・庭瀬稜平・杉浦圭祐・山口佳樹（筑波大）・ウェイ カイジ（慶大）・天野英晴（東大）・三好健文（阪大）
