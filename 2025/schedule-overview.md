@@ -22,9 +22,9 @@ permalink: /2025/overview/
 	- OS: 第1小ホール(4F/5F)
 	- PRO: 62会議室(6F)
 - [8/5(火)](#84火)
-	- HPC: 第1小ホール(4F/5F)
+	- **<span style="color:red;">HPC: 第1小ホール(4F/5F)</span>**
 	- ARC/CPSY/DC/RECONF: 61会議室(6F)
-	- OS: 54会議室(5F)
+	- **<span style="color:red;">OS: 54会議室(5F)</span>**
 	- PRO: 62会議室(6F)
 	- MEPA: 62会議室(6F)
 - [8/6(水)](#86水)
