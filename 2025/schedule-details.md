@@ -9,6 +9,7 @@ permalink: /2025/program/
 その他、開催に関する情報は[SWoPP2025ウェブサイト](https://sites.google.com/site/swoppweb/swopp-2025/) を参照してください。<br />
 著者の方へ： 個別の発表に関する問い合わせは、発表先の研究会までお願いします。
 
+**<span style="color:red;">2日目はOSとHPCの会場が入れ替わります。OSは54会議室(5F)、HPCは第1小ホールとなります。</span>**
 
 <br />
 
