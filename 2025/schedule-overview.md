@@ -40,7 +40,7 @@ permalink: /2025/overview/
 | 08:30-09:15<br/>受付＆会場準備（開場08:30）             | 準備               | 準備                | 準備                | 準備           |
 | 09:15-10:55<br/>研究会                                  | 準備               | ARC+CPSY+DC+RECONF-1| HPC-1               | 準備           |
 | 11:05-12:20<br/>研究会                                  | 準備               | ARC+CPSY+DC+RECONF-2| HPC-2               | 準備           |
-| 12:20-13:20<br/>お昼休み                                |                    | 委員会?             | 委員会?             | 委員会?        |
+| 12:20-13:20<br/>お昼休み                                |                    | ARC-CPSY拡大委員会  | 委員会?             | 委員会?        |
 | 13:20-15:00<br/>研究会                                  | OS-1               | ARC+CPSY+DC+RECONF-3| HPC-3               | PRO-1          |
 | 15:10-16:50<br/>研究会                                  | OS-2               | ARC+CPSY+DC+RECONF-4| HPC-4               | PRO-2          |
 | 17:00-18:40<br/>研究会                                  | OS-3               | ARC+CPSY+DC+RECONF-5| HPC-5               |                |
