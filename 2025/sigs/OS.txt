@@ -41,6 +41,9 @@ OS-3
 坂本龍一(Science Tokyo)，河野竜也(Science Tokyo)，大内亮(Science Tokyo)，Gongyu Deng(Science Tokyo)
 
 OS-4
+
+OSは9:40開始となります。
+
 ●カーネル
 座長：広渕崇宏（産総研）
 
