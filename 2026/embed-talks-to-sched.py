@@ -19,7 +19,7 @@ sigs = [ "HPC", "OS", "ARC+CPSY+DC+RECONF", "PRO", "MEPA", "BoF", "xSIG" ]
 
 for sig in sigs:
     path = "sigs/%s.txt" % sig
-    with open(path) as f:
+    with open(path, encoding='utf-8') as f:
         for line in f:
             mo = rex.match(line)
             if mo:
@@ -35,7 +35,7 @@ for session_name in data:
     data[session_name] = text
 
 
-with open("schedule-overview.md") as fin:
+with open("schedule-overview.md", encoding='utf-8') as fin:
     # skip the header
     fin.readline()
     fin.readline()
@@ -55,13 +55,13 @@ with open("schedule-overview.md") as fin:
 
 # keep the header
 header = ''
-with open('schedule-details.md') as f:
+with open('schedule-details.md', encoding='utf-8') as f:
     header += f.readline()
     header += f.readline()
     header += f.readline()
     header += f.readline()
     header += f.readline()
 
-with open('schedule-details.md', 'w') as f:
+with open('schedule-details.md', 'w', encoding='utf-8') as f:
     f.write(unicodedata.normalize('NFC', header))
     f.write(unicodedata.normalize('NFC', table_text))
