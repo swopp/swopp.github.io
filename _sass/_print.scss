@@ -72,10 +72,18 @@
 	table.swopp2023table td:nth-of-type(4):before { font-weight: bold; content: "[スタジオB] "; }
 	table.swopp2023table td:nth-of-type(5):before { font-weight: bold; content: "[多目的会議室B] "; }
 	table.swopp2023table td:nth-of-type(6):before { font-weight: bold; content: "[サブアリーナ(2F)] "; }
-        table.swopp2024table td:nth-of-type(1) { background-color: #ccc; }
-        table.swopp2024table td:nth-of-type(2):before { font-weight: bold; content: "[大会議室(4F)] "; }
-        table.swopp2024table td:nth-of-type(3):before { font-weight: bold; content: "[小ホール(5F)] "; }
-        table.swopp2024table td:nth-of-type(4):before { font-weight: bold; content: "[会議室2-3(4F)] "; }
-        table.swopp2024table td:nth-of-type(5):before { font-weight: bold; content: "[会議室6(5F)] "; }
+  table.swopp2024table td:nth-of-type(1) { background-color: #ccc; }
+  table.swopp2024table td:nth-of-type(2):before { font-weight: bold; content: "[大会議室(4F)] "; }
+  table.swopp2024table td:nth-of-type(3):before { font-weight: bold; content: "[小ホール(5F)] "; }
+  table.swopp2024table td:nth-of-type(4):before { font-weight: bold; content: "[会議室2-3(4F)] "; }
+  table.swopp2024table td:nth-of-type(5):before { font-weight: bold; content: "[会議室6(5F)] "; }
+  table.swopp2026table td:nth-of-type(1) { background-color: #ccc; }
+  table.swopp2026table td:nth-of-type(2):before { font-weight: bold; content: "[飛騨芸術堂] "; }
+  table.swopp2026table td:nth-of-type(3):before { font-weight: bold; content: "[大会議室] "; }
+  table.swopp2026table td:nth-of-type(4):before { font-weight: bold; content: "[企画展示室２] "; }
+  table.swopp2026table td:nth-of-type(5):before { font-weight: bold; content: "[中会議室１] "; }
+  table.swopp2026table td:nth-of-type(6):before { font-weight: bold; content: "[中会議室２] "; }
+  table.swopp2026table td:nth-of-type(7):before { font-weight: bold; content: "[ウェルカムプラザ]"; }
+  table.swopp2026table td:nth-of-type(8):before { font-weight: bold; content: "[特別会議室]"; }
 }
 
