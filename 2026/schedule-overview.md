@@ -34,7 +34,8 @@ permalink: /2026/overview/
 
 <br/>
 
-# 8/4(月)
+# 8/5(水)
+{: #85水}
 
 {: .swopp2026table}
 | 時間                                       | 飛騨芸術堂   | 大会議室     | ウェルカムプラザ    | 中会議室１   | 中会議室２          |
@@ -51,7 +52,8 @@ permalink: /2026/overview/
 
 <br/>
 
-# 8/5(火)
+# 8/6(木)
+{: #86木}
 
 {: .swopp2026table}
 | 時間                                       | 大会議室     | 企画展示室２         | 中会議室１    | 中会議室２ | 特別会議室      |
@@ -60,7 +62,7 @@ permalink: /2026/overview/
 | 09:00-10:40<br/>xSIG                       | HPC-1        | ARC+CPSY+DC+RECONF-1 | MEPA-1        | PRO-1      |                 |
 | 10:50-12:30<br/>xSIG                       | HPC-2        | ARC+CPSY+DC+RECONF-2 | MEPA-2        | PRO-2      |                 |
 | 12:30-13:30<br/>お昼休み                   | （昼食会場） | （昼食会場）         | DC 専門委員会 |            | SWoPP合同委員会 |
-| 13:30-15:10<br/>xSIG                       | HPC-3        | ARC+CPSY+DC+RECONF-3 | MEPA-3        | OS-1       |                 |
+| 13:30-15:10<br/>xSIG                       | HPC-3        | ARC+CPSY+DC+RECONF-3 | MEPA-3        | OS-1       | PRO 編集委員会  |
 | 15:20-16:35<br/>xSIG                       | HPC-4        | ARC+CPSY+DC+RECONF-4 | PRO-3         | OS-2       |                 |
 | 16:45-18:00<br/>xSIG                       | HPC-5        | ARC+CPSY+DC+RECONF-5 | PRO-4         | OS-3       |                 |
 | 19:30-21:00<br/>懇親会（ひだホテルプラザ） |              |                      |               |            |                 |
@@ -68,16 +70,17 @@ permalink: /2026/overview/
 
 <br/>
 
-# 8/6(水)
+# 8/7(金)
+{: #87金}
 
 {: .swopp2026table}
 | 時間                                       | 大会議室     | 企画展示室２          | 中会議室１     | 中会議室２    | 特別会議室          |
 |--------------------------------------------|--------------|-----------------------|----------------|---------------|---------------------|
 | 08:30-09:00<br/>受付＆会場準備（開場08:30）| 準備         | 準備                  | 準備           | 準備          |                     |
-| 09:00-10:40<br/>xSIG                       | HPC-6        | ARC+CPSY+DC+RECONF-6  | PRO-5          | OS-4          |                     |
-| 10:50-12:30<br/>xSIG                       | HPC-7        | ARC+CPSY+DC+RECONF-7  | PRO-6          | OS-5          |                     |
+| 09:00-10:40<br/>xSIG                       | HPC-6        | ARC+CPSY+DC+RECONF-6  |                | OS-4          |                     |
+| 10:50-12:30<br/>xSIG                       | HPC-7        | ARC+CPSY+DC+RECONF-7  |                | OS-5          |                     |
 | 12:30-13:30<br/>お昼休み                   | （昼食会場） | （昼食会場）          | HPC 運営委員会 | OS 運営委員会 | ARC/CPSY 拡大委員会 |
-| 13:30-15:10<br/>xSIG                       | HPC-8        | ARC+CPSY+DC+RECONF-8  | PRO-7          |               |                     |
+| 13:30-15:10<br/>xSIG                       | HPC-8        | ARC+CPSY+DC+RECONF-8  |                |               |                     |
 | 15:20-17:00<br/>xSIG                       | HPC-9        | ARC+CPSY+DC+RECONF-9  |                |               |                     |
 | 17:10-18:50<br/>xSIG                       | HPC-10       | ARC+CPSY+DC+RECONF-10 |                |               |                     |
 | 19:00-21:00<br/>BoF                        | BoF-2        |                       |                |               |                     |
