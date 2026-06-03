@@ -30,7 +30,7 @@ permalink: /2026/overview/
 	- HPC: 大会議室
 	- ARC/CPSY/DC/RECONF: 企画展示室２
 	- OS: 中会議室２
-	- PRO: 中会議室１（午後）
+	- PRO: 中会議室１（午前）
 
 <br/>
 
@@ -47,7 +47,7 @@ permalink: /2026/overview/
 | 13:30-15:10<br/>xSIG                       | xSIG-5       | xSIG-6       | ポスター            |              |                     |
 | 15:20-17:00<br/>xSIG                       | xSIG-7       | xSIG-8       | ポスター            |              |                     |
 | 17:10-18:50<br/>xSIG                       | xSIG-9       | xSIG-10      | ポスター            |              |                     |
-| 19:00-21:00<br/>BoF                        | BoF-1        |              |	                 |              |                     |
+| 19:00-21:00<br/>BoF                        |              | BoF-1        |	                 |              |                     |
 
 
 <br/>
