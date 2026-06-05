@@ -1,61 +1,50 @@
-オープニング
-
 xSIG-1
-●xSIG-1
 座長：TBD
-(1) 時刻変化するワークロードのためのスキーマ最適化（Outstanding UG Student）
+**(1) 時刻変化するワークロードのためのスキーマ最適化（Outstanding UG Student）**
 ○増田 莞爾・アンダーソン 圭那・Yohanes Yohanie Fridelin Panduman・鬼塚 真（阪大）
-(2) 実ワークロードの実証分析に基づくクエリ言語の設計（Best Master's Student）
+**(2) 実ワークロードの実証分析に基づくクエリ言語の設計（Best Master's Student）**
 ○アンダーソン 圭那・Yohanes Yohanie Fridelin Panduman（阪大）・斉藤 太郎（Treasure Data）・鬼塚 真（阪大）
-(3) コード解析に基づくホスト-デバイス間データ転送の半自動化（Outstanding Presentation）
+**(3) コード解析に基づくホスト-デバイス間データ転送の半自動化（Outstanding Presentation）**
 ○渡邉 康暉・河合 直聡（東北大）・福原 淳司・船崎 智義・西村 成司（（株）デンソー）・陶 思晨・滝沢 寛之（東北大）
-(4) [short] VE実装RRIモデルのGPU移植を通じたベクトルアーキテクチャ最適化の有効性評価
+**(4) [short] VE実装RRIモデルのGPU移植を通じたベクトルアーキテクチャ最適化の有効性評価**
 ○中辻 雅己・下村 陽一・河合 直聡（東北大）・近者 敦彦・岩崎 貴志・崔 国慶（三井共同建設コンサルタント）・滝沢 寛之（東北大）
 
 xSIG-2
-●xSIG-2
 座長：TBD
-(5) UVM利用時のPTX命令順序最適化手法
+**(5) UVM利用時のPTX命令順序最適化手法**
 ○林 大瑛・巽 友佑・小泉 透・津邑 公暁（名工大）
-(6) ユニバーサルTEEアーキテクチャにおけるGeneralized Nested Virtualization（Outstanding Master's Student）
+**(6) ユニバーサルTEEアーキテクチャにおけるGeneralized Nested Virtualization（Outstanding Master's Student）**
 ○内山 一秀（ROIS/総研大/NII）・中村 草太・吉田 憲礼（農工大）・松見 湧斗・五島 正裕（ROIS/総研大/NII）
-(7) [short] 準同型暗号ResNet-20推論の高速化のための暗号パラメータ設計と階層的並列処理
+**(7) [short] 準同型暗号ResNet-20推論の高速化のための暗号パラメータ設計と階層的並列処理**
 ○地引 壮悟・吉田 明正（明大）
-(8) [short] Intel SGXの認証メモリ暗号の性能評価
+**(8) [short] Intel SGXの認証メモリ暗号の性能評価**
 ○中村 草太（農工大）・松見 湧斗・内山 一秀（ROIS/総研大/NII）・中條 拓伯（ROIS/農工大）・五島 正裕（ROIS/NII/総研大）
 
-xSIG ポスターセッション
-
 xSIG-3
-●xSIG-3
 座長：TBD
-(9) 軽量な一貫性保証と高並列性を両立するトランザクショナルメモリの設計（Outstanding Effort）
+**(9) 軽量な一貫性保証と高並列性を両立するトランザクショナルメモリの設計（Outstanding Effort）**
 ○白坂 亘・佐藤 宏樹・藤井 創悟・伊原 槻・小泉 透（名工大）・塩谷 亮太（東大）・五島 正裕（NII）・津邑 公暁（名工大）
-(10) 自動メモ化プロセッサにおける再利用区間の最適化に向けた調査
+**(10) 自動メモ化プロセッサにおける再利用区間の最適化に向けた調査**
 ○久保田 孝弘・前川 隼輝・森 隆志・宮脇 佑太・小泉 透（名工大）・塩谷 亮太（東大）・五島 正裕（NII）・津邑 公暁（名工大）
-(11) [short] リアルタイム処理向けプロセッサの優先度に基づくコンテキストキャッシュ管理機構
+**(11) [short] リアルタイム処理向けプロセッサの優先度に基づくコンテキストキャッシュ管理機構**
 ○辻巻 輝（市川高）・柳 萌代・山澤 彪（慶大）・穐山 空道（立命館大）・高前田 伸也（東大/理研）・山﨑 信行（慶大）
-(12) [short] 共有メモリ環境との記述互換性を向上させる分散トランザクショナルメモリ記法の検討
+**(12) [short] 共有メモリ環境との記述互換性を向上させる分散トランザクショナルメモリ記法の検討**
 ○小谷 哲平・佐藤 宏樹・藤井 創悟・伊原 槻・小泉 透（名工大）・塩谷 亮太（東大）・五島 正裕（NII）・津邑 公暁（名工大）
 
 xSIG-4
-●xSIG-4
 座長：TBD
-(13) 時間的並列性を活用した量子誤り訂正デコーダの実装と評価（Best UG Student）
+**(13) 時間的並列性を活用した量子誤り訂正デコーダの実装と評価（Best UG Student）**
 ○伊藤 麗生・笠村 卓矢・入江 英嗣・門本 淳一郎（東大）
-(14) Accelerating Microservice Network Stacks on Kubernetes via a Unified DSL（IEEE-CS Award）
+**(14) Accelerating Microservice Network Stacks on Kubernetes via a Unified DSL（IEEE-CS Award）**
 ○Hoku Ishibe・Siyi Hu（Toyohashi University of Technology）・Ajay Brahmakshatriya・Saman Amarasinghe（MIT CSAIL）・Yukinori Sato（Toyohashi University of Technology）
-(15) 再構成可能な初等関数演算ユニットの提案と初期評価（IEEE-CS Award）
+**(15) 再構成可能な初等関数演算ユニットの提案と初期評価（IEEE-CS Award）**
 ○小泉 透・水野 将成（名工大）・Chenlin Shi・Boma Adhi・Jiaheng Liu・Yanchen Li・佐野 健太郎（理研）
 
 xSIG-5
-●xSIG-5
 座長：TBD
-(16) Phantom Arena: Decoupling Phantom Avoidance from Index Structure（Outstanding Research）
+**(16) Phantom Arena: Decoupling Phantom Avoidance from Index Structure（Outstanding Research）**
 ○Yutaro Bessho（NTT）・Hideyuki Kawashima（Keio University）
-(17) 光学素子モデルと実用ワークロード評価に基づく光推論アクセラレータのためのシミュレータ構築（Outstanding Research）
+**(17) 光学素子モデルと実用ワークロード評価に基づく光推論アクセラレータのためのシミュレータ構築（Outstanding Research）**
 ○内田 大登・門本 淳一郎・入江 英嗣（東大）
-(18) MPI/OpenMP ハイブリッド並列向けの透過的な動的コア割当手法の提案（Best Research）
+**(18) MPI/OpenMP ハイブリッド並列向けの透過的な動的コア割当手法の提案（Best Research）**
 ○石原 悠亮・河合 直聡・陶 思晨・滝沢 寛之（東北大）
-
-クロージング・表彰
