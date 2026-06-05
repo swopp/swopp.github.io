@@ -24,13 +24,13 @@ permalink: /2026/overview/
 	- HPC: 大会議室
 	- ARC/CPSY/DC/RECONF: 企画展示室２
 	- OS: 中会議室２
-	- PRO: 中会議室２（午前），中会議室１（午後）
-    - MEPA: 中会議室１
+	- PRO: 中会議室１
+    - MEPA: 中会議室２
 - [8/7(金)](#87金)
 	- HPC: 大会議室
 	- ARC/CPSY/DC/RECONF: 企画展示室２
 	- OS: 中会議室２
-	- PRO: 中会議室１（午前）
+	- PRO: 中会議室１
 
 <br/>
 
