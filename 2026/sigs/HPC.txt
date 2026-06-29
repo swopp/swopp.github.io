@@ -114,7 +114,7 @@ HPC-8
 ○前田 椋祐（筑波大学）, 中野 将生（株式会社Preferred Networks）, 建部 修見（筑波大学）
 
 **(26) 気象サロゲートモデル学習パイプラインにおける誤差許容圧縮を用いたI/O最適化**
-○○許 ケビン（東京大学, Preferred Networks）, 福田 圭祐（Preferred Networks）, 前田 新一（Preferred Networks）
+○許 ケビン（東京大学, Preferred Networks）, 福田 圭祐（Preferred Networks）, 前田 新一（Preferred Networks）
 
 **(27) アシスタント・プロセスを用いるIn-situ可視化の実装と評価**
 ○曽我 隆（大阪大学）, 内田 孝紀（九州大学）, 伊達 進（大阪大学）
