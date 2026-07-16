@@ -15,11 +15,7 @@ permalink: /2026/program/
 # 目次
 
 - [8/5(水)](#85水)
-    - xSIG2026: 飛騨芸術堂，大会議室
-	- HPC: 54会議室(5F)
-	- ARC/CPSY/DC/RECONF: 61会議室(6F)
-	- OS: 第1小ホール(4F/5F)
-	- PRO: 62会議室(6F)
+    - xSIG2026: 飛騨芸術堂
 - [8/6(木)](#86木)
 	- HPC: 大会議室
 	- ARC/CPSY/DC/RECONF: 企画展示室２
