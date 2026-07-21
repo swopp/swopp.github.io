@@ -47,17 +47,17 @@ ARC+CPSY+DC+RECONF-3
 ○多田 光亨・金子 竜也・本村 真人（東京科学大）・平澤 将一・鯉渕 道紘（国立情報科学研究所）・藤木 大地（東京科学大）
 
 ARC+CPSY+DC+RECONF-4
-●FPGA
+●生成AI
 座長：TBD
 
-**(13) FPGAにおけるSIMTプロセッサの実装**
-○村上 舜・高野 恵輔（北陸先端大/JAIST）・井口 寧（金沢大）
+**(16) CasMMM-SA:Transformer向け多重行列乗算カスケード型シストリックアレイの設計と評価**
+○出良 敦・瀬戸 謙修（熊大）
 
-**(14) 実機DRAM計算のためのメモリコントローラアーキテクチャの検討**
-○久保 龍哉（東大/理研）・勝見 舜・篤田 大知（東大）・高前田 伸也（東大/理研）
+**(17) HiF4 Arithmetic Format for Large Language Model Inference**
+○Luo Yuanyong・Huang Jing・Hodo Yu（Huawei Technologies Co., Ltd.）・Wang Xin・Yu Chao（Huawei Technologies Japan K.K.）
 
-**(15) CGRAを用いた組込み向けグラフSLAMの並列処理手法**
-○元永 万祐子・伊藤 向子・齋藤 真（東大）・小島 拓也（筑波大）・高瀬 英希・中村 宏（東大）
+**(18) アクティブトークン更新によるMaskGITの推論効率化**
+○リ シュウカン ・市川 雄樹・木村 真人・藤木 大地・金子 竜也（科学大）
 
 ARC+CPSY+DC+RECONF-5
 ●FPGA
