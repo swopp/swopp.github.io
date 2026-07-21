@@ -60,19 +60,17 @@ ARC+CPSY+DC+RECONF-4
 ○元永 万祐子・伊藤 向子・齋藤 真（東大）・小島 拓也（筑波大）・高瀬 英希・中村 宏（東大）
 
 ARC+CPSY+DC+RECONF-5
-●生成AI
+●FPGA
 座長：TBD
 
-**(16) CasMMM-SA：Transformer向け多重行列乗算カスケード型シストリックアレイの設計と評価**
-○出良 敦・瀬戸 謙修(熊大）
+**(13) FPGAにおけるSIMTプロセッサの実装**
+○村上 舜・高野 恵輔（北陸先端大/JAIST）・井口 寧（金沢大）
 
-**(17) HiF4 Arithmetic Format for Large Language Model Inference**
-○Luo Yuanyong・Huang Jing・Hodo Yu（Huawei Technologies Co., Ltd.）・Wang Xin・Yu Chao（Huawei Technologies Japan K. K.）
+(発表取り下げ)~~**(14) 実機DRAM計算のためのメモリコントローラアーキテクチャの検討**~~
+~~○久保 龍哉（東大/理研）・勝見 舜・篤田 大知（東大）・高前田 伸也（東大/理研）~~
 
-**(18) アクティブトークン更新によるMaskGITの推論効率化**
-○リ シュウカン・市川 雄樹・本村 真人・藤木 大地・金子 竜也（科学大）
-
-**表彰**
+**(15) CGRAを用いた組込み向けグラフSLAMの並列処理手法**
+○元永 万祐子・伊藤 向子・齋藤 真（東大）・小島 拓也（筑波大）・高瀬 英希・中村 宏（東大）
 
 ARC+CPSY+DC+RECONF-6
 ●機械学習
@@ -80,7 +78,6 @@ ARC+CPSY+DC+RECONF-6
 
 **(19) イベントカメラを用いた教師なし異常検知のFPGAハードウェア化に関する検討**
 ○楊 輝・杉浦 圭祐・小島 拓也・山口 佳樹（筑波大）
-
 **(20) ラインベース推論による画像マッティングの検討**
 ○杉浦 圭祐・小島 拓也・山口 佳樹（筑波大）・津上 諒平・藤原 稔久・福井 達也・成川 聖（NTT Access Network）
 
@@ -103,6 +100,8 @@ ARC+CPSY+DC+RECONF-7
 **(25) STRAIGHTアーキテクチャにおけるサイクリックケジューラのエントリ効率評価**
 ○鄭 風音・杉田 脩・入江 英嗣（東大）
 
+**表彰**
+
 ARC+CPSY+DC+RECONF-8
 ●次世代コンピューティング
 座長：TBD
@@ -118,6 +117,7 @@ ARC+CPSY+DC+RECONF-8
 
 **(29) 量子誤り訂正に向けたqLDPC符号Min-Sum型Relay-BP復号器のFPGA実装**
 ○ウェイ カイジ（慶応大）・天野 英晴（東大）
+
 
 ARC+CPSY+DC+RECONF-9
 ●信頼性
