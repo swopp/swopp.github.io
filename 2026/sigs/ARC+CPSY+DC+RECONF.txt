@@ -69,8 +69,8 @@ ARC+CPSY+DC+RECONF-5
 (発表取り下げ)~~**(14) 実機DRAM計算のためのメモリコントローラアーキテクチャの検討**~~
 ~~○久保 龍哉（東大/理研）・勝見 舜・篤田 大知（東大）・高前田 伸也（東大/理研）~~
 
-**(15) CGRAを用いた組込み向けグラフSLAMの並列処理手法**
-○元永 万祐子・伊藤 向子・齋藤 真（東大）・小島 拓也（筑波大）・高瀬 英希・中村 宏（東大）
+**(15) Exploring CGRA-Based Acceleration of Graph-Based SLAM on Embedded**
+○Mayuko Motonaga・Hisako Ito・Makoto Saito（UTokyo）・Takuya Kojima（Univ. of Tsukuba/Utokyo）・Hideki Takase・Hiroshi Nakamura（UTokyo）
 
 ARC+CPSY+DC+RECONF-6
 ●機械学習
