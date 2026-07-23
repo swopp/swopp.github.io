@@ -1,7 +1,7 @@
 xSIG-1
-座長：TBD
+座長：宮崎 純（東京科学大）
 **(1) 時刻変化するワークロードのためのスキーマ最適化（Outstanding UG Student Award）**
-○増田 莞爾・アンダーソン 圭那・Yohanes Yohanie Fridelin Panduman・鬼塚 真（阪大）
+○増田 莞爾・アンダーソン 圭那・Yohanes Yohanie Fridelin Panduman・鬼塚 真（阪大）（オンライン発表）
 **(2) 実ワークロードの実証分析に基づくクエリ言語の設計（Best Master's Student Award）**
 ○アンダーソン 圭那・Yohanes Yohanie Fridelin Panduman（阪大）・斉藤 太郎（Treasure Data）・鬼塚 真（阪大）
 **(3) コード解析に基づくホスト-デバイス間データ転送の半自動化（Outstanding Presentation Award）**
@@ -10,7 +10,7 @@ xSIG-1
 ○中辻 雅己・下村 陽一・河合 直聡（東北大）・近者 敦彦・岩崎 貴志・崔 国慶（三井共同建設コンサルタント）・滝沢 寛之（東北大）
 
 xSIG-2
-座長：TBD
+座長：河合 直聡（東北大）
 **(5) UVM利用時のPTX命令順序最適化手法**
 ○林 大瑛・巽 友佑・小泉 透・津邑 公暁（名工大）
 **(6) ユニバーサルTEEアーキテクチャにおけるGeneralized Nested Virtualization（Outstanding Master's Student Award）**
@@ -21,7 +21,7 @@ xSIG-2
 ○中村 草太（農工大）・松見 湧斗・内山 一秀（ROIS/総研大/NII）・中條 拓伯（ROIS/農工大）・五島 正裕（ROIS/NII/総研大）
 
 xSIG-3
-座長：TBD
+座長：八杉 昌宏（九工大）
 **(9) 軽量な一貫性保証と高並列性を両立するトランザクショナルメモリの設計（Outstanding Effort Award）**
 ○白坂 亘・佐藤 宏樹・藤井 創悟・伊原 槻・小泉 透（名工大）・塩谷 亮太（東大）・五島 正裕（NII）・津邑 公暁（名工大）
 **(10) 自動メモ化プロセッサにおける再利用区間の最適化に向けた調査**
@@ -32,7 +32,7 @@ xSIG-3
 ○小谷 哲平・佐藤 宏樹・藤井 創悟・伊原 槻・小泉 透（名工大）・塩谷 亮太（東大）・五島 正裕（NII）・津邑 公暁（名工大）
 
 xSIG-4
-座長：TBD
+座長：藤枝 直輝（愛知工大）
 **(13) 時間的並列性を活用した量子誤り訂正デコーダの実装と評価（Best UG Student Award）**
 ○伊藤 麗生・笠村 卓矢・入江 英嗣・門本 淳一郎（東大）
 **(14) Accelerating Microservice Network Stacks on Kubernetes via a Unified DSL（Outstanding Research Award）**
@@ -41,7 +41,7 @@ xSIG-4
 ○小泉 透・水野 将成（名工大）・Chenlin Shi・Boma Adhi・Jiaheng Liu・Yanchen Li・佐野 健太郎（理研）
 
 xSIG-5
-座長：TBD
+座長：安戸 僚汰（京大）
 **(16) Phantom Arena: Decoupling Phantom Avoidance from Index Structure（Outstanding Research Award）**
 ○Yutaro Bessho（NTT）・Hideyuki Kawashima（Keio University）
 **(17) 光学素子モデルと実用ワークロード評価に基づく光推論アクセラレータのためのシミュレータ構築（IEEE-CS Award）**
